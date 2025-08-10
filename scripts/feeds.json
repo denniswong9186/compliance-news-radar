@@ -4,7 +4,9 @@
   ],
   "UK": [
     "https://www.fca.org.uk/news/rss.xml",
-    "https://ofsi.blog.gov.uk/feed/atom/"
+    "https://ofsi.blog.gov.uk/feed/atom/",
+    "https://www.gov.uk/government/organisations/hm-treasury.atom",
+    "<<<PASTE THE BANK OF ENGLAND *NEWS* RSS URL HERE>>>"
   ],
   "Hong Kong": [
     "https://www.hkma.gov.hk/eng/other-information/rss/rss_press-release.xml"
@@ -14,15 +16,18 @@
   ],
   "Australia": [
     "https://www.austrac.gov.au/news-and-media/media-release/rss.xml",
-    "https://www.rba.gov.au/rss/media-releases.xml"
+    "https://www.rba.gov.au/rss/media-releases.xml",
+    "https://asic.gov.au/about-asic/news-centre/find-a-media-release/?output=rss",
+    "https://www.apra.gov.au/news-and-publications/rss"
   ],
   "Singapore": [
-    "https://www.mas.gov.sg/rss/feeds/news-releases", 
-    "https://www.mas.gov.sg/rss/feeds/speeches"
+    "https://www.mas.gov.sg/rss/feeds/news-releases",
+    "https://www.mas.gov.sg/rss/feeds/speeches",
+    "https://www.mas.gov.sg/rss/feeds/consultation-papers",
+    "https://www.mas.gov.sg/rss/feeds/notices"
   ],
   "US": [
     "https://www.fincen.gov/rss.xml",
     "https://www.sec.gov/news/pressreleases.rss"
   ]
 }
-
