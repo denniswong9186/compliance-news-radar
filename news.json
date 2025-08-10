@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-08-10T17:29:01.145Z",
+  "generatedAt": "2025-08-10T18:23:06.157Z",
   "items": [
     {
       "title": "The EBA publishes statement confirming its response to the new European Commission’s Delegated Act postponing the market risk framework in the EU",
@@ -78,6 +78,15 @@
         "HKMA",
         "Regulator"
       ]
+    },
+    {
+      "title": "Bank Rate reduced to 4% - August 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/august-2025",
+      "source": "News",
+      "publishedAt": "2025-08-07T11:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "tags": []
     },
     {
       "title": "Guidance: OFSI General Licence INT/2022/2085212",
@@ -286,8 +295,8 @@
       "summary": "The administrative monetary penalties program supports FINTRAC's mandate by providing a measured and proportionate response to particular instances of non-compliance.",
       "tags": [
         "Canada",
-        "FINTRAC",
-        "Regulator"
+        "CRA",
+        "FCAC"
       ]
     },
     {
@@ -299,9 +308,18 @@
       "summary": "Learn about FINTRAC's framework that guides the Centre's supervisory activities that ensure compliance with the Proceeds of Crime (Money Laundering) and Terrorist Financing Act.",
       "tags": [
         "Canada",
-        "FINTRAC",
-        "Regulator"
+        "CRA",
+        "FCAC"
       ]
+    },
+    {
+      "title": "Minutes of the Meeting of the Court of Directors held on 6 June 2025",
+      "link": "https://www.bankofengland.co.uk/minutes/2025/june/court-june-2025",
+      "source": "News",
+      "publishedAt": "2025-08-06T13:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank's Court of Directors acts as a unitary board, setting the organisation's strategy and budget and taking key decisions on resourcing and appointments. Required to meet a minimum seven times per year, it has five ",
+      "tags": []
     },
     {
       "title": "The EBA publishes its final draft technical standards on the equivalent legal mechanism for unfinished property exposures under the Standardised Approach for credit risk",
@@ -601,6 +619,28 @@
       "tags": []
     },
     {
+      "title": "FCAC calls on banks to improve handling of consumer complaints",
+      "link": "https://www.canada.ca/en/financial-consumer-agency/news/2025/07/fcac-calls-on-banks-to-improve-handling-of-consumer-complaints.html",
+      "source": "Financial Consumer Agency of Canada",
+      "publishedAt": "2025-07-31T13:00:00.000Z",
+      "region": "Canada",
+      "summary": "FCAC calls on banks to improve handling of consumer complaints",
+      "tags": [
+        "Canada",
+        "CRA",
+        "FCAC"
+      ]
+    },
+    {
+      "title": "Prudential Regulation Authority unveils options to enhance competition in the mortgage market",
+      "link": "https://www.bankofengland.co.uk/news/2025/july/pra-unveils-options-to-enhance-competition-in-the-mortgage-market",
+      "source": "News",
+      "publishedAt": "2025-07-31T09:00:00.000Z",
+      "region": "UK",
+      "summary": "The Prudential Regulation Authority has unveiled a series of possible options to make it easier for mid-sized firms to scale-up and compete in the residential mortgage market, and is now opening a wide discussion with in",
+      "tags": []
+    },
+    {
       "title": "Penalty issued for breach of Russia Sanctions",
       "link": "https://www.gov.uk/government/news/penalty-issued-for-breach-of-russia-sanctions",
       "source": "HM Treasury - Activity on GOV.UK",
@@ -745,6 +785,24 @@
       "tags": []
     },
     {
+      "title": "Minutes of the UK Money Markets Code Sub-Committee – June 2025",
+      "link": "https://www.bankofengland.co.uk/minutes/2025/july/money-markets-committee-minutes-june-2025",
+      "source": "News",
+      "publishedAt": "2025-07-29T10:05:41.000Z",
+      "region": "UK",
+      "summary": "The Money Markets Committee is a forum for market participants and authorities to discuss the UK unsecured deposits and funding market and securities lending and repo markets.",
+      "tags": []
+    },
+    {
+      "title": "Jackie Bennett OBE re-appointed as Residential Property Forum Chair",
+      "link": "https://www.bankofengland.co.uk/news/2025/july/jackie-bennett-obe-re-appointed-as-residential-property-forum-chair",
+      "source": "News",
+      "publishedAt": "2025-07-29T09:00:00.000Z",
+      "region": "UK",
+      "summary": "Jackie Bennett OBE has been re-appointed for a second term as the Chair for the Residential Property Forum (RPF) – a Bank of England convened, industry-led group, which helps monitor the residential property sector in th",
+      "tags": []
+    },
+    {
       "title": "Chancellor pledges to unlock growth in Cornwall",
       "link": "https://www.gov.uk/government/news/chancellor-pledges-to-unlock-growth-in-cornwall",
       "source": "HM Treasury - Activity on GOV.UK",
@@ -780,6 +838,15 @@
       ]
     },
     {
+      "title": "The PRA fines Barents Reinsurance S.A., London Branch £1,785,000 for internal controls, governance and reporting failures",
+      "link": "https://www.bankofengland.co.uk/news/2025/july/pra-fines-barents-reinsurance-sa-london-branch",
+      "source": "News",
+      "publishedAt": "2025-07-28T09:00:00.000Z",
+      "region": "UK",
+      "summary": "The Prudential Regulation Authority has fined Barents Reinsurance S.A., London Branch £1,785,000 for failing to organise and control its affairs responsibly and effectively, as well as governance and regulatory reporting",
+      "tags": []
+    },
+    {
       "title": "Complaints Watch Issue No. 26",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/07/20250728-4/",
       "source": "HKMA: Press Releases",
@@ -791,6 +858,50 @@
         "HKMA",
         "Regulator"
       ]
+    },
+    {
+      "title": "Reminder: Tax Free Savings Account – Watch your limit and stay within it!",
+      "link": "https://www.canada.ca/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2025/tax-free-savings-account-limit.html?rss",
+      "source": "Newsroom",
+      "publishedAt": "2025-07-24T14:00:00.000Z",
+      "region": "Canada",
+      "summary": "Canadians have been contributing to tax-free savings accounts (TFSA) since 2009, enjoying tax-free investment growth. Did you know that it’s possible to overcontribute and be subject to tax?",
+      "tags": [
+        "Canada",
+        "CRA",
+        "FCAC"
+      ]
+    },
+    {
+      "title": "PRA to accelerate authorisations for UK Insurance Special Purpose Vehicles",
+      "link": "https://www.bankofengland.co.uk/news/2025/july/pra-to-accelerate-authorisations-for-uk-insurance-special-purpose-vehicles",
+      "source": "News",
+      "publishedAt": "2025-07-24T09:00:00.000Z",
+      "region": "UK",
+      "summary": "Today, the Prudential Regulation Authority (PRA) published policy statement (PS) 9/25 containing its final policy and its feedback to responses received to consultation CP15/24.",
+      "tags": []
+    },
+    {
+      "title": "Make the most of your first home savings account",
+      "link": "https://www.canada.ca/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2025/make-most-your-first-home-savings-account.html?rss",
+      "source": "Newsroom",
+      "publishedAt": "2025-07-22T14:00:00.000Z",
+      "region": "Canada",
+      "summary": "A First Home Savings Account (FHSA) lets you save for a qualifying home with tax-free growth and tax-deductible contributions, making it a great option for potential first-time home buyers.",
+      "tags": [
+        "Canada",
+        "CRA",
+        "FCAC"
+      ]
+    },
+    {
+      "title": "Results of the Foreign Exchange Joint Standing Committee (FXJSC) Turnover Survey for April 2025",
+      "link": "https://www.bankofengland.co.uk/markets/london-foreign-exchange-joint-standing-committee/results-of-the-semi-annual-fx-turnover-survey-april-2025",
+      "source": "News",
+      "publishedAt": "2025-07-22T13:00:00.000Z",
+      "region": "UK",
+      "summary": "See the headline results from an April 2025 survey of 25 financial institutions that are active in the UK foreign exchange market.",
+      "tags": []
     },
     {
       "title": "SEC Announces George Botic to Serve as Acting Chair of the Public Company Accounting Oversight Board",
@@ -819,6 +930,15 @@
       ]
     },
     {
+      "title": "Bank of England and Financial Conduct Authority – Memorandum of Understanding on the supervision of Financial Market Infrastructure",
+      "link": "https://www.bankofengland.co.uk/news/2025/july/boe-fca-mou-on-supervision-of-fmi",
+      "source": "News",
+      "publishedAt": "2025-07-21T09:13:44.000Z",
+      "region": "UK",
+      "summary": "Joint statement from the Bank of England and Financial Conduct Authority",
+      "tags": []
+    },
+    {
       "title": "News release: ASC alleges breach of Alberta securities laws by crypto asset trading platform",
       "link": "https://www.asc.ca/en/news-and-publications/news-releases/2025/07/17-asc-alleges-breach-of-alberta-securities-laws-by-crypto-asset-trading-platform-catalx-cts-ltd",
       "source": "Financial Transactions and Reports Analysis Centre of Canada",
@@ -837,6 +957,91 @@
       "tags": []
     },
     {
+      "title": "Marjorie Ngwenya reappointed to the Prudential Regulation Committee",
+      "link": "https://www.bankofengland.co.uk/news/2025/july/marjorie-ngwenya-reappointed-to-prc",
+      "source": "News",
+      "publishedAt": "2025-07-17T15:30:00.000Z",
+      "region": "UK",
+      "summary": "The Economic Secretary to the Treasury has today confirmed the reappointment of Marjorie Ngwenya as an External Member of the Prudential Regulation Committee (PRC).",
+      "tags": []
+    },
+    {
+      "title": "Important changes to how tax preparers obtain access to an individual’s account",
+      "link": "https://www.canada.ca/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2025/important-changes-how-tax-preparers-obtain-access-individual-account.html?rss",
+      "source": "Newsroom",
+      "publishedAt": "2025-07-17T14:00:00.000Z",
+      "region": "Canada",
+      "summary": "The Canada Revenue Agency (CRA) is enhancing and changing its authorization service for individuals. Here is what you need to know.",
+      "tags": [
+        "Canada",
+        "CRA",
+        "FCAC"
+      ]
+    },
+    {
+      "title": "Remit and recommendations for the  Financial Market Infrastructure Committee - July 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/july/remit-and-recommendations-for-the-fmic",
+      "source": "News",
+      "publishedAt": "2025-07-15T11:00:16.000Z",
+      "region": "UK",
+      "summary": "Exchange of letters between the Governor and the Deputy Governor for Financial Stability to the Chancellor",
+      "tags": []
+    },
+    {
+      "title": "Minutes of the London FXJSC Main Committee Meeting - 13 March 2025",
+      "link": "https://www.bankofengland.co.uk/minutes/2024/march/fxjsc-main-committee-meeting-13-march-2025",
+      "source": "News",
+      "publishedAt": "2025-07-15T10:14:05.000Z",
+      "region": "UK",
+      "summary": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC), which is a forum for discussion of the wholesale foreign exchange market. The FXJSC is made up of market participants, infrastructu",
+      "tags": []
+    },
+    {
+      "title": "Minutes of the London FXJSC Legal Sub-committee Meeting – 5 March 2025",
+      "link": "https://www.bankofengland.co.uk/minutes/2024/march/fxjsc-legal-sub-committee-meeting-5-march-2025",
+      "source": "News",
+      "publishedAt": "2025-07-15T10:09:30.000Z",
+      "region": "UK",
+      "summary": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC) Legal Sub-Committee. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators.",
+      "tags": []
+    },
+    {
+      "title": "Minutes of the London FXJSC Operations Sub-committee Meeting – 26 February 2025",
+      "link": "https://www.bankofengland.co.uk/minutes/2025/february/fxjsc-operations-sub-committee-meeting-26-february-2025",
+      "source": "News",
+      "publishedAt": "2025-07-15T09:30:25.000Z",
+      "region": "UK",
+      "summary": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC) Operations Sub-Committee. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators.",
+      "tags": []
+    },
+    {
+      "title": "FCA and PRA cut senior manager regime red tape to help boost growth",
+      "link": "https://www.bankofengland.co.uk/news/2025/july/fca-pra-cut-senior-manager-regime-red-tape",
+      "source": "News",
+      "publishedAt": "2025-07-15T09:15:00.000Z",
+      "region": "UK",
+      "summary": "In the first phase of reforms to the SM&CR, the FCA and PRA are proposing to streamline the regime to make it more effective and efficient and to drive growth in financial services.",
+      "tags": []
+    },
+    {
+      "title": "Payments Vision Delivery Committee update",
+      "link": "https://www.bankofengland.co.uk/news/2025/july/a-new-approach-to-retail-payments-infrastructure",
+      "source": "News",
+      "publishedAt": "2025-07-15T09:00:00.000Z",
+      "region": "UK",
+      "summary": "The National Payments Vision set out the government’s ambitions for a world-leading payments ecosystem which drives innovation, supports competition and ensures security, in line with the Growth Mission.",
+      "tags": []
+    },
+    {
+      "title": "Bank of England announces  measures to promote banking resilience, capital certainty, competition and growth",
+      "link": "https://www.bankofengland.co.uk/news/2025/july/boe-announces-measures-to-promote-banking-resilience",
+      "source": "News",
+      "publishedAt": "2025-07-15T06:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England (‘the Bank’) has announced a package of measures designed to maintain stability in the financial sector while offering new growth opportunities for mid-sized banks and building societies.",
+      "tags": []
+    },
+    {
       "title": "FINTRAC updates its guidance related to the Ministerial Directive on the Islamic Republic of Iran",
       "link": "https://fintrac-canafe.canada.ca/obligations/dir-iri-eng",
       "source": "Financial Transactions and Reports Analysis Centre of Canada",
@@ -845,8 +1050,8 @@
       "summary": "The Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) publishes important updates to its guidance related to the Ministerial Directive on Financial Transactions Associated with the Islamic Republic o",
       "tags": [
         "Canada",
-        "FINTRAC",
-        "Regulator"
+        "CRA",
+        "FCAC"
       ]
     },
     {
@@ -858,8 +1063,8 @@
       "summary": "This Special Bulletin supports businesses subject to the Proceeds of Crime (Money Laundering) and Terrorist Financing Act in recognizing financial transactions associated with the suspected evasion of sanctions related t",
       "tags": [
         "Canada",
-        "FINTRAC",
-        "Regulator"
+        "CRA",
+        "FCAC"
       ]
     },
     {
@@ -884,9 +1089,18 @@
       "summary": "<div type=\"html\"/>",
       "tags": [
         "Canada",
-        "FINTRAC",
-        "Regulator"
+        "CRA",
+        "FCAC"
       ]
+    },
+    {
+      "title": "Artificial Intelligence Consortium minutes – May 2025",
+      "link": "https://www.bankofengland.co.uk/minutes/2025/may/ai-consortium-minutes-2-may-2025",
+      "source": "News",
+      "publishedAt": "2025-07-10T13:44:00.000Z",
+      "region": "UK",
+      "summary": "The Artificial Intelligence Consortium (AIC) aims to provide a platform for public-private engagement to further dialogue on the capabilities, development, deployment, use, and potential risks of artificial intelligence ",
+      "tags": []
     },
     {
       "title": "July 9, 2025 – FINTRAC advisory: Financial transactions related to countries identified by the Financial Action Task Force",
@@ -897,9 +1111,27 @@
       "summary": "FINTRAC advisories are issued following every Financial Action Task Force (FATF) Plenary meeting to advise reporting entities of concerns about deficiencies in the anti-money laundering and anti-terrorist activity financ",
       "tags": [
         "Canada",
-        "FINTRAC",
-        "Regulator"
+        "CRA",
+        "FCAC"
       ]
+    },
+    {
+      "title": "The Bank of England fines Vocalink Limited £11,900,000 for a compliance failure",
+      "link": "https://www.bankofengland.co.uk/news/2025/july/boe-fines-vocalink-limited",
+      "source": "News",
+      "publishedAt": "2025-07-09T13:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England (the “Bank”) has fined Vocalink Limited (“Vocalink”) £11,900,000 in respect of a compliance failure under section 196 of the Banking Act 2009 (the “Act”). This is the first time the Bank has fined a f",
+      "tags": []
+    },
+    {
+      "title": "Financial Policy Committee Record – July 2025",
+      "link": "https://www.bankofengland.co.uk/financial-policy-committee-record/2025/july-2025",
+      "source": "News",
+      "publishedAt": "2025-07-09T09:30:00.000Z",
+      "region": "UK",
+      "summary": "Our Financial Policy Committee (FPC) meets to identify risks to financial stability and agree policy actions aimed at safeguarding the resilience of the UK financial system.",
+      "tags": []
     },
     {
       "title": "SEC Small Business Advisory Committee to Discuss Regulatory Framework for Finders and Continue Exploring Regulation A",
@@ -915,6 +1147,15 @@
       ]
     },
     {
+      "title": "Lloyd’s managing agent authorisation process to be streamlined to support growth",
+      "link": "https://www.bankofengland.co.uk/news/2025/july/lloyds-managing-agent-authorisation-process-to-be-streamlined-to-support-growth",
+      "source": "News",
+      "publishedAt": "2025-07-07T09:00:00.000Z",
+      "region": "UK",
+      "summary": "The PRA, FCA and the Society of Lloyd’s have agreed changes to streamline the process of regulatory approval for Lloyd’s managing agents, intended to reduce the timeframe for authorisation.",
+      "tags": []
+    },
+    {
       "title": "News release: FINTRAC imposes an administrative monetary penalty on Canaccord Genuity Corp.",
       "link": "https://fintrac-canafe.canada.ca/new-neuf/nr/2025-07-03-eng",
       "source": "Financial Transactions and Reports Analysis Centre of Canada",
@@ -923,8 +1164,8 @@
       "summary": "Canaccord Genuity Corp., an investment dealer headquartered in Vancouver, British Columbia, was imposed an administrative monetary penalty of $544,500 for committing 4 violations.",
       "tags": [
         "Canada",
-        "FINTRAC",
-        "Regulator"
+        "CRA",
+        "FCAC"
       ]
     },
     {
@@ -934,6 +1175,33 @@
       "publishedAt": "2025-07-02T18:46:58.000Z",
       "region": "Canada",
       "summary": "FINTRAC’s financial intelligence was recognized in an investigation by the RCMP Northwest Region Federal Policing’s Integrated Money Laundering Investigative Team. The two accused individuals, who owned and operated a mo",
+      "tags": []
+    },
+    {
+      "title": "Bank of England launches consultation on future banknote designs",
+      "link": "https://www.bankofengland.co.uk/news/2025/july/boe-launches-consultation-on-future-banknote-designs",
+      "source": "News",
+      "publishedAt": "2025-07-01T23:01:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England is asking the public to give their views on what theme they would like to see represented in the design of the next series of banknotes – through a consultation launching today (2 July 2025).",
+      "tags": []
+    },
+    {
+      "title": "Statistical Notice 2025/04 - Bank of England Levy: Notification Document Levy Year 2025/26",
+      "link": "https://www.bankofengland.co.uk/statistics/notice/2025/statistical-notice-2025-04",
+      "source": "News",
+      "publishedAt": "2025-06-30T09:49:10.000Z",
+      "region": "UK",
+      "summary": "Statistical Notices update the definitions and guidance contained in the Banking Statistics Yellow Folder",
+      "tags": []
+    },
+    {
+      "title": "Evaluation of horizon scanning",
+      "link": "https://www.bankofengland.co.uk/independent-evaluation-office/ieo-report-june-2025",
+      "source": "News",
+      "publishedAt": "2025-06-27T09:30:00.000Z",
+      "region": "UK",
+      "summary": "In December 2023 the Bank’s Court of Directors commissioned its Independent Evaluation Office (IEO) to conduct an evaluation of whether the Bank uses horizon scanning effectively to inform decision-making and support its",
       "tags": []
     },
     {
@@ -948,6 +1216,15 @@
         "SEC",
         "Regulator"
       ]
+    },
+    {
+      "title": "The Bank of England's supervision of financial market infrastructures - Annual Report 2025",
+      "link": "https://www.bankofengland.co.uk/news/2025/june/financial-market-infrastructures-annual-report-2025",
+      "source": "News",
+      "publishedAt": "2025-06-26T11:00:00.000Z",
+      "region": "UK",
+      "summary": "The FMI Annual Report sets out how the Bank has exercised its responsibilities in respect of supervising financial market infrastructures since the last report.",
+      "tags": []
     },
     {
       "title": "SEC Extends Compliance Date to Help Broker-Dealers Fully Test and Implement Daily Reserve Computation Requirement",
@@ -989,6 +1266,15 @@
       ]
     },
     {
+      "title": "The Bank of England, Financial Conduct Authority, Prudential Regulation Authority, and Payment Systems Regulator revise Memorandum of Understanding in relation to payments in the UK",
+      "link": "https://www.bankofengland.co.uk/news/2025/june/boe-fca-pra-psr-revise-mou-in-relation-to-payments-in-the-uk",
+      "source": "News",
+      "publishedAt": "2025-06-24T09:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England (the Bank), the Financial Conduct Authority (FCA), the Prudential Regulation Authority (PRA), and the Payment Systems Regulator (PSR) (the Authorities) have a Memorandum of Understanding (MoU) which s",
+      "tags": []
+    },
+    {
       "title": "Kevin Muhlendorf Named SEC Inspector General",
       "link": "https://www.sec.gov/newsroom/press-releases/2025-92-kevin-muhlendorf-named-sec-inspector-general",
       "source": "Press Releases",
@@ -1011,6 +1297,42 @@
       "tags": []
     },
     {
+      "title": "Letter from Andrew Bailey 'The Bank’s policies on reserve accounts and Quantitative Tightening.'",
+      "link": "https://www.bankofengland.co.uk/letter/2025/june/letter-to-richard-tice",
+      "source": "News",
+      "publishedAt": "2025-06-23T13:15:00.000Z",
+      "region": "UK",
+      "summary": "Letter to Richard Tice MP",
+      "tags": []
+    },
+    {
+      "title": "Bank of England renews its commitment to adhere to the FX Global Code",
+      "link": "https://www.bankofengland.co.uk/news/2025/june/boe-renews-its-commitment-to-adhere-to-the-fx-global-code",
+      "source": "News",
+      "publishedAt": "2025-06-23T09:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England (BoE) has renewed the Statement of Commitment to the FX Global Code (‘Code’) based on the revised Code dated December 2024",
+      "tags": []
+    },
+    {
+      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 20 June 2025",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/june/apf-gilt-sales-market-notice-20-june-2025",
+      "source": "News",
+      "publishedAt": "2025-06-20T15:30:00.000Z",
+      "region": "UK",
+      "summary": "This Market Notice sets out the schedule for sales in Q3 2025 of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes.",
+      "tags": []
+    },
+    {
+      "title": "Minutes of the Meeting of the Court of Directors held on 10 April 2025",
+      "link": "https://www.bankofengland.co.uk/minutes/2025/april/court-april-2025",
+      "source": "News",
+      "publishedAt": "2025-06-20T13:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank's Court of Directors acts as a unitary board, setting the organisation's strategy and budget and taking key decisions on resourcing and appointments. Required to meet a minimum seven times per year, it has five ",
+      "tags": []
+    },
+    {
       "title": "SEC Announces Departure of David Saltiel",
       "link": "https://www.sec.gov/newsroom/press-releases/2025-91-sec-announces-departure-david-saltiel",
       "source": "Press Releases",
@@ -1021,6 +1343,19 @@
         "US",
         "SEC",
         "Regulator"
+      ]
+    },
+    {
+      "title": "Speech by FCAC Commissioner Shereen Benzvy Miller for the Open Banking Expo Canada 2025",
+      "link": "https://www.canada.ca/en/financial-consumer-agency/news/2025/06/open-banking-expo-2025.html",
+      "source": "Financial Consumer Agency of Canada",
+      "publishedAt": "2025-06-17T13:40:00.000Z",
+      "region": "Canada",
+      "summary": "Speech by FCAC Commissioner Shereen Benzvy Miller for the Open Banking Expo Canada 2025",
+      "tags": [
+        "Canada",
+        "CRA",
+        "FCAC"
       ]
     },
     {
@@ -1084,8 +1419,8 @@
       "summary": "Hub Capital Inc., an independent wealth management firm in Woodbridge, Ontario, was imposed an administrative monetary penalty of $99,000 for committing 4 violations.",
       "tags": [
         "Canada",
-        "FINTRAC",
-        "Regulator"
+        "CRA",
+        "FCAC"
       ]
     },
     {
