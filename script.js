@@ -79,7 +79,7 @@ function render() {
 
   grid.innerHTML = items.map(it => {
     const tagHtml = (it.tags && it.tags.length)
-      ? `<div class="tags">${it.tags.slice(0,6).map(t => `<span class="tag">${escapeHtml(t)}</span>`).join('')}</div>`
+      ? `<div class="tags">${it.tags.slice(0, 6).map(t => `<span class="tag">${escapeHtml(t)}</span>`).join('')}</div>`
       : '';
     return `
       <article class="card">
@@ -87,7 +87,10 @@ function render() {
         <h2 class="title"><a href="${it.link}" target="_blank" rel="noopener">${escapeHtml(it.title)}</a></h2>
         ${tagHtml}
         <div class="summary">${escapeHtml(it.summary || '')}</div>
-        <div class="meta"><span>${new Date(it.publishedAt).toLocaleDateString()}</span><span>${fmtDate(it.publishedAt)}</span></div>
+        <div class="meta">
+          <span>${new Date(it.publishedAt).toLocaleDateString()}</span>
+          <span>${fmtDate(it.publishedAt)}</span>
+        </div>
       </article>
     `;
   }).join('');
@@ -146,3 +149,4 @@ searchEl.addEventListener('input', (e) => {
 /* -------------------------------------- */
 
 init();
+
