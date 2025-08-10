@@ -20,10 +20,16 @@ const parser = new Parser({
 // Map hostnames to tags for secondary filters (Visa/Mastercard, regulators, etc.)
 const SOURCE_TAGS = [
   // Canada
-  { host: "fintrac-canafe.canada.ca", tags: ["Canada","FINTRAC","Regulator"] },
-  { host: "bankofcanada.ca",          tags: ["Canada","Bank of Canada","Regulator"] },
-  { host: "fcac-acfc.gc.ca",          tags: ["Canada","FCAC","Regulator"] },
-  { host: "osc.ca",                   tags: ["Canada","OSC","Regulator"] },
+  // Canada regulators
+  { host: "osfi-bsif.gc.ca",         tags: ["Canada","OSFI","Regulator"] },
+  { host: "priv.gc.ca",              tags: ["Canada","PIPEDA","OPC","Regulator"] },
+  { host: "lautorite.qc.ca",         tags: ["Canada","AMF","Regulator"] },
+  { host: "rcmp-grc.gc.ca",          tags: ["Canada","RCMP"] },
+  { host: "cdic.ca",                 tags: ["Canada","CDIC","Regulator"] },
+  { host: "canada.ca",               tags: ["Canada","CRA","FCAC"] }, // generic host used by CRA/FCAC
+  { host: "ised-isde.canada.ca",     tags: ["Canada","CASL"] },
+  // (keep your existing FINTRAC, etc.)
+
   // UK / HK / EU / AU / SG / US
   { host: "fca.org.uk",               tags: ["UK","FCA","Regulator"] },
   { host: "hkma.gov.hk",              tags: ["Hong Kong","HKMA","Regulator"] },
@@ -47,17 +53,34 @@ function applyTags(items) {
   return items.map(it => {
     const h = hostname(it.link);
     let tags = [];
+
+    // 1) Host-based tagging (what you already had)
     for (const rule of SOURCE_TAGS) {
       if (h.endsWith(rule.host)) tags = tags.concat(rule.tags);
     }
-    // Also detect Visa/Mastercard mentions in the title
+
+    // 2) Title-based tagging for card networks on wires
     const t = (it.title || "").toLowerCase();
     if (t.includes("mastercard")) tags.push("Mastercard");
     if (t.includes("visa "))       tags.push("Visa");
+
+    // 3) NEW: Source-name fallback (helps when host is generic like canada.ca)
+    const s = (it.source || "").toLowerCase();
+    if (s.includes("financial consumer agency")) tags.push("FCAC", "Canada");
+    if (s.includes("canada revenue"))            tags.push("CRA", "Canada");
+    if (s.includes("office of the privacy"))     tags.push("PIPEDA", "OPC", "Canada");
+    if (s.includes("office of the superintendent of financial institutions")) tags.push("OSFI", "Canada");
+    if (s.includes("autorité des marchés financiers") || s.includes("autorite des marches financiers")) tags.push("AMF", "Canada");
+    if (s.includes("royal canadian mounted police") || s.includes("rcmp")) tags.push("RCMP", "Canada");
+    if (s.includes("canada deposit insurance"))  tags.push("CDIC", "Canada");
+    if (s.includes("canadian anti-spam legislation") || s.includes("casl")) tags.push("CASL", "Canada");
+
+    // 4) De-dup and attach
     it.tags = Array.from(new Set(tags));
     return it;
   });
 }
+
 
 
 function dedupe(items) {
