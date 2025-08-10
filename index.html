@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Compliance News Radar</title>
+  <meta name="description" content="Auto-updated compliance/AML news with region filters." />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 100 100%27><text y=%27.9em%27 font-size=%2790%27>🛰️</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="container">
+    <h1>Compliance News Radar</h1>
+    <p class="sub">Auto-grab major compliance updates. Filter by region. Summaries generated with OpenAI (optional).</p>
+    <div id="meta"></div>
+    <div class="controls">
+      <div class="filters" id="filters">
+        <button data-region="All" class="pill active">All</button>
+        <button data-region="Canada" class="pill">Canada</button>
+        <button data-region="UK" class="pill">UK</button>
+        <button data-region="Hong Kong" class="pill">Hong Kong</button>
+        <button data-region="EU" class="pill">EU</button>
+        <button data-region="Australia" class="pill">Australia</button>
+      </div>
+      <input id="search" class="search" type="search" placeholder="Search headline..." />
+    </div>
+  </header>
+
+  <main class="container">
+    <div id="grid" class="grid"></div>
+    <div id="empty" class="empty hidden">No results. Try a different filter or search.</div>
+  </main>
+
+  <footer class="container foot">
+    <div>Data updates via GitHub Actions. <a href="news.json" target="_blank" rel="noopener">View raw feed</a></div>
+    <div><a href="https://github.com/" target="_blank" rel="noopener">Hosted on GitHub Pages</a></div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

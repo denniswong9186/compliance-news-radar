@@ -1,0 +1,13 @@
+{
+  "name": "compliance-news-scripts",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Fetch compliance news from regulator RSS feeds and optionally summarize with OpenAI.",
+  "license": "MIT",
+  "dependencies": {
+    "openai": "^4.56.0",
+    "rss-parser": "^3.12.0",
+    "node-fetch": "^3.3.2"
+  }
+}
