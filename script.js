@@ -7,7 +7,9 @@ const tagFilters = document.getElementById('tagFilters');
 
 const TAGS_BY_REGION = {
   Canada: ["All", "OSFI", "PIPEDA", "AMF", "RCMP", "CRA", "CDIC", "CASL", "FCAC"],
-  // Add other region-specific tags if needed (e.g., UK: ["All","FCA","OFSI"])
+  // Add others if you like, e.g.
+  // UK: ["All","FCA","OFSI","BoE"],
+  // US: ["All","SEC","FinCEN","Federal Reserve"]
 };
 
 let DATA = { generatedAt: null, items: [] };
@@ -26,7 +28,9 @@ function fmtDate(iso) {
 }
 
 function escapeHtml(str) {
-  return (str || '').replace(/[&<>"']/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;', "'":'&#39;'}[m]));
+  return (str || '').replace(/[&<>"']/g, m => ({
+    '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;', "'":'&#39;'
+  })[m]);
 }
 /* ----------------------------------- */
 
@@ -41,8 +45,9 @@ function collectTagsForRegion(region) {
 function renderTagPills() {
   if (!tagFilters) return;
   const preferred = TAGS_BY_REGION[state.region];
-  // If we have a preferred list (e.g., Canada regulators), use it; otherwise derive from DATA
-  const tags = (preferred && preferred.length) ? preferred : ['All', ...collectTagsForRegion(state.region)];
+  const tags = (preferred && preferred.length)
+    ? preferred
+    : ['All', ...collectTagsForRegion(state.region)];
 
   tagFilters.innerHTML = tags.map(t =>
     `<button data-tag="${t}" class="pill ${state.tag === t ? 'active' : ''}">${t}</button>`
@@ -57,7 +62,7 @@ function render() {
   const items = DATA.items.filter(it => {
     const regionOk = state.region === 'All' || it.region === state.region;
 
-    // When using a fixed list (e.g., Canada regulators), allow source-text fallback too
+    // If we have a fixed list (e.g., Canada regulators), allow source-text fallback too
     const usingFixed = !!TAGS_BY_REGION[state.region];
     const tagOk = state.tag === 'All' || (
       usingFixed
@@ -66,18 +71,26 @@ function render() {
         : (it.tags || []).includes(state.tag)
     );
 
-    const qOk = !q || (it.title.toLowerCase().includes(q) || (it.summary || '').toLowerCase().includes(q));
+    const qOk = !q || (it.title.toLowerCase().includes(q) ||
+                       (it.summary || '').toLowerCase().includes(q));
+
     return regionOk && tagOk && qOk;
   });
 
-  grid.innerHTML = items.map(it => `
+  grid.innerHTML = items.map(it => {
+    const tagHtml = (it.tags && it.tags.length)
+      ? `<div class="tags">${it.tags.slice(0,6).map(t => `<span class="tag">${escapeHtml(t)}</span>`).join('')}</div>`
+      : '';
+    return `
       <article class="card">
-        <div class="badge"><span class="dot"></span> ${it.region} • ${escapeHtml(it.source || '')}</div>
+        <div class="badge"><span class="dot"></span> ${escapeHtml(it.region)} • ${escapeHtml(it.source || '')}</div>
         <h2 class="title"><a href="${it.link}" target="_blank" rel="noopener">${escapeHtml(it.title)}</a></h2>
+        ${tagHtml}
         <div class="summary">${escapeHtml(it.summary || '')}</div>
         <div class="meta"><span>${new Date(it.publishedAt).toLocaleDateString()}</span><span>${fmtDate(it.publishedAt)}</span></div>
       </article>
-  `).join('');
+    `;
+  }).join('');
 
   empty.classList.toggle('hidden', items.length > 0);
 }
@@ -94,7 +107,7 @@ async function init() {
     console.error(e);
     meta.innerHTML = `<small>Could not load news. Make sure GitHub Action has run.</small>`;
   }
-  renderTagPills(); // build tag row for initial region
+  renderTagPills();
   render();
 }
 /* -------------------------------------- */
