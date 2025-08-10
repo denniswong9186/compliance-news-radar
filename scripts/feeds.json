@@ -1,14 +1,12 @@
 {
   "Canada": [
     "https://fintrac-canafe.canada.ca/rss/rss-eng.xml",
-    "https://www.osfi-bsif.gc.ca/Eng/rss/rss.xml",
-    "https://www.priv.gc.ca/en/rss",
-    "https://lautorite.qc.ca/en/rss/press-releases",
-    "https://www.rcmp-grc.gc.ca/en/news/rss",
-    "https://www.canada.ca/en/revenue-agency.atom.xml",
-    "https://www.cdic.ca/en/rss/news-releases-feed",
-    "https://ised-isde.canada.ca/site/canadian-anti-spam-legislation/en/rss",
-    "https://www.canada.ca/en/financial-consumer-agency.atom.xml"
+    "https://api.io.canada.ca/io-server/gc/news/en/v2?atomtitle=Financial%20Consumer%20Agency%20of%20Canada&dept=financialconsumeragency&format=atom&orderBy=desc&pick=50&sort=publishedDate",
+    "https://www.cdic.ca/news-releases/feed/",
+    "https://api.io.canada.ca/io-server/gc/news/en/v2?atomtitle=Royal%20Canadian%20Mounted%20Police&dept=royalmountedpolice&format=atom&orderBy=desc&pick=50&sort=publishedDate",
+    "https://www.canada.ca/content/dam/cra-arc/migration/cra-arc/esrvc-srvce/rss/mdrm-eng.xml",
+    "https://lautorite.qc.ca/media-centre/news/rss.xml"
+
   ],
   "UK": [
     "https://www.fca.org.uk/news/rss.xml",
