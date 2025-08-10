@@ -1,12 +1,12 @@
 {
   "Canada": [
     "https://fintrac-canafe.canada.ca/rss/rss-eng.xml",
-    "https://www.osfi-bsif.gc.ca/Eng/rss/rss.xml", 
+    "https://www.osfi-bsif.gc.ca/Eng/rss/rss.xml",
     "https://www.priv.gc.ca/en/rss",
     "https://lautorite.qc.ca/en/rss/press-releases",
-    "https://www.rcmp-grc.gc.ca/en/news/rss", 
+    "https://www.rcmp-grc.gc.ca/en/news/rss",
     "https://www.canada.ca/en/revenue-agency.atom.xml",
-    "https://www.cdic.ca/en/rss/news-releases-feed", 
+    "https://www.cdic.ca/en/rss/news-releases-feed",
     "https://ised-isde.canada.ca/site/canadian-anti-spam-legislation/en/rss",
     "https://www.canada.ca/en/financial-consumer-agency.atom.xml"
   ],
@@ -14,7 +14,7 @@
     "https://www.fca.org.uk/news/rss.xml",
     "https://ofsi.blog.gov.uk/feed/atom/",
     "https://www.gov.uk/government/organisations/hm-treasury.atom",
-    "<<<PASTE THE BANK OF ENGLAND *NEWS* RSS URL HERE>>>"
+    "https://www.bankofengland.co.uk/rss/news"
   ],
   "Hong Kong": [
     "https://www.hkma.gov.hk/eng/other-information/rss/rss_press-release.xml"
