@@ -14,7 +14,7 @@
 <body>
   <header class="container">
     <h1>Compliance News Radar</h1>
-    <p class="sub">Auto-grab major compliance updates. Filter by region. Summaries generated with OpenAI (optional).</p>
+    <p class="sub">Auto-grab major compliance updates. Filter by region. </p>
     <div id="meta"></div>
     <div class="controls">
       <div class="filters" id="filters">
@@ -24,8 +24,15 @@
         <button data-region="Hong Kong" class="pill">Hong Kong</button>
         <button data-region="EU" class="pill">EU</button>
         <button data-region="Australia" class="pill">Australia</button>
+        <button data-region="Singapore" class="pill">Singapore</button>
+        <button data-region="US" class="pill">US</button>
+
       </div>
+      <!-- NEW: tag pills row -->
+      <div class="filters" id="tagFilters" style="margin-top:8px;"></div>
+      
       <input id="search" class="search" type="search" placeholder="Search headline..." />
+
     </div>
   </header>
 
