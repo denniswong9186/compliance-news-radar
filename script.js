@@ -4,15 +4,16 @@ const filters = document.getElementById('filters');
 const searchEl = document.getElementById('search');
 const meta = document.getElementById('meta');
 const tagFilters = document.getElementById('tagFilters');
+
 const TAGS_BY_REGION = {
   Canada: ["All", "OSFI", "PIPEDA", "AMF", "RCMP", "CRA", "CDIC", "CASL", "FCAC"],
-  // Add other region-specific tags if needed
+  // Add other region-specific tags if needed (e.g., UK: ["All","FCA","OFSI"])
 };
-
 
 let DATA = { generatedAt: null, items: [] };
 let state = { region: 'All', query: '', tag: 'All' };
 
+/* ------------ Utilities ------------ */
 function fmtDate(iso) {
   if (!iso) return 'Unknown date';
   const d = new Date(iso);
@@ -27,8 +28,9 @@ function fmtDate(iso) {
 function escapeHtml(str) {
   return (str || '').replace(/[&<>"']/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;', "'":'&#39;'}[m]));
 }
+/* ----------------------------------- */
 
-/* ---------- TAG HELPERS ---------- */
+/* -------- Tag pill helpers --------- */
 function collectTagsForRegion(region) {
   const pool = DATA.items.filter(it => region === 'All' || it.region === region);
   const tags = new Set();
@@ -38,24 +40,24 @@ function collectTagsForRegion(region) {
 
 function renderTagPills() {
   if (!tagFilters) return;
-  // Prefer a fixed list for the active region (e.g., Canada regulators)
   const preferred = TAGS_BY_REGION[state.region];
-  const tags = (preferred && preferred.length)
-    ? preferred
-    : ['All'].concat(collectTagsForRegion(state.region));
+  // If we have a preferred list (e.g., Canada regulators), use it; otherwise derive from DATA
+  const tags = (preferred && preferred.length) ? preferred : ['All', ...collectTagsForRegion(state.region)];
 
-  // When preferred is used, it already includes "All"
-  tagFilters.innerHTML = (preferred ? tags : ['All'].concat(tags))
-    .map(t => `<button data-tag="${t}" class="pill ${state.tag===t ? 'active' : ''}">${t}</button>`)
-    .join('');
+  tagFilters.innerHTML = tags.map(t =>
+    `<button data-tag="${t}" class="pill ${state.tag === t ? 'active' : ''}">${t}</button>`
+  ).join('');
 }
+/* ----------------------------------- */
 
-/* --------------------------------- */
-
+/* --------------- Render --------------- */
 function render() {
   const q = state.query.trim().toLowerCase();
+
   const items = DATA.items.filter(it => {
     const regionOk = state.region === 'All' || it.region === state.region;
+
+    // When using a fixed list (e.g., Canada regulators), allow source-text fallback too
     const usingFixed = !!TAGS_BY_REGION[state.region];
     const tagOk = state.tag === 'All' || (
       usingFixed
@@ -63,25 +65,25 @@ function render() {
            (it.source || '').toLowerCase().includes(state.tag.toLowerCase()))
         : (it.tags || []).includes(state.tag)
     );
-    const qOk = !q || (it.title.toLowerCase().includes(q) || (it.summary||'').toLowerCase().includes(q));
+
+    const qOk = !q || (it.title.toLowerCase().includes(q) || (it.summary || '').toLowerCase().includes(q));
     return regionOk && tagOk && qOk;
   });
 
-
-  grid.innerHTML = items.map(it => {
-    return `
+  grid.innerHTML = items.map(it => `
       <article class="card">
         <div class="badge"><span class="dot"></span> ${it.region} • ${escapeHtml(it.source || '')}</div>
         <h2 class="title"><a href="${it.link}" target="_blank" rel="noopener">${escapeHtml(it.title)}</a></h2>
         <div class="summary">${escapeHtml(it.summary || '')}</div>
         <div class="meta"><span>${new Date(it.publishedAt).toLocaleDateString()}</span><span>${fmtDate(it.publishedAt)}</span></div>
       </article>
-    `;
-  }).join('');
+  `).join('');
 
   empty.classList.toggle('hidden', items.length > 0);
 }
+/* -------------------------------------- */
 
+/* ---------------- Init ---------------- */
 async function init() {
   try {
     const res = await fetch('news.json', { cache: 'no-store' });
@@ -95,13 +97,16 @@ async function init() {
   renderTagPills(); // build tag row for initial region
   render();
 }
+/* -------------------------------------- */
 
-/* ---------- EVENTS ---------- */
+/* --------------- Events --------------- */
 filters.addEventListener('click', (e) => {
   const btn = e.target.closest('button[data-region]');
   if (!btn) return;
+
   document.querySelectorAll('#filters .pill').forEach(b => b.classList.remove('active'));
   btn.classList.add('active');
+
   state.region = btn.dataset.region;
   state.tag = 'All';      // reset tag when region changes
   renderTagPills();       // rebuild tags for the selected region
@@ -112,8 +117,10 @@ if (tagFilters) {
   tagFilters.addEventListener('click', (e) => {
     const btn = e.target.closest('button[data-tag]');
     if (!btn) return;
+
     document.querySelectorAll('#tagFilters .pill').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
+
     state.tag = btn.dataset.tag;
     render();
   });
@@ -123,6 +130,6 @@ searchEl.addEventListener('input', (e) => {
   state.query = e.target.value || '';
   render();
 });
-/* -------------------------------- */
+/* -------------------------------------- */
 
 init();
