@@ -17,6 +17,49 @@ const parser = new Parser({
   }
 });
 
+// Map hostnames to tags for secondary filters (Visa/Mastercard, regulators, etc.)
+const SOURCE_TAGS = [
+  // Canada
+  { host: "fintrac-canafe.canada.ca", tags: ["Canada","FINTRAC","Regulator"] },
+  { host: "bankofcanada.ca",          tags: ["Canada","Bank of Canada","Regulator"] },
+  { host: "fcac-acfc.gc.ca",          tags: ["Canada","FCAC","Regulator"] },
+  { host: "osc.ca",                   tags: ["Canada","OSC","Regulator"] },
+  // UK / HK / EU / AU / SG / US
+  { host: "fca.org.uk",               tags: ["UK","FCA","Regulator"] },
+  { host: "hkma.gov.hk",              tags: ["Hong Kong","HKMA","Regulator"] },
+  { host: "eba.europa.eu",            tags: ["EU","EBA","Regulator"] },
+  { host: "austrac.gov.au",           tags: ["Australia","AUSTRAC","Regulator"] },
+  { host: "rba.gov.au",               tags: ["Australia","RBA","Central Bank"] },
+  { host: "mas.gov.sg",               tags: ["Singapore","MAS","Regulator"] },
+  { host: "sec.gov",                  tags: ["US","SEC","Regulator"] },
+  { host: "fincen.gov",               tags: ["US","FinCEN","Regulator"] },
+  { host: "federalreserve.gov",       tags: ["US","Federal Reserve","Central Bank"] },
+  // Card networks
+  { host: "visa.com",                 tags: ["Visa"] },
+  { host: "mastercard.com",           tags: ["Mastercard"] },
+];
+
+function hostname(u) {
+  try { return new URL(u).hostname.replace(/^www\./, ""); } catch { return ""; }
+}
+
+function applyTags(items) {
+  return items.map(it => {
+    const h = hostname(it.link);
+    let tags = [];
+    for (const rule of SOURCE_TAGS) {
+      if (h.endsWith(rule.host)) tags = tags.concat(rule.tags);
+    }
+    // Also detect Visa/Mastercard mentions in the title
+    const t = (it.title || "").toLowerCase();
+    if (t.includes("mastercard")) tags.push("Mastercard");
+    if (t.includes("visa "))       tags.push("Visa");
+    it.tags = Array.from(new Set(tags));
+    return it;
+  });
+}
+
+
 function dedupe(items) {
   const seen = new Set();
   return items.filter(it => {
@@ -123,9 +166,13 @@ async function main() {
 
   // Summarize (optional)
   all = await summarizeIfPossible(all);
-
+  
+  // Tag items for secondary filters (Visa/Mastercard, regulators, etc.)
+  all = applyTags(all);
+  
   // Clean and save
   const cleaned = all.map(({rawSnippet, ...rest}) => rest);
+
 
   const payload = {
     generatedAt: new Date().toISOString(),
