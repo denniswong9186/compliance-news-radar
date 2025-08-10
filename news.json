@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-08-10T05:29:16.082Z",
+  "generatedAt": "2025-08-10T06:00:30.259Z",
   "items": [
     {
       "title": "The EBA publishes statement confirming its response to the new European Commission’s Delegated Act postponing the market risk framework in the EU",
@@ -114,6 +114,14 @@
       "summary": "Summary unavailable. Open article for details."
     },
     {
+      "title": "Staff Issues FAQs to Help Broker-Dealers Implement Financial Responsibility Requirements Related to U.S. Treasury Clearing",
+      "link": "https://www.sec.gov/newsroom/press-releases/2025-105-staff-issues-faqs-help-broker-dealers-implement-financial-responsibility-requirements-related-us",
+      "source": "Press Releases",
+      "publishedAt": "2025-08-06T13:55:00.000Z",
+      "region": "US",
+      "summary": "The Securities and Exchange Commission’s Division of Trading and Markets today issued answers to Frequently Asked Questions (FAQs) that broker-dealers have posed to the staff regarding rule amendments to the customer pro"
+    },
+    {
       "title": "FINTRAC updates its administrative monetary penalties policy",
       "link": "https://fintrac-canafe.canada.ca/pen/2-eng",
       "source": "Financial Transactions and Reports Analysis Centre of Canada",
@@ -144,6 +152,14 @@
       "publishedAt": "2025-08-06T07:18:00.000Z",
       "region": "EU",
       "summary": "The European Banking Authority (EBA) today published a no-action letter on the application of the ESG Pillar 3 disclosure requirements under the EBA disclosure Implementing Technical Standards (ITS). This no-action lette"
+    },
+    {
+      "title": "Securities and Exchange Commission Division of Corporation Finance Issues Staff Statement on Certain Liquid Staking Activities",
+      "link": "https://www.sec.gov/newsroom/press-releases/2025-104-securities-exchange-commission-division-corporation-finance-issues-staff-statement-certain-liquid",
+      "source": "Press Releases",
+      "publishedAt": "2025-08-05T16:58:00.000Z",
+      "region": "US",
+      "summary": "The Securities and Exchange Commission’s Division of Corporation Finance today issued a statement regarding certain liquid staking activities. This statement aims to provide greater clarity on the application of federal "
     },
     {
       "title": "Scam alert related to banks",
@@ -210,12 +226,28 @@
       "summary": "Summary unavailable. Open article for details."
     },
     {
+      "title": "SEC Creates Task Force to Tap Artificial Intelligence for Enhanced Innovation and Efficiency Across the Agency",
+      "link": "https://www.sec.gov/newsroom/press-releases/2025-103-sec-creates-task-force-tap-artificial-intelligence-enhanced-innovation-efficiency-across-agency",
+      "source": "Press Releases",
+      "publishedAt": "2025-08-01T18:11:27.000Z",
+      "region": "US",
+      "summary": "The Securities and Exchange Commission today announced the launch of a task force on artificial intelligence (AI) that will spearhead the agency’s efforts to enhance innovation and efficiency in its operations through th"
+    },
+    {
       "title": "The EBA publishes the results of its 2025 EU-wide stress test",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-results-its-2025-eu-wide-stress-test",
       "source": "European Banking Authority",
       "publishedAt": "2025-08-01T16:00:00.000Z",
       "region": "EU",
       "summary": "The European Banking Authority (EBA) today released the results of its 2025 EU-wide stress test involving 64 banks from 17 EU and EEA countries and covering 75% of EU banking sector assets. The results confirm that Europ"
+    },
+    {
+      "title": "On the Road: SEC Crypto Task Force to Host a Series of Roundtables Across the U.S.",
+      "link": "https://www.sec.gov/newsroom/press-releases/2025-102-road-sec-crypto-task-force-host-series-roundtables-across-us",
+      "source": "Press Releases",
+      "publishedAt": "2025-08-01T14:03:48.000Z",
+      "region": "US",
+      "summary": "The Securities and Exchange Commission announced today that its Crypto Task Force will host a series of roundtables across the country to provide opportunities for additional stakeholders to meet with Commissioner Hester"
     },
     {
       "title": "Senior Appointment at the Hong Kong Monetary Authority",
@@ -314,6 +346,14 @@
       "summary": "Summary unavailable. Open article for details."
     },
     {
+      "title": "SEC Permits In-Kind Creations and Redemptions for Crypto ETPs",
+      "link": "https://www.sec.gov/newsroom/press-releases/2025-101-sec-permits-kind-creations-redemptions-crypto-etps",
+      "source": "Press Releases",
+      "publishedAt": "2025-07-29T19:02:30.000Z",
+      "region": "US",
+      "summary": "The Securities and Exchange Commission today voted to approve orders to permit in-kind creations and redemptions by authorized participants for crypto asset exchange-traded product (ETP) shares. The orders approved today"
+    },
+    {
       "title": "Implementation of regulatory regime for stablecoin issuers",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/07/20250729-4/",
       "source": "HKMA: Press Releases",
@@ -338,12 +378,36 @@
       "summary": "Summary unavailable. Open article for details."
     },
     {
+      "title": "SEC Announces George Botic to Serve as Acting Chair of the Public Company Accounting Oversight Board",
+      "link": "https://www.sec.gov/newsroom/press-releases/2025-100-sec-announces-george-botic-serve-acting-chair-public-company-accounting-oversight-board",
+      "source": "Press Releases",
+      "publishedAt": "2025-07-21T21:15:00.000Z",
+      "region": "US",
+      "summary": "The Securities and Exchange Commission announced today that it has designated George R. Botic to serve as Acting Chair of the Public Company Accounting Oversight Board, effective July 23, 2025. Current PCAOB Chair Erica "
+    },
+    {
+      "title": "SEC Announces Roundtable on Trade-Through Prohibitions",
+      "link": "https://www.sec.gov/newsroom/press-releases/2025-99-sec-announces-roundtable-trade-through-prohibitions",
+      "source": "Press Releases",
+      "publishedAt": "2025-07-21T20:30:52.000Z",
+      "region": "US",
+      "summary": "The Securities and Exchange Commission announced today that it will host a roundtable on September 18, 2025, to discuss trade-through prohibitions in the National Market System (NMS) stock and listed options markets. “Re"
+    },
+    {
       "title": "News release: ASC alleges breach of Alberta securities laws by crypto asset trading platform",
       "link": "https://www.asc.ca/en/news-and-publications/news-releases/2025/07/17-asc-alleges-breach-of-alberta-securities-laws-by-crypto-asset-trading-platform-catalx-cts-ltd",
       "source": "Financial Transactions and Reports Analysis Centre of Canada",
       "publishedAt": "2025-07-18T12:22:48.000Z",
       "region": "Canada",
       "summary": "FINTRAC’s financial intelligence was recognized by the Alberta Securities Commission (ASC) where a crypto trading platform has allegedly breached Alberta securities laws. The ASC alleges that two individuals perpetrated "
+    },
+    {
+      "title": "OFSI launches online forms for reporting and licences",
+      "link": "https://ofsi.blog.gov.uk/2025/07/17/ofsi-launches-online-forms-for-reporting-and-licences/",
+      "source": "Office of Financial Sanctions Implementation",
+      "publishedAt": "2025-07-17T16:03:39.000Z",
+      "region": "UK",
+      "summary": "Today, on 17 July, OFSI has launched new online forms for submitting licence applications, reporting suspected breaches, and other key reporting such as frozen assets. This is a significant step forward in our drive to m"
     },
     {
       "title": "FINTRAC updates its guidance related to the Ministerial Directive on the Islamic Republic of Iran",
