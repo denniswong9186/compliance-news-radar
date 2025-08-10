@@ -37,12 +37,11 @@ jobs:
 
       - name: Commit & push updated news.json
         run: |
+          set -e
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add news.json
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else:
-            git commit -m "chore: update news.json [skip ci]"
-            git push
-          fi
+          # If nothing changed, commit will fail; convert that into a message instead.
+          git commit -m "chore: update news.json [skip ci]" || echo "No changes to commit."
+          git push || echo "No changes to push."
+
