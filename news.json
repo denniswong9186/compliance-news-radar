@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-08-10T17:09:00.233Z",
+  "generatedAt": "2025-08-10T17:29:01.145Z",
   "items": [
     {
       "title": "The EBA publishes statement confirming its response to the new European Commission’s Delegated Act postponing the market risk framework in the EU",
@@ -846,6 +846,271 @@
       "tags": [
         "Canada",
         "FINTRAC",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Special Bulletin on financial activity associated with evasion of counter proliferation sanctions",
+      "link": "https://fintrac-canafe.canada.ca/intel/bulletins/proliferation-eng",
+      "source": "Financial Transactions and Reports Analysis Centre of Canada",
+      "publishedAt": "2025-07-11T17:00:00.000Z",
+      "region": "Canada",
+      "summary": "This Special Bulletin supports businesses subject to the Proceeds of Crime (Money Laundering) and Terrorist Financing Act in recognizing financial transactions associated with the suspected evasion of sanctions related t",
+      "tags": [
+        "Canada",
+        "FINTRAC",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "SEC Charges Georgia-based First Liberty Building & Loan and its Owner for Operating a $140 Million Ponzi Scheme",
+      "link": "https://www.sec.gov/newsroom/press-releases/2025-98-sec-charges-georgia-based-first-liberty-building-loan-its-owner-operating-140-million-ponzi-scheme",
+      "source": "Press Releases",
+      "publishedAt": "2025-07-10T21:33:59.000Z",
+      "region": "US",
+      "summary": "The Securities and Exchange Commission today announced that it filed charges seeking an asset freeze and other emergency relief against Newnan, Georgia-based First Liberty Building & Loan, LLC and its founder and owner E",
+      "tags": [
+        "US",
+        "SEC",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "FINTRAC updates its guidance for cheque cashers, factors and financing or leasing entities",
+      "link": "https://fintrac-canafe.canada.ca/guidance-directives/guidance-directives-eng",
+      "source": "Financial Transactions and Reports Analysis Centre of Canada",
+      "publishedAt": "2025-07-10T17:00:00.000Z",
+      "region": "Canada",
+      "summary": "<div type=\"html\"/>",
+      "tags": [
+        "Canada",
+        "FINTRAC",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "July 9, 2025 – FINTRAC advisory: Financial transactions related to countries identified by the Financial Action Task Force",
+      "link": "https://fintrac-canafe.canada.ca/notices-avis/avs/2025-07-02-eng",
+      "source": "Financial Transactions and Reports Analysis Centre of Canada",
+      "publishedAt": "2025-07-09T13:30:09.000Z",
+      "region": "Canada",
+      "summary": "FINTRAC advisories are issued following every Financial Action Task Force (FATF) Plenary meeting to advise reporting entities of concerns about deficiencies in the anti-money laundering and anti-terrorist activity financ",
+      "tags": [
+        "Canada",
+        "FINTRAC",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "SEC Small Business Advisory Committee to Discuss Regulatory Framework for Finders and Continue Exploring Regulation A",
+      "link": "https://www.sec.gov/newsroom/press-releases/2025-97-sec-small-business-advisory-committee-discuss-regulatory-framework-finders-continue-exploring",
+      "source": "Press Releases",
+      "publishedAt": "2025-07-07T13:57:00.000Z",
+      "region": "US",
+      "summary": "The Securities and Exchange Commission’s Small Business Capital Formation Advisory Committee announced that it will hold a meeting at the SEC Headquarters in Washington D.C on Tuesday, July 22, 2025 at 10 a.m. E.T. The m",
+      "tags": [
+        "US",
+        "SEC",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "News release: FINTRAC imposes an administrative monetary penalty on Canaccord Genuity Corp.",
+      "link": "https://fintrac-canafe.canada.ca/new-neuf/nr/2025-07-03-eng",
+      "source": "Financial Transactions and Reports Analysis Centre of Canada",
+      "publishedAt": "2025-07-03T13:00:00.000Z",
+      "region": "Canada",
+      "summary": "Canaccord Genuity Corp., an investment dealer headquartered in Vancouver, British Columbia, was imposed an administrative monetary penalty of $544,500 for committing 4 violations.",
+      "tags": [
+        "Canada",
+        "FINTRAC",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "News release: Integrated Money Laundering Investigative Team lay 29 charges in $40 million money laundering scheme",
+      "link": "https://rcmp.ca/en/news/2025/06/integrated-money-laundering-investigative-team-lay-29-charges-40-million-money-laundering-scheme",
+      "source": "Financial Transactions and Reports Analysis Centre of Canada",
+      "publishedAt": "2025-07-02T18:46:58.000Z",
+      "region": "Canada",
+      "summary": "FINTRAC’s financial intelligence was recognized in an investigation by the RCMP Northwest Region Federal Policing’s Integrated Money Laundering Investigative Team. The two accused individuals, who owned and operated a mo",
+      "tags": []
+    },
+    {
+      "title": "SEC Publishes Data on Broker-Dealers, Mergers & Acquisitions, and Business Development Companies",
+      "link": "https://www.sec.gov/newsroom/press-releases/2025-96-sec-publishes-data-broker-dealers-mergers-acquisitions-business-development-companies",
+      "source": "Press Releases",
+      "publishedAt": "2025-06-26T15:00:00.000Z",
+      "region": "US",
+      "summary": "The Securities and Exchange Commission’s Division of Economic and Risk Analysis (DERA) has published new reports and data on broker-dealers, mergers and acquisitions (M&A), and business development companies (BDCs). Toda",
+      "tags": [
+        "US",
+        "SEC",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "SEC Extends Compliance Date to Help Broker-Dealers Fully Test and Implement Daily Reserve Computation Requirement",
+      "link": "https://www.sec.gov/newsroom/press-releases/2025-95-sec-extends-compliance-date-help-broker-dealers-fully-test-implement-daily-reserve-computation",
+      "source": "Press Releases",
+      "publishedAt": "2025-06-25T21:45:00.000Z",
+      "region": "US",
+      "summary": "The Securities and Exchange Commission today voted to extend the compliance date to June 30, 2026, for the amendments to Rule 15c3-3 (the broker-dealer customer protection rule) that the Commission adopted on Dec. 20, 20",
+      "tags": [
+        "US",
+        "SEC",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "SEC Office of the Investor Advocate Delivers to Congress Report on Objectives for Fiscal Year 2026",
+      "link": "https://www.sec.gov/newsroom/press-releases/2025-94-sec-office-investor-advocate-delivers-congress-report-objectives-fiscal-year-2026",
+      "source": "Press Releases",
+      "publishedAt": "2025-06-25T17:44:00.000Z",
+      "region": "US",
+      "summary": "The Securities and Exchange Commission’s Office of the Investor Advocate today delivered its Report to Congress on the office’s objectives for fiscal year 2026. As detailed in the report, the Investor Advocate’s prioriti",
+      "tags": [
+        "US",
+        "SEC",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Regulators to Hold Outreach Event for Municipal Market Professionals",
+      "link": "https://www.sec.gov/newsroom/press-releases/2025-93-regulators-hold-outreach-event-municipal-market-professionals",
+      "source": "Press Releases",
+      "publishedAt": "2025-06-25T17:00:00.000Z",
+      "region": "US",
+      "summary": "The Securities and Exchange Commission, the Municipal Securities Rulemaking Board (MSRB) and the Financial Industry Regulatory Authority (FINRA) today announced that registration is now open for the 2025 Joint Compliance",
+      "tags": [
+        "US",
+        "SEC",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Kevin Muhlendorf Named SEC Inspector General",
+      "link": "https://www.sec.gov/newsroom/press-releases/2025-92-kevin-muhlendorf-named-sec-inspector-general",
+      "source": "Press Releases",
+      "publishedAt": "2025-06-23T19:10:00.000Z",
+      "region": "US",
+      "summary": "The Securities and Exchange Commission today announced that Kevin Muhlendorf will be the agency’s new Inspector General, effective July 28. Mr. Muhlendorf is a former SEC and Justice Department attorney who for the past ",
+      "tags": [
+        "US",
+        "SEC",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "News release: Update: Project Leadline uncovers drug network, money laundering",
+      "link": "https://alert-ab.ca/update-project-leadline-uncovers-drug-network-money-laundering/",
+      "source": "Financial Transactions and Reports Analysis Centre of Canada",
+      "publishedAt": "2025-06-23T17:03:54.000Z",
+      "region": "Canada",
+      "summary": "FINTRAC’s financial intelligence was recognized by the Alberta Law Enforcement Response Teams (ALERT) in relation to Project Leadline, a lengthy organized crime investigation in southwest Alberta. As a result of this inv",
+      "tags": []
+    },
+    {
+      "title": "SEC Announces Departure of David Saltiel",
+      "link": "https://www.sec.gov/newsroom/press-releases/2025-91-sec-announces-departure-david-saltiel",
+      "source": "Press Releases",
+      "publishedAt": "2025-06-18T12:04:14.000Z",
+      "region": "US",
+      "summary": "The Securities and Exchange Commission today announced that David Saltiel, who has served as Acting Director of the Division of Trading and Markets, will depart the agency effective July 4, 2025. He has served as Acting ",
+      "tags": [
+        "US",
+        "SEC",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "SEC Names Erik Hotmire as Chief External Affairs Officer and Director of the Office of Public Affairs",
+      "link": "https://www.sec.gov/newsroom/press-releases/2025-90-sec-names-erik-hotmire-chief-external-affairs-officer-director-office-public-affairs",
+      "source": "Press Releases",
+      "publishedAt": "2025-06-13T14:30:00.000Z",
+      "region": "US",
+      "summary": "The Securities and Exchange Commission today announced that Erik Hotmire will return to the SEC as Chief External Affairs Officer and Director of the Office of Public Affairs, effective June 16, 2025. “I am delighted tha",
+      "tags": [
+        "US",
+        "SEC",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "SEC Names Kurt Hohl as Chief Accountant",
+      "link": "https://www.sec.gov/newsroom/press-releases/2025-89-sec-names-kurt-hohl-chief-accountant",
+      "source": "Press Releases",
+      "publishedAt": "2025-06-13T14:00:00.000Z",
+      "region": "US",
+      "summary": "The Securities and Exchange Commission today announced that Kurt Hohl, with nearly 40 years of accounting and auditing experience, has been named Chief Accountant, effective July 7, 2025. Acting Chief Accountant Ryan Wol",
+      "tags": [
+        "US",
+        "SEC",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Brian Daly Named Director of Division of Investment Management",
+      "link": "https://www.sec.gov/newsroom/press-releases/2025-88-brian-daly-named-director-division-investment-management",
+      "source": "Press Releases",
+      "publishedAt": "2025-06-13T13:30:00.000Z",
+      "region": "US",
+      "summary": "The Securities and Exchange Commission today announced that investment management industry leader Brian T. Daly will become the new Director of the Division of Investment Management, effective July 8. Mr. Daly brings dec",
+      "tags": [
+        "US",
+        "SEC",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "SEC Names Jamie Selway as Director of Trading and Markets",
+      "link": "https://www.sec.gov/newsroom/press-releases/2025-87-sec-names-jamie-selway-director-trading-markets",
+      "source": "Press Releases",
+      "publishedAt": "2025-06-13T12:06:24.000Z",
+      "region": "US",
+      "summary": "The Securities and Exchange Commission today announced the appointment of Jamie Selway, an accomplished financial markets leader, as Director of the Division of Trading and Markets, effective June 17, 2025. “I’d like to ",
+      "tags": [
+        "US",
+        "SEC",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "News release: FINTRAC imposes an administrative monetary penalty on Hub Capital Inc.",
+      "link": "https://fintrac-canafe.canada.ca/new-neuf/nr/2025-06-12-eng",
+      "source": "Financial Transactions and Reports Analysis Centre of Canada",
+      "publishedAt": "2025-06-12T13:00:00.000Z",
+      "region": "Canada",
+      "summary": "Hub Capital Inc., an independent wealth management firm in Woodbridge, Ontario, was imposed an administrative monetary penalty of $99,000 for committing 4 violations.",
+      "tags": [
+        "Canada",
+        "FINTRAC",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Further Extension of Form PF Amendments Compliance Date",
+      "link": "https://www.sec.gov/newsroom/press-releases/2025-86-further-extension-form-pf-amendments-compliance-date",
+      "source": "Press Releases",
+      "publishedAt": "2025-06-11T22:18:00.000Z",
+      "region": "US",
+      "summary": "The Securities and Exchange Commission, together with the U.S. Commodity Futures Trading Commission, today voted to extend the compliance date until Oct. 1, 2025, for the amendments to Form PF that were adopted on Feb. 8",
+      "tags": [
+        "US",
+        "SEC",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "SEC Announces Agenda and Panelists for Roundtable on Executive Compensation Disclosure Requirements",
+      "link": "https://www.sec.gov/newsroom/press-releases/2025-85-sec-announces-agenda-panelists-roundtable-executive-compensation-disclosure-requirements",
+      "source": "Press Releases",
+      "publishedAt": "2025-06-11T19:12:00.000Z",
+      "region": "US",
+      "summary": "The Securities and Exchange Commission today announced the agenda and panelists for the June 26, 2025, roundtable on executive compensation. The roundtable will be held at the SEC’s headquarters at 100 F Street, N.E., Wa",
+      "tags": [
+        "US",
+        "SEC",
         "Regulator"
       ]
     }
