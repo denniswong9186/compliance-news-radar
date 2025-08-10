@@ -1,4 +1,365 @@
 {
-  "generatedAt": "2025-08-10T03:52:15.215Z",
-  "items": []
+  "generatedAt": "2025-08-10T05:29:16.082Z",
+  "items": [
+    {
+      "title": "The EBA publishes statement confirming its response to the new European Commission’s Delegated Act postponing the market risk framework in the EU",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-statement-confirming-its-response-new-european-commissions-delegated-act-postponing",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-08-08T08:09:20.000Z",
+      "region": "EU",
+      "summary": "Following the European Commission's adoption of a Delegated Act postponing application of the revised market risk framework in the EU, the so-called Fundamental Review of the Trading Book (FRTB), the European Banking Aut"
+    },
+    {
+      "title": "The EBA amends technical standards specifying the data collection for the 2026 benchmarking exercise",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-amends-technical-standards-specifying-data-collection-2026-benchmarking-exercise",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-08-08T07:56:06.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) today published its final draft Implementing Technical Standards (ITS), amending the Implementing Regulation on the benchmarking of credit and market risk for the 2026 exercise. The m"
+    },
+    {
+      "title": "Beware of fraudulent documents purported to be issued by HKMA",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250808-6/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-07T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details."
+    },
+    {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250808-5/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-07T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details."
+    },
+    {
+      "title": "Tender for the re-opening of 5-year RMB HKSAR Institutional Government Bonds to be held on Thursday, 14 August 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250808-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-07T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details."
+    },
+    {
+      "title": "Tender of 2-year RMB HKSAR Institutional Government Bonds to be held on Thursday, 14 August 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250808-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-07T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details."
+    },
+    {
+      "title": "The EBA consults on revised Guidelines on internal governance",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-consults-revised-guidelines-internal-governance",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-08-07T06:30:00.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) today launched a consultation on its revised Guidelines on internal governance under the Capital Requirements Directive (CRD). The proposed revisions reflect the changes introduced in"
+    },
+    {
+      "title": "HKMA and IFC to host Climate Business Forum: Asia Pacific 2025 to support region’s ambitions for a low-carbon, resilient and inclusive future",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250807-9/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-06T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details."
+    },
+    {
+      "title": "Hong Kong gears up for Green Week",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250807-8/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-06T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details."
+    },
+    {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250807-7/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-06T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details."
+    },
+    {
+      "title": "Tender for the re-opening of 5-year HKD HKSAR Institutional Government Bonds to be held on Wednesday, 13 August 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250807-6/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-06T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details."
+    },
+    {
+      "title": "Tender of 1-year HONIA-indexed Floating Rate Notes to be held on Wednesday, 13 August 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250807-5/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-06T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details."
+    },
+    {
+      "title": "Tender results of the re-opening of 10-year RMB HKSAR Institutional Government Bonds",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250807-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-06T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details."
+    },
+    {
+      "title": "Hong Kong’s Latest Foreign Currency Reserve Assets Figures Released",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250807-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-06T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details."
+    },
+    {
+      "title": "FINTRAC updates its administrative monetary penalties policy",
+      "link": "https://fintrac-canafe.canada.ca/pen/2-eng",
+      "source": "Financial Transactions and Reports Analysis Centre of Canada",
+      "publishedAt": "2025-08-06T13:00:00.000Z",
+      "region": "Canada",
+      "summary": "The administrative monetary penalties program supports FINTRAC's mandate by providing a measured and proportionate response to particular instances of non-compliance."
+    },
+    {
+      "title": "FINTRAC publishes its supervisory framework",
+      "link": "https://fintrac-canafe.canada.ca/introduction/cpf/cpf-eng",
+      "source": "Financial Transactions and Reports Analysis Centre of Canada",
+      "publishedAt": "2025-08-06T13:00:00.000Z",
+      "region": "Canada",
+      "summary": "Learn about FINTRAC's framework that guides the Centre's supervisory activities that ensure compliance with the Proceeds of Crime (Money Laundering) and Terrorist Financing Act."
+    },
+    {
+      "title": "The EBA publishes its final draft technical standards on the equivalent legal mechanism for unfinished property exposures under the Standardised Approach for credit risk",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-final-draft-technical-standards-equivalent-legal-mechanism-unfinished-property",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-08-06T11:24:45.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) today published its final Regulatory Technical Standards (RTS) specifying what constitutes an “equivalent legal mechanism” for unfinished property exposures under the Capital Requirem"
+    },
+    {
+      "title": "The EBA issues a no-action letter on the application of ESG disclosure requirements and updates the EBA ESG risks dashboard with December 2024 data",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-issues-no-action-letter-application-esg-disclosure-requirements-and-updates-eba-esg-risks",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-08-06T07:18:00.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) today published a no-action letter on the application of the ESG Pillar 3 disclosure requirements under the EBA disclosure Implementing Technical Standards (ITS). This no-action lette"
+    },
+    {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250806-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-05T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details."
+    },
+    {
+      "title": "Exchange Fund Bills Tender Results",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250806-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-05T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details."
+    },
+    {
+      "title": "The EBA consults to simplify and streamline its technical standards on resolution plans and on the functioning of resolution colleges",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-consults-simplify-and-streamline-its-technical-standards-resolution-plans-and-functioning",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-08-05T12:55:00.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) launched today a public consultation to amend the Regulatory Technical Standards (RTS) on resolution plans and the RTS on resolution colleges. These revisions target both the structur"
+    },
+    {
+      "title": "The EBA publishes draft technical standards on the prudential treatment of crypto asset exposures under the Capital Requirements Regulation",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-draft-technical-standards-prudential-treatment-crypto-asset-exposures-under-capital",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-08-05T11:36:07.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) today published its final draft Regulatory Technical Standards (RTS) which specify the technical elements necessary for institutions to calculate and aggregate crypto-asset exposures "
+    },
+    {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250805-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-04T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details."
+    },
+    {
+      "title": "The EBA publishes key regulatory products on operational risk losses under the EU Banking Package implementation",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-key-regulatory-products-operational-risk-losses-under-eu-banking-package",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-08-04T11:14:07.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) today published three final draft Regulatory Technical Standards (RTS) that provide a taxonomy for operational risk losses and offer clarity on the exemptions for the calculation of t"
+    },
+    {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250804-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-03T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details."
+    },
+    {
+      "title": "Interest rate for fourth interest payment of Silver Bond Series due 2026",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250804-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-03T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details."
+    },
+    {
+      "title": "The EBA publishes the results of its 2025 EU-wide stress test",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-results-its-2025-eu-wide-stress-test",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-08-01T16:00:00.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) today released the results of its 2025 EU-wide stress test involving 64 banks from 17 EU and EEA countries and covering 75% of EU banking sector assets. The results confirm that Europ"
+    },
+    {
+      "title": "Senior Appointment at the Hong Kong Monetary Authority",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250801-5/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-07-31T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details."
+    },
+    {
+      "title": "Tender for the re-opening of 10-year RMB HKSAR Institutional Government Bonds to be held on Thursday, 7 August 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250801-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-07-31T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details."
+    },
+    {
+      "title": "Survey on Small and Medium-Sized Enterprises (SMEs)’ Credit Conditions for Second Quarter 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250801-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-07-31T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details."
+    },
+    {
+      "title": "EU banks continue to meet their MREL requirements set by Resolution Authorities on the basis of the identified resolution strategies",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eu-banks-continue-meet-their-mrel-requirements-set-resolution-authorities-basis-identified",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-07-31T14:33:31.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) today published its Q4 2024 semi-annual Dashboard on the minimum requirement for own funds and eligible liabilities (MREL), which discloses aggregated statistical information for 345 "
+    },
+    {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/07/20250731-10/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-07-30T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details."
+    },
+    {
+      "title": "Exchange Fund Position at end-June 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/07/20250731-9/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-07-30T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details."
+    },
+    {
+      "title": "Monetary Statistics for June 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/07/20250731-8/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-07-30T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details."
+    },
+    {
+      "title": "Residential mortgage loans in negative equity: End of June 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/07/20250731-7/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-07-30T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details."
+    },
+    {
+      "title": "Residential Mortgage Survey Results for June 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/07/20250731-6/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-07-30T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details."
+    },
+    {
+      "title": "International Reserves and Foreign Currency Liquidity",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/07/20250731-5/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-07-30T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details."
+    },
+    {
+      "title": "Exchange Fund Abridged Balance Sheet and Currency Board Account",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/07/20250731-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-07-30T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details."
+    },
+    {
+      "title": "HKMA’s Response to US Fed’s Interest Rate Decision",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/07/20250731-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-07-30T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details."
+    },
+    {
+      "title": "Implementation of regulatory regime for stablecoin issuers",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/07/20250729-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-07-28T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details."
+    },
+    {
+      "title": "Exchange Fund Bills Tender Results",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/07/20250729-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-07-28T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details."
+    },
+    {
+      "title": "Complaints Watch Issue No. 26",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/07/20250728-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-07-27T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details."
+    },
+    {
+      "title": "News release: ASC alleges breach of Alberta securities laws by crypto asset trading platform",
+      "link": "https://www.asc.ca/en/news-and-publications/news-releases/2025/07/17-asc-alleges-breach-of-alberta-securities-laws-by-crypto-asset-trading-platform-catalx-cts-ltd",
+      "source": "Financial Transactions and Reports Analysis Centre of Canada",
+      "publishedAt": "2025-07-18T12:22:48.000Z",
+      "region": "Canada",
+      "summary": "FINTRAC’s financial intelligence was recognized by the Alberta Securities Commission (ASC) where a crypto trading platform has allegedly breached Alberta securities laws. The ASC alleges that two individuals perpetrated "
+    },
+    {
+      "title": "FINTRAC updates its guidance related to the Ministerial Directive on the Islamic Republic of Iran",
+      "link": "https://fintrac-canafe.canada.ca/obligations/dir-iri-eng",
+      "source": "Financial Transactions and Reports Analysis Centre of Canada",
+      "publishedAt": "2025-07-14T15:00:00.000Z",
+      "region": "Canada",
+      "summary": "The Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) publishes important updates to its guidance related to the Ministerial Directive on Financial Transactions Associated with the Islamic Republic o"
+    },
+    {
+      "title": "Special Bulletin on financial activity associated with evasion of counter proliferation sanctions",
+      "link": "https://fintrac-canafe.canada.ca/intel/bulletins/proliferation-eng",
+      "source": "Financial Transactions and Reports Analysis Centre of Canada",
+      "publishedAt": "2025-07-11T17:00:00.000Z",
+      "region": "Canada",
+      "summary": "This Special Bulletin supports businesses subject to the Proceeds of Crime (Money Laundering) and Terrorist Financing Act in recognizing financial transactions associated with the suspected evasion of sanctions related t"
+    }
+  ]
 }
