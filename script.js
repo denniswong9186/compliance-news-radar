@@ -4,6 +4,11 @@ const filters = document.getElementById('filters');
 const searchEl = document.getElementById('search');
 const meta = document.getElementById('meta');
 const tagFilters = document.getElementById('tagFilters');
+const TAGS_BY_REGION = {
+  Canada: ["All", "OSFI", "PIPEDA", "AMF", "RCMP", "CRA", "CDIC", "CASL", "FCAC"],
+  // Add other region-specific tags if needed
+};
+
 
 let DATA = { generatedAt: null, items: [] };
 let state = { region: 'All', query: '', tag: 'All' };
@@ -33,22 +38,35 @@ function collectTagsForRegion(region) {
 
 function renderTagPills() {
   if (!tagFilters) return;
-  const tags = collectTagsForRegion(state.region);
-  const all = ['All'].concat(tags);
-  tagFilters.innerHTML = all.map(t =>
-    `<button data-tag="${t}" class="pill ${state.tag===t ? 'active' : ''}">${t}</button>`
-  ).join('');
+  // Prefer a fixed list for the active region (e.g., Canada regulators)
+  const preferred = TAGS_BY_REGION[state.region];
+  const tags = (preferred && preferred.length)
+    ? preferred
+    : ['All'].concat(collectTagsForRegion(state.region));
+
+  // When preferred is used, it already includes "All"
+  tagFilters.innerHTML = (preferred ? tags : ['All'].concat(tags))
+    .map(t => `<button data-tag="${t}" class="pill ${state.tag===t ? 'active' : ''}">${t}</button>`)
+    .join('');
 }
+
 /* --------------------------------- */
 
 function render() {
   const q = state.query.trim().toLowerCase();
   const items = DATA.items.filter(it => {
     const regionOk = state.region === 'All' || it.region === state.region;
-    const tagOk = state.tag === 'All' || (it.tags || []).includes(state.tag);
+    const usingFixed = !!TAGS_BY_REGION[state.region];
+    const tagOk = state.tag === 'All' || (
+      usingFixed
+        ? ((it.tags || []).includes(state.tag) ||
+           (it.source || '').toLowerCase().includes(state.tag.toLowerCase()))
+        : (it.tags || []).includes(state.tag)
+    );
     const qOk = !q || (it.title.toLowerCase().includes(q) || (it.summary||'').toLowerCase().includes(q));
     return regionOk && tagOk && qOk;
   });
+
 
   grid.innerHTML = items.map(it => {
     return `
