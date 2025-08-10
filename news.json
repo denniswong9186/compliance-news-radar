@@ -1,17 +1,4 @@
 {
-  "Canada": [
-    "https://fintrac-canafe.canada.ca/rss/rss-eng.xml"
-  ],
-  "UK": [
-    "https://www.fca.org.uk/news/rss.xml"
-  ],
-  "Hong Kong": [
-    "https://www.hkma.gov.hk/eng/other-information/rss/rss_press-release.xml"
-  ],
-  "EU": [
-    "https://www.eba.europa.eu/news-press/news/rss.xml"
-  ],
-  "Australia": [
-    "https://www.austrac.gov.au/media-release/rss.xml"
-  ]
+  "generatedAt": "2025-08-10T03:52:15.215Z",
+  "items": []
 }
