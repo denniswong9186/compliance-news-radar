@@ -25,7 +25,3 @@ You can open `index.html` directly in a browser. The page loads `news.json` stor
 ## Customize feeds
 Edit `scripts/feeds.json` to add or remove RSS feeds (one per line). Re-run the workflow.
 
-## Costs
-If you set `OPENAI_API_KEY`, short summaries are generated using a cost-effective model by default (`gpt-4o-mini`).
-You can change the model via the `OPENAI_MODEL` env in the workflow.
-
