@@ -3,15 +3,26 @@
     "https://fintrac-canafe.canada.ca/rss/rss-eng.xml"
   ],
   "UK": [
-    "https://www.fca.org.uk/news/rss.xml"
+    "https://www.fca.org.uk/news/rss.xml",
+    "https://ofsi.blog.gov.uk/feed/atom/"
   ],
   "Hong Kong": [
     "https://www.hkma.gov.hk/eng/other-information/rss/rss_press-release.xml"
   ],
   "EU": [
-    "https://eba.europa.eu/news-press/news/rss.xml"
+    "https://www.eba.europa.eu/news-press/news/rss.xml"
   ],
   "Australia": [
-    "https://www.austrac.gov.au/media-release/rss.xml"
+    "https://www.austrac.gov.au/news-and-media/media-release/rss.xml",
+    "https://www.rba.gov.au/rss/media-releases.xml"
+  ],
+  "Singapore": [
+    "https://www.mas.gov.sg/rss/feeds/news-releases", 
+    "https://www.mas.gov.sg/rss/feeds/speeches"
+  ],
+  "US": [
+    "https://www.fincen.gov/rss.xml",
+    "https://www.sec.gov/news/pressreleases.rss"
   ]
 }
+
