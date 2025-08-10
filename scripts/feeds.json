@@ -2,14 +2,13 @@
   "Canada": [
     "https://fintrac-canafe.canada.ca/rss/rss-eng.xml",
     "https://www.osfi-bsif.gc.ca/Eng/rss/rss.xml", 
-    "https://www.priv.gc.ca/en/rss",  // PIPEDA (Privacy Commissioner)
-    "https://lautorite.qc.ca/en/rss/press-releases", // AMF
+    "https://www.priv.gc.ca/en/rss",
+    "https://lautorite.qc.ca/en/rss/press-releases",
     "https://www.rcmp-grc.gc.ca/en/news/rss", 
-    "https://www.canada.ca/en/revenue-agency.atom.xml", // CRA News
+    "https://www.canada.ca/en/revenue-agency.atom.xml",
     "https://www.cdic.ca/en/rss/news-releases-feed", 
-    "https://ised-isde.canada.ca/site/canadian-anti-spam-legislation/en/rss", // CASL
-    "https://www.canada.ca/en/financial-consumer-agency.atom.xml" // FCAC
-
+    "https://ised-isde.canada.ca/site/canadian-anti-spam-legislation/en/rss",
+    "https://www.canada.ca/en/financial-consumer-agency.atom.xml"
   ],
   "UK": [
     "https://www.fca.org.uk/news/rss.xml",
