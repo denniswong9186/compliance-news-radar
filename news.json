@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2025-08-11T12:21:15.208Z",
+  "generatedAt": "2025-08-11T13:32:01.823Z",
   "items": [
+    {
+      "title": "Guidance: The Green Book: Training",
+      "link": "https://www.gov.uk/government/publications/the-green-book-training",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-11T13:26:27.000Z",
+      "region": "UK",
+      "summary": "Access to training and accreditation in best practice business cases.",
+      "tags": []
+    },
+    {
+      "title": "First-quarter of 2025 supervisory data shows that the EU/EEA banking sector remains robust, despite increased cost of risk, the EBA Risk Dashboard finds",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/first-quarter-2025-supervisory-data-shows-eueea-banking-sector-remains-robust-despite-increased-cost",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-08-11T12:55:00.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) today published its Q1 2025 Risk Dashboard (RDB), which discloses aggregated statistical information for the largest EU/EEA credit institutions.",
+      "tags": [
+        "EU",
+        "EBA",
+        "Regulator"
+      ]
+    },
     {
       "title": "Policy paper: Policy statement: The Appointed Representatives Regime",
       "link": "https://www.gov.uk/government/publications/policy-statement-the-appointed-representatives-regime",
@@ -597,19 +619,6 @@
       ]
     },
     {
-      "title": "EU banks continue to meet their MREL requirements set by Resolution Authorities on the basis of the identified resolution strategies",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eu-banks-continue-meet-their-mrel-requirements-set-resolution-authorities-basis-identified",
-      "source": "European Banking Authority",
-      "publishedAt": "2025-07-31T14:33:31.000Z",
-      "region": "EU",
-      "summary": "The European Banking Authority (EBA) today published its Q4 2024 semi-annual Dashboard on the minimum requirement for own funds and eligible liabilities (MREL), which discloses aggregated statistical information for 345 ",
-      "tags": [
-        "EU",
-        "EBA",
-        "Regulator"
-      ]
-    },
-    {
       "title": "Guidance: Who is subject to financial sanctions in the UK?",
       "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
       "source": "HM Treasury - Activity on GOV.UK",
@@ -783,15 +792,6 @@
         "SEC",
         "Regulator"
       ]
-    },
-    {
-      "title": "Corporate report: Whole of Government Accounts 2024 to 2025: guidance for preparers",
-      "link": "https://www.gov.uk/government/publications/whole-of-government-accounts-2024-to-2025-guidance-for-preparers",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-07-29T13:48:05.000Z",
-      "region": "UK",
-      "summary": "Guidance for central government and local government preparers for Whole of Government Accounts.",
-      "tags": []
     },
     {
       "title": "Minutes of the UK Money Markets Code Sub-Committee – June 2025",
@@ -1408,19 +1408,6 @@
         "US",
         "SEC",
         "Regulator"
-      ]
-    },
-    {
-      "title": "News release: FINTRAC imposes an administrative monetary penalty on Hub Capital Inc.",
-      "link": "https://fintrac-canafe.canada.ca/new-neuf/nr/2025-06-12-eng",
-      "source": "Financial Transactions and Reports Analysis Centre of Canada",
-      "publishedAt": "2025-06-12T13:00:00.000Z",
-      "region": "Canada",
-      "summary": "Hub Capital Inc., an independent wealth management firm in Woodbridge, Ontario, was imposed an administrative monetary penalty of $99,000 for committing 4 violations.",
-      "tags": [
-        "Canada",
-        "CRA",
-        "FCAC"
       ]
     }
   ]
