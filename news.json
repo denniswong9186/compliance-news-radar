@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-08-11T11:11:15.344Z",
+  "generatedAt": "2025-08-11T12:21:15.208Z",
   "items": [
     {
       "title": "Policy paper: Policy statement: The Appointed Representatives Regime",
@@ -170,15 +170,6 @@
       "tags": []
     },
     {
-      "title": "£143 million funding to secure over 130 disused coal tips",
-      "link": "https://www.gov.uk/government/news/143-million-funding-to-secure-over-130-disused-coal-tips",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-07T08:00:04.000Z",
-      "region": "UK",
-      "summary": "Chancellor Rachel Reeves will outline how £143 million of UK Government funding will secure over 130 disused coal tips in Wales on a visit to Port Talbot today, Thursday 7 August.",
-      "tags": []
-    },
-    {
       "title": "The EBA consults on revised Guidelines on internal governance",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-consults-revised-guidelines-internal-governance",
       "source": "European Banking Authority",
@@ -190,6 +181,15 @@
         "EBA",
         "Regulator"
       ]
+    },
+    {
+      "title": "£143 million funding to secure over 130 disused coal tips",
+      "link": "https://www.gov.uk/government/news/143-million-funding-to-secure-over-130-disused-coal-tips",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-06T23:00:00.000Z",
+      "region": "UK",
+      "summary": "Chancellor Rachel Reeves will outline how £143 million of UK Government funding will secure over 130 disused coal tips in Wales on a visit to Port Talbot today, Thursday 7 August.",
+      "tags": []
     },
     {
       "title": "HKMA and IFC to host Climate Business Forum: Asia Pacific 2025 to support region’s ambitions for a low-carbon, resilient and inclusive future",
