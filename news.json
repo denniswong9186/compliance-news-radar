@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2025-08-12T09:13:44.041Z",
+  "generatedAt": "2025-08-12T10:12:26.755Z",
   "items": [
+    {
+      "title": "Guidance: Who is subject to financial sanctions in the UK?",
+      "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-12T10:01:42.000Z",
+      "region": "UK",
+      "summary": "A guide to the current consolidated list of asset freeze targets, and a list of persons named in relation to financial and investment restrictions under the Russia regulations",
+      "tags": []
+    },
+    {
+      "title": "Guidance: Iraq financial sanctions: list of asset-freeze targets",
+      "link": "https://www.gov.uk/government/publications/financial-sanctions-iraq",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-12T10:01:20.000Z",
+      "region": "UK",
+      "summary": "Iraq is currently subject to UK financial sanctions. This document contains the current list of designated persons.",
+      "tags": []
+    },
+    {
+      "title": "Guidance: Cyber financial sanctions: list of asset-freeze targets",
+      "link": "https://www.gov.uk/government/publications/financial-sanctions-cyber-attacks",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-12T10:01:08.000Z",
+      "region": "UK",
+      "summary": "UK financial sanctions are in place for persons, entities or bodies involved in certain cyber activity. This page contains the current list of designated targets.",
+      "tags": []
+    },
     {
       "title": "SupTech can make anti-money laundering and countering the financing of terrorism supervision more effective, the EBA finds",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/suptech-can-make-anti-money-laundering-and-countering-financing-terrorism-supervision-more-effective",
@@ -11,6 +38,19 @@
       "tags": [
         "EU",
         "EBA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250812-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-11T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
         "Regulator"
       ]
     },
@@ -632,15 +672,6 @@
       ]
     },
     {
-      "title": "Guidance: Who is subject to financial sanctions in the UK?",
-      "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-07-31T13:37:14.000Z",
-      "region": "UK",
-      "summary": "A guide to the current consolidated list of asset freeze targets, and a list of persons named in relation to financial and investment restrictions under the Russia regulations",
-      "tags": []
-    },
-    {
       "title": "Guidance: Russia financial sanctions: list of asset-freeze targets",
       "link": "https://www.gov.uk/government/publications/financial-sanctions-ukraine-sovereignty-and-territorial-integrity",
       "source": "HM Treasury - Activity on GOV.UK",
@@ -669,15 +700,6 @@
       "publishedAt": "2025-07-31T09:00:00.000Z",
       "region": "UK",
       "summary": "The Prudential Regulation Authority has unveiled a series of possible options to make it easier for mid-sized firms to scale-up and compete in the residential mortgage market, and is now opening a wide discussion with in",
-      "tags": []
-    },
-    {
-      "title": "Penalty issued for breach of Russia Sanctions",
-      "link": "https://www.gov.uk/government/news/penalty-issued-for-breach-of-russia-sanctions",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-07-30T23:00:00.000Z",
-      "region": "UK",
-      "summary": "The Office of Financial Sanctions Implementation (OFSI) has imposed a £300,000 monetary penalty against Markom Management Limited (MML)",
       "tags": []
     },
     {
@@ -785,15 +807,6 @@
       ]
     },
     {
-      "title": "Corporate report: UK Government Investments Annual Report and Accounts 2024-25",
-      "link": "https://www.gov.uk/government/publications/uk-government-investments-annual-report-and-accounts-2024-25",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-07-30T14:10:21.000Z",
-      "region": "UK",
-      "summary": "This annual report and accounts provides an overview of UKGI’s activities during the 2024-25 financial year.",
-      "tags": []
-    },
-    {
       "title": "SEC Permits In-Kind Creations and Redemptions for Crypto ETPs",
       "link": "https://www.sec.gov/newsroom/press-releases/2025-101-sec-permits-kind-creations-redemptions-crypto-etps",
       "source": "Press Releases",
@@ -827,19 +840,6 @@
     {
       "title": "Implementation of regulatory regime for stablecoin issuers",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/07/20250729-4/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-07-28T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "Exchange Fund Bills Tender Results",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/07/20250729-3/",
       "source": "HKMA: Press Releases",
       "publishedAt": "2025-07-28T16:00:00.000Z",
       "region": "Hong Kong",
