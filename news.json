@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2025-08-12T10:12:26.755Z",
+  "generatedAt": "2025-08-12T11:10:16.628Z",
   "items": [
+    {
+      "title": "Chancellor confirms landmark investment to fix the foundations for Northern Ireland’s future prosperity",
+      "link": "https://www.gov.uk/government/news/chancellor-confirms-landmark-investment-to-fix-the-foundations-for-northern-irelands-future-prosperity",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-12T10:55:08.000Z",
+      "region": "UK",
+      "summary": "£310 million in new funding for economic growth unveiled as part of Plan for Change.",
+      "tags": []
+    },
     {
       "title": "Guidance: Who is subject to financial sanctions in the UK?",
       "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
@@ -670,15 +679,6 @@
         "HKMA",
         "Regulator"
       ]
-    },
-    {
-      "title": "Guidance: Russia financial sanctions: list of asset-freeze targets",
-      "link": "https://www.gov.uk/government/publications/financial-sanctions-ukraine-sovereignty-and-territorial-integrity",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-07-31T13:34:09.000Z",
-      "region": "UK",
-      "summary": "The Russia (Sanctions) (EU Exit) Regulations 2019 ensure sanctions relating to Russia are implemented effectively after the UK leaves the EU.",
-      "tags": []
     },
     {
       "title": "FCAC calls on banks to improve handling of consumer complaints",
