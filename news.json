@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2025-08-12T15:11:54.184Z",
+  "generatedAt": "2025-08-12T16:13:44.482Z",
   "items": [
+    {
+      "title": "News release: Significant ATM scam at AB casino results in money laundering and fraud charges",
+      "link": "https://rcmp.ca/en/news/2025/08/significant-atm-scam-ab-casino-results-money-laundering-and-fraud-charges",
+      "source": "Financial Transactions and Reports Analysis Centre of Canada",
+      "publishedAt": "2025-08-12T14:57:11.000Z",
+      "region": "Canada",
+      "summary": "FINTRAC’s financial intelligence was recognized by the Royal Canadian Mounted Police Federal Policing Northwest Region where four individuals have been charged in relation to a coordinated ATM fraud in western Canadian c",
+      "tags": []
+    },
     {
       "title": "Chancellor confirms landmark investment to fix the foundations for Northern Ireland’s future prosperity",
       "link": "https://www.gov.uk/government/news/chancellor-confirms-landmark-investment-to-fix-the-foundations-for-northern-irelands-future-prosperity",
@@ -393,12 +402,12 @@
       ]
     },
     {
-      "title": "FINTRAC updates its administrative monetary penalties policy",
-      "link": "https://fintrac-canafe.canada.ca/pen/2-eng",
+      "title": "FINTRAC publishes its supervisory framework",
+      "link": "https://fintrac-canafe.canada.ca/introduction/cpf/cpf-eng",
       "source": "Financial Transactions and Reports Analysis Centre of Canada",
       "publishedAt": "2025-08-06T13:00:00.000Z",
       "region": "Canada",
-      "summary": "The administrative monetary penalties program supports FINTRAC's mandate by providing a measured and proportionate response to particular instances of non-compliance.",
+      "summary": "Learn about FINTRAC's framework that guides the Centre's supervisory activities that ensure compliance with the Proceeds of Crime (Money Laundering) and Terrorist Financing Act.",
       "tags": [
         "Canada",
         "CRA",
@@ -406,12 +415,12 @@
       ]
     },
     {
-      "title": "FINTRAC publishes its supervisory framework",
-      "link": "https://fintrac-canafe.canada.ca/introduction/cpf/cpf-eng",
+      "title": "FINTRAC updates its administrative monetary penalties policy",
+      "link": "https://fintrac-canafe.canada.ca/pen/2-eng",
       "source": "Financial Transactions and Reports Analysis Centre of Canada",
       "publishedAt": "2025-08-06T13:00:00.000Z",
       "region": "Canada",
-      "summary": "Learn about FINTRAC's framework that guides the Centre's supervisory activities that ensure compliance with the Proceeds of Crime (Money Laundering) and Terrorist Financing Act.",
+      "summary": "The administrative monetary penalties program supports FINTRAC's mandate by providing a measured and proportionate response to particular instances of non-compliance.",
       "tags": [
         "Canada",
         "CRA",
