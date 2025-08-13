@@ -1,6 +1,41 @@
 {
-  "generatedAt": "2025-08-13T08:15:14.731Z",
+  "generatedAt": "2025-08-13T09:14:28.892Z",
   "items": [
+    {
+      "title": "Senior business leaders bolster Treasury board",
+      "link": "https://www.gov.uk/government/news/senior-business-leaders-bolster-treasury-board",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-13T08:10:02.000Z",
+      "region": "UK",
+      "summary": "Chancellor bolsters business expertise at the Treasury with three new appointments to the Board of Directors.",
+      "tags": []
+    },
+    {
+      "title": "Record of Discussion of the Meeting of the Exchange Fund Advisory Committee Currency Board Sub-Committee held on 2 July 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250813-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-12T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Tender of 2-Year Exchange Fund Notes to be held on 22 August 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250813-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-12T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
     {
       "title": "News release: Significant ATM scam at AB casino results in money laundering and fraud charges",
       "link": "https://rcmp.ca/en/news/2025/08/significant-atm-scam-ab-casino-results-money-laundering-and-fraud-charges",
@@ -642,15 +677,6 @@
       ]
     },
     {
-      "title": "Chancellor backs jobs boost in Scottish defence and energy sectors",
-      "link": "https://www.gov.uk/government/news/chancellor-backs-jobs-boost-in-scottish-defence-and-energy-sectors",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-01T08:10:21.000Z",
-      "region": "UK",
-      "summary": "Chancellor Rachel Reeves will outline how the Spending Review will give Scotland a jobs boost, as she visits RAF Lossiemouth and St Fergus Gas Plant today (1 August).",
-      "tags": []
-    },
-    {
       "title": "Senior Appointment at the Hong Kong Monetary Authority",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250801-5/",
       "source": "HKMA: Press Releases",
@@ -803,19 +829,6 @@
       ]
     },
     {
-      "title": "HKMA’s Response to US Fed’s Interest Rate Decision",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/07/20250731-3/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-07-30T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
       "title": "SEC Permits In-Kind Creations and Redemptions for Crypto ETPs",
       "link": "https://www.sec.gov/newsroom/press-releases/2025-101-sec-permits-kind-creations-redemptions-crypto-etps",
       "source": "Press Releases",
@@ -845,19 +858,6 @@
       "region": "UK",
       "summary": "Jackie Bennett OBE has been re-appointed for a second term as the Chair for the Residential Property Forum (RPF) – a Bank of England convened, industry-led group, which helps monitor the residential property sector in th",
       "tags": []
-    },
-    {
-      "title": "Implementation of regulatory regime for stablecoin issuers",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/07/20250729-4/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-07-28T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
     },
     {
       "title": "The PRA fines Barents Reinsurance S.A., London Branch £1,785,000 for internal controls, governance and reporting failures",
