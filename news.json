@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-08-14T11:10:21.930Z",
+  "generatedAt": "2025-08-14T12:20:58.532Z",
   "items": [
     {
       "title": "International treaty: The Berne Financial Services Agreement",
@@ -18,6 +18,58 @@
       "region": "UK",
       "summary": "Guidance for departments for the country and regional analysis (CRA) data collection exercise.",
       "tags": []
+    },
+    {
+      "title": "Joint Statement by the HKMA and the SFC on Stablecoin-related Market Movements",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250814-8/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-13T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Tender for the re-opening of 20-year HKD HKSAR Institutional Government Bonds to be held on Wednesday, 20 August 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250814-7/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-13T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Tender results of the re-opening of 5-year RMB HKSAR Institutional Government Bonds",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250814-6/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-13T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Tender results of 2-year RMB HKSAR Institutional Government Bonds",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250814-5/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-13T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
     },
     {
       "title": "Scam alert related to banks",
@@ -768,19 +820,6 @@
       ]
     },
     {
-      "title": "Survey on Small and Medium-Sized Enterprises (SMEs)’ Credit Conditions for Second Quarter 2025",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250801-3/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-07-31T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
       "title": "FCAC calls on banks to improve handling of consumer complaints",
       "link": "https://www.canada.ca/en/financial-consumer-agency/news/2025/07/fcac-calls-on-banks-to-improve-handling-of-consumer-complaints.html",
       "source": "Financial Consumer Agency of Canada",
@@ -801,45 +840,6 @@
       "region": "UK",
       "summary": "The Prudential Regulation Authority has unveiled a series of possible options to make it easier for mid-sized firms to scale-up and compete in the residential mortgage market, and is now opening a wide discussion with in",
       "tags": []
-    },
-    {
-      "title": "Scam alert related to banks",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/07/20250731-10/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-07-30T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "Exchange Fund Position at end-June 2025",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/07/20250731-9/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-07-30T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "Monetary Statistics for June 2025",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/07/20250731-8/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-07-30T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
     },
     {
       "title": "SEC Permits In-Kind Creations and Redemptions for Crypto ETPs",
