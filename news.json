@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2025-08-14T09:14:38.709Z",
+  "generatedAt": "2025-08-14T10:12:25.348Z",
   "items": [
+    {
+      "title": "Guidance: Country and Regional Analysis 2025 Guidance",
+      "link": "https://www.gov.uk/government/publications/country-and-regional-analysis-2025-guidance",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-14T09:30:06.000Z",
+      "region": "UK",
+      "summary": "Guidance for departments for the country and regional analysis (CRA) data collection exercise.",
+      "tags": []
+    },
     {
       "title": "Scam alert related to banks",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250814-4/",
@@ -652,15 +661,6 @@
       "publishedAt": "2025-08-05T08:30:02.000Z",
       "region": "UK",
       "summary": "This release details movements in the international reserves of gold and assets held by the UK government.",
-      "tags": []
-    },
-    {
-      "title": "Guidance: OSCAR guidance for Budgeting (Plans and Outturn)",
-      "link": "https://www.gov.uk/government/publications/oscar-guidance-for-budgeting-plans-and-outturn",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-04T23:00:00.000Z",
-      "region": "UK",
-      "summary": "Guidance on how to load data, review control totals and download reports for HM Treasury's OSCAR database.",
       "tags": []
     },
     {
