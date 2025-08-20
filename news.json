@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-08-20T09:12:17.056Z",
+  "generatedAt": "2025-08-20T10:11:38.353Z",
   "items": [
     {
       "title": "Official Statistics: Forecasts for the UK economy: August 2025",
@@ -9,6 +9,19 @@
       "region": "UK",
       "summary": "A comparison of independent forecasts for the UK economy in August 2025.",
       "tags": []
+    },
+    {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250820-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-19T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
     },
     {
       "title": "Tender results of the re-opening of 20-year HKD HKSAR Institutional Government Bonds",
@@ -670,19 +683,6 @@
     {
       "title": "Tender results of the re-opening of 10-year RMB HKSAR Institutional Government Bonds",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250807-4/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-08-06T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "Hong Kong’s Latest Foreign Currency Reserve Assets Figures Released",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250807-3/",
       "source": "HKMA: Press Releases",
       "publishedAt": "2025-08-06T16:00:00.000Z",
       "region": "Hong Kong",
