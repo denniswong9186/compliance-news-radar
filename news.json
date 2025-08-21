@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2025-08-21T10:11:19.023Z",
+  "generatedAt": "2025-08-21T11:09:43.491Z",
   "items": [
+    {
+      "title": "Guidance: Who is subject to financial sanctions in the UK?",
+      "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-21T11:03:30.000Z",
+      "region": "UK",
+      "summary": "A guide to the current consolidated list of asset freeze targets, and a list of persons named in relation to financial and investment restrictions under the Russia regulations",
+      "tags": []
+    },
+    {
+      "title": "Guidance: Iran financial sanctions: list of asset-freeze targets",
+      "link": "https://www.gov.uk/government/publications/financial-sanctions-iran",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-21T11:03:22.000Z",
+      "region": "UK",
+      "summary": "This page contains the current list of persons designated under the Iran sanctions regime.",
+      "tags": []
+    },
+    {
+      "title": "Policy paper: Treasury Minutes – August 2025",
+      "link": "https://www.gov.uk/government/publications/treasury-minutes-august-2025",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-21T10:47:09.000Z",
+      "region": "UK",
+      "summary": "Government departments respond to the Public Accounts Committee reports through a Treasury minute.",
+      "tags": []
+    },
+    {
+      "title": "Transparency data: HMT workforce management information: July 2025",
+      "link": "https://www.gov.uk/government/publications/hmt-workforce-management-information-july-2025",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-21T10:30:32.000Z",
+      "region": "UK",
+      "summary": "This document details monthly management information on staff numbers and paybill costs within HM Treasury and its agencies.",
+      "tags": []
+    },
     {
       "title": "Policy paper: Scottish Income Tax outturn reconciliation for 2023-24",
       "link": "https://www.gov.uk/government/publications/scottish-income-tax-outturn-reconciliation-for-2023-24",
@@ -27,6 +63,19 @@
       "region": "UK",
       "summary": "The public sector finances statistical bulletin.",
       "tags": []
+    },
+    {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250821-7/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-20T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
     },
     {
       "title": "SFC and HKMA to co-organise Hong Kong Fixed Income and Currency Forum 2025",
@@ -79,15 +128,6 @@
         "HKMA",
         "Regulator"
       ]
-    },
-    {
-      "title": "Guidance: Who is subject to financial sanctions in the UK?",
-      "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-20T13:01:06.000Z",
-      "region": "UK",
-      "summary": "A guide to the current consolidated list of asset freeze targets, and a list of persons named in relation to financial and investment restrictions under the Russia regulations",
-      "tags": []
     },
     {
       "title": "Guidance: Russia financial sanctions: list of asset-freeze targets",
@@ -528,15 +568,6 @@
       ]
     },
     {
-      "title": "Guidance: The Green Book: Training",
-      "link": "https://www.gov.uk/government/publications/the-green-book-training",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-11T13:26:27.000Z",
-      "region": "UK",
-      "summary": "Access to training and accreditation in best practice business cases.",
-      "tags": []
-    },
-    {
       "title": "First-quarter of 2025 supervisory data shows that the EU/EEA banking sector remains robust, despite increased cost of risk, the EBA Risk Dashboard finds",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/first-quarter-2025-supervisory-data-shows-eueea-banking-sector-remains-robust-despite-increased-cost",
       "source": "European Banking Authority",
@@ -548,15 +579,6 @@
         "EBA",
         "Regulator"
       ]
-    },
-    {
-      "title": "Policy paper: Policy statement: The Appointed Representatives Regime",
-      "link": "https://www.gov.uk/government/publications/policy-statement-the-appointed-representatives-regime",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-11T08:30:01.000Z",
-      "region": "UK",
-      "summary": "This policy statement sets out the government’s overall policy approach for regulation of Appointed Representatives carrying on regulated financial services activity in the UK.",
-      "tags": []
     },
     {
       "title": "The EBA publishes statement confirming its response to the new European Commission’s Delegated Act postponing the market risk framework in the EU",
@@ -646,15 +668,6 @@
       "tags": []
     },
     {
-      "title": "Guidance: OFSI General Licence INT/2022/2085212",
-      "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20222085212--2",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-07T10:27:22.000Z",
-      "region": "UK",
-      "summary": "Details of OFSI General Licence INT/2022/2085212",
-      "tags": []
-    },
-    {
       "title": "The EBA consults on revised Guidelines on internal governance",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-consults-revised-guidelines-internal-governance",
       "source": "European Banking Authority",
@@ -670,19 +683,6 @@
     {
       "title": "HKMA and IFC to host Climate Business Forum: Asia Pacific 2025 to support region’s ambitions for a low-carbon, resilient and inclusive future",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250807-9/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-08-06T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "Hong Kong gears up for Green Week",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250807-8/",
       "source": "HKMA: Press Releases",
       "publishedAt": "2025-08-06T16:00:00.000Z",
       "region": "Hong Kong",
