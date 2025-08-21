@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-08-21T06:20:54.128Z",
+  "generatedAt": "2025-08-21T07:15:04.969Z",
   "items": [
     {
       "title": "Accredited official statistics: Public sector finances bulletin",
@@ -9,6 +9,32 @@
       "region": "UK",
       "summary": "The public sector finances statistical bulletin.",
       "tags": []
+    },
+    {
+      "title": "Ministry of Finance issues Renminbi Sovereign Bonds through Central Moneymarkets Unit of Hong Kong Monetary Authority",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250821-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-20T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "The People's Bank of China will issue Renminbi Bills through Central Moneymarkets Unit of Hong Kong Monetary Authority",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250821-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-20T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
     },
     {
       "title": "Guidance: Who is subject to financial sanctions in the UK?",
@@ -47,6 +73,45 @@
       "tags": []
     },
     {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250820-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-19T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Tender results of the re-opening of 20-year HKD HKSAR Institutional Government Bonds",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250820-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-19T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Exchange Fund Bills Tender Results",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250819-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-18T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
       "title": "The EBA publishes its final standards for off-balance sheet items conversion factors",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-final-standards-balance-sheet-items-conversion-factors",
       "source": "European Banking Authority",
@@ -78,6 +143,19 @@
       "tags": []
     },
     {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250818-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-17T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
       "title": "Standard: Government Functional Standard - GovS 014: Debt",
       "link": "https://www.gov.uk/government/publications/government-functional-standard-govs-014-debt",
       "source": "HM Treasury - Activity on GOV.UK",
@@ -94,6 +172,58 @@
       "region": "UK",
       "summary": "Democratic Republic of the Congo is currently subject to UK financial sanctions. This document provides a current list of designated persons.",
       "tags": []
+    },
+    {
+      "title": "Tender for the re-opening of 3-year RMB HKSAR Institutional Government Bonds to be held on Thursday, 21 August 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250815-6/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-14T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Credit Card Lending Survey Results for Second Quarter 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250815-5/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-14T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Tentative issuance schedule for Exchange Fund Bills and Notes",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250815-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-14T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Instant Message and Website Alert – fraudulent websites related to Alipay Financial Services (HK) Limited",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250815-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-14T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
     },
     {
       "title": "Founder and Owner of Washington-Based Water Machine Manufacturer and Two Companies Charged in $275 Million Fraud Scheme",
@@ -127,6 +257,84 @@
       "tags": []
     },
     {
+      "title": "Joint Statement by the HKMA and the SFC on Stablecoin-related Market Movements",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250814-8/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-13T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Tender for the re-opening of 20-year HKD HKSAR Institutional Government Bonds to be held on Wednesday, 20 August 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250814-7/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-13T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Tender results of the re-opening of 5-year RMB HKSAR Institutional Government Bonds",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250814-6/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-13T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Tender results of 2-year RMB HKSAR Institutional Government Bonds",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250814-5/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-13T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250814-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-13T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Analytical Accounts of the Exchange Fund",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250814-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-13T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
       "title": "Guidance: Cyber financial sanctions: list of asset-freeze targets",
       "link": "https://www.gov.uk/government/publications/financial-sanctions-cyber-attacks",
       "source": "HM Treasury - Activity on GOV.UK",
@@ -156,6 +364,58 @@
       "region": "UK",
       "summary": "Consultation on changes to the Office of Financial Sanctions Implementation’s civil enforcement processes for financial sanctions and the oil price cap.",
       "tags": []
+    },
+    {
+      "title": "Tender results of the re-opening of 5-year HKD HKSAR Institutional Government Bonds",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250813-6/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-12T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Tender results of 1-year HONIA-indexed Floating Rate Notes",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250813-5/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-12T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Record of Discussion of the Meeting of the Exchange Fund Advisory Committee Currency Board Sub-Committee held on 2 July 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250813-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-12T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Tender of 2-Year Exchange Fund Notes to be held on 22 August 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250813-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-12T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
     },
     {
       "title": "News release: Significant ATM scam at AB casino results in money laundering and fraud charges",
@@ -194,6 +454,32 @@
       "tags": [
         "EU",
         "EBA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250812-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-11T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Exchange Fund Bills Tender Results",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250812-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-11T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
         "Regulator"
       ]
     },
@@ -255,6 +541,58 @@
       ]
     },
     {
+      "title": "Beware of fraudulent documents purported to be issued by HKMA",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250808-6/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-07T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250808-5/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-07T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Tender for the re-opening of 5-year RMB HKSAR Institutional Government Bonds to be held on Thursday, 14 August 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250808-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-07T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Tender of 2-year RMB HKSAR Institutional Government Bonds to be held on Thursday, 14 August 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250808-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-07T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
       "title": "Bank Rate reduced to 4% - August 2025",
       "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/august-2025",
       "source": "News",
@@ -300,6 +638,58 @@
       "tags": [
         "EU",
         "EBA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "HKMA and IFC to host Climate Business Forum: Asia Pacific 2025 to support region’s ambitions for a low-carbon, resilient and inclusive future",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250807-9/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-06T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Hong Kong gears up for Green Week",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250807-8/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-06T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250807-7/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-06T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Tender for the re-opening of 5-year HKD HKSAR Institutional Government Bonds to be held on Wednesday, 13 August 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250807-6/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-06T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
         "Regulator"
       ]
     },
