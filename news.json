@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2025-08-21T09:12:00.747Z",
+  "generatedAt": "2025-08-21T10:11:19.023Z",
   "items": [
+    {
+      "title": "Policy paper: Scottish Income Tax outturn reconciliation for 2023-24",
+      "link": "https://www.gov.uk/government/publications/scottish-income-tax-outturn-reconciliation-for-2023-24",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-21T10:00:01.000Z",
+      "region": "UK",
+      "summary": "This explanatory note sets out how the 2023-24 Income Tax data published by HMRC and population data published by the ONS is used to update the Scottish Government’s funding.",
+      "tags": []
+    },
+    {
+      "title": "Policy paper: Welsh Rates of Income Tax outturn reconciliation for 2023-24",
+      "link": "https://www.gov.uk/government/publications/welsh-rates-of-income-tax-outturn-reconciliation-for-2023-24",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-21T10:00:01.000Z",
+      "region": "UK",
+      "summary": "This explanatory note sets out how the 2023-24 Income Tax data published by HMRC is used to update the Welsh Government’s funding.",
+      "tags": []
+    },
     {
       "title": "Accredited official statistics: Public sector finances bulletin",
       "link": "https://www.gov.uk/government/statistics/public-sector-finances-bulletin",
@@ -9,6 +27,19 @@
       "region": "UK",
       "summary": "The public sector finances statistical bulletin.",
       "tags": []
+    },
+    {
+      "title": "SFC and HKMA to co-organise Hong Kong Fixed Income and Currency Forum 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250821-6/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-20T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
     },
     {
       "title": "Tender results of the re-opening of 3-year RMB HKSAR Institutional Government Bonds",
@@ -624,24 +655,6 @@
       "tags": []
     },
     {
-      "title": "Official Statistics: Standards and policies for HM Treasury statistics",
-      "link": "https://www.gov.uk/government/statistics/standards-and-policies-for-hm-treasury-statistics",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-07T10:12:06.000Z",
-      "region": "UK",
-      "summary": "HM Treasury's statistics are governed by the standards set out by the UK Statistics Authority in their Code of Practice for official statistics.",
-      "tags": []
-    },
-    {
-      "title": "Statutory guidance: Reference Documents for The Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020",
-      "link": "https://www.gov.uk/government/publications/reference-documents-for-the-customs-tariff-preferential-trade-arrangements-eu-exit-regulations-2020",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-07T09:24:25.000Z",
-      "region": "UK",
-      "summary": "Find the UK’s preferential tariffs and Rules of Origin for the agreements contained within the Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Amendment) (EU Exit) Regulations 2020.",
-      "tags": []
-    },
-    {
       "title": "The EBA consults on revised Guidelines on internal governance",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-consults-revised-guidelines-internal-governance",
       "source": "European Banking Authority",
@@ -670,19 +683,6 @@
     {
       "title": "Hong Kong gears up for Green Week",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250807-8/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-08-06T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "Scam alert related to banks",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250807-7/",
       "source": "HKMA: Press Releases",
       "publishedAt": "2025-08-06T16:00:00.000Z",
       "region": "Hong Kong",
