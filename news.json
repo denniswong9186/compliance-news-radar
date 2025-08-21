@@ -1,13 +1,22 @@
 {
-  "generatedAt": "2025-08-21T13:23:51.072Z",
+  "generatedAt": "2025-08-21T14:11:33.366Z",
   "items": [
     {
       "title": "Guidance: Who is subject to financial sanctions in the UK?",
       "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
       "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-21T11:03:30.000Z",
+      "publishedAt": "2025-08-21T13:43:34.000Z",
       "region": "UK",
       "summary": "A guide to the current consolidated list of asset freeze targets, and a list of persons named in relation to financial and investment restrictions under the Russia regulations",
+      "tags": []
+    },
+    {
+      "title": "Guidance: Russia financial sanctions: list of asset-freeze targets",
+      "link": "https://www.gov.uk/government/publications/financial-sanctions-ukraine-sovereignty-and-territorial-integrity",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-21T13:43:19.000Z",
+      "region": "UK",
+      "summary": "The Russia (Sanctions) (EU Exit) Regulations 2019 ensure sanctions relating to Russia are implemented effectively after the UK leaves the EU.",
       "tags": []
     },
     {
@@ -128,15 +137,6 @@
         "HKMA",
         "Regulator"
       ]
-    },
-    {
-      "title": "Guidance: Russia financial sanctions: list of asset-freeze targets",
-      "link": "https://www.gov.uk/government/publications/financial-sanctions-ukraine-sovereignty-and-territorial-integrity",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-20T13:01:03.000Z",
-      "region": "UK",
-      "summary": "The Russia (Sanctions) (EU Exit) Regulations 2019 ensure sanctions relating to Russia are implemented effectively after the UK leaves the EU.",
-      "tags": []
     },
     {
       "title": "Correspondence: Letter from HM Treasury to Pool Reinsurance Limited",
