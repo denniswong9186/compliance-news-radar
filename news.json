@@ -1,6 +1,45 @@
 {
-  "generatedAt": "2025-08-26T08:15:45.230Z",
+  "generatedAt": "2025-08-26T10:12:03.383Z",
   "items": [
+    {
+      "title": "The updates data used for the identification of global EBA systemically important institutions (G-SIIs)",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/updates-data-used-identification-global-eba-systemically-important-institutions-g-siis",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-08-26T09:06:41.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) today released an updated set of 13 indicators and supporting data for the 32 largest institutions in the European Union, each with a leverage ratio exposure measure exceeding EUR 200",
+      "tags": [
+        "EU",
+        "EBA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250826-5/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-25T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Enforcement collaboration between HKMA and SFC - SFC reprimands and fines HSBC HK$4.2 million for disclosure failures in research reports",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250826-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-25T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
     {
       "title": "Exchange Fund Bills Tender Results",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250826-3/",
@@ -580,19 +619,6 @@
       ]
     },
     {
-      "title": "Tender of 2-Year Exchange Fund Notes to be held on 22 August 2025",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250813-3/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-08-12T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
       "title": "News release: Significant ATM scam at AB casino results in money laundering and fraud charges",
       "link": "https://rcmp.ca/en/news/2025/08/significant-atm-scam-ab-casino-results-money-laundering-and-fraud-charges",
       "source": "Financial Transactions and Reports Analysis Centre of Canada",
@@ -629,19 +655,6 @@
       "tags": [
         "EU",
         "EBA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "Scam alert related to banks",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250812-4/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-08-11T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
         "Regulator"
       ]
     },
@@ -800,19 +813,6 @@
       "publishedAt": "2025-08-05T12:55:00.000Z",
       "region": "EU",
       "summary": "The European Banking Authority (EBA) launched today a public consultation to amend the Regulatory Technical Standards (RTS) on resolution plans and the RTS on resolution colleges. These revisions target both the structur",
-      "tags": [
-        "EU",
-        "EBA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "The EBA publishes draft technical standards on the prudential treatment of crypto asset exposures under the Capital Requirements Regulation",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-draft-technical-standards-prudential-treatment-crypto-asset-exposures-under-capital",
-      "source": "European Banking Authority",
-      "publishedAt": "2025-08-05T11:36:07.000Z",
-      "region": "EU",
-      "summary": "The European Banking Authority (EBA) today published its final draft Regulatory Technical Standards (RTS) which specify the technical elements necessary for institutions to calculate and aggregate crypto-asset exposures ",
       "tags": [
         "EU",
         "EBA",
@@ -1241,15 +1241,6 @@
       "publishedAt": "2025-06-30T09:49:10.000Z",
       "region": "UK",
       "summary": "Statistical Notices update the definitions and guidance contained in the Banking Statistics Yellow Folder",
-      "tags": []
-    },
-    {
-      "title": "Evaluation of horizon scanning",
-      "link": "https://www.bankofengland.co.uk/independent-evaluation-office/ieo-report-june-2025",
-      "source": "News",
-      "publishedAt": "2025-06-27T09:30:00.000Z",
-      "region": "UK",
-      "summary": "In December 2023 the Bank’s Court of Directors commissioned its Independent Evaluation Office (IEO) to conduct an evaluation of whether the Bank uses horizon scanning effectively to inform decision-making and support its",
       "tags": []
     }
   ]
