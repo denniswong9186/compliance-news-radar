@@ -1,6 +1,177 @@
 {
-  "generatedAt": "2025-08-28T08:14:39.605Z",
+  "generatedAt": "2025-08-28T09:11:32.226Z",
   "items": [
+    {
+      "title": "Transparency data: HM Treasury: spending over £500, July 24",
+      "link": "https://www.gov.uk/government/publications/hm-treasury-spending-over-500-july-24",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-28T09:00:04.000Z",
+      "region": "UK",
+      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
+      "tags": []
+    },
+    {
+      "title": "Transparency data: HMT spend greater than £25,000: February 2025",
+      "link": "https://www.gov.uk/government/publications/hmt-spend-greater-than-25000-february-2025",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-28T09:00:04.000Z",
+      "region": "UK",
+      "summary": "This document details HMT spend greater than £25,000.",
+      "tags": []
+    },
+    {
+      "title": "Transparency data: HM Treasury: spending over £500, January 25",
+      "link": "https://www.gov.uk/government/publications/hm-treasury-spending-over-500-january-25",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-28T09:00:04.000Z",
+      "region": "UK",
+      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
+      "tags": []
+    },
+    {
+      "title": "Transparency data: HM Treasury: spending over £500, August 24",
+      "link": "https://www.gov.uk/government/publications/hm-treasury-spending-over-500-august-24",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-28T09:00:04.000Z",
+      "region": "UK",
+      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
+      "tags": []
+    },
+    {
+      "title": "Transparency data: HM Treasury: spending over £500, September 24",
+      "link": "https://www.gov.uk/government/publications/hm-treasury-spending-over-500-september-24",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-28T09:00:04.000Z",
+      "region": "UK",
+      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
+      "tags": []
+    },
+    {
+      "title": "Transparency data: HM Treasury: spending over £500, February 25",
+      "link": "https://www.gov.uk/government/publications/hm-treasury-spending-over-500-february-25",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-28T09:00:04.000Z",
+      "region": "UK",
+      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
+      "tags": []
+    },
+    {
+      "title": "Transparency data: HM Treasury: spending over £500, October 24",
+      "link": "https://www.gov.uk/government/publications/hm-treasury-spending-over-500-october-24",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-28T09:00:04.000Z",
+      "region": "UK",
+      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
+      "tags": []
+    },
+    {
+      "title": "Transparency data: HM Treasury: spending over £500, December 24",
+      "link": "https://www.gov.uk/government/publications/hm-treasury-spending-over-500-december-24",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-28T09:00:04.000Z",
+      "region": "UK",
+      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
+      "tags": []
+    },
+    {
+      "title": "Transparency data: HM Treasury: spending over £500, March 25",
+      "link": "https://www.gov.uk/government/publications/hm-treasury-spending-over-500-march-25",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-28T09:00:04.000Z",
+      "region": "UK",
+      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
+      "tags": []
+    },
+    {
+      "title": "Transparency data: HM Treasury: spending over £500, November 24",
+      "link": "https://www.gov.uk/government/publications/hm-treasury-spending-over-500-november-24",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-28T09:00:04.000Z",
+      "region": "UK",
+      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
+      "tags": []
+    },
+    {
+      "title": "Transparency data: HMT spend greater than £25,000: March 2025",
+      "link": "https://www.gov.uk/government/publications/hmt-spend-greater-than-25000-march-2025",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-28T09:00:04.000Z",
+      "region": "UK",
+      "summary": "This document details HMT spend greater than £25,000.",
+      "tags": []
+    },
+    {
+      "title": "Transparency data: HMT spend greater than £25,000: September 2024",
+      "link": "https://www.gov.uk/government/publications/hmt-spend-greater-than-25000-september-2024",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-28T09:00:03.000Z",
+      "region": "UK",
+      "summary": "This document details HMT spend greater than £25,000.",
+      "tags": []
+    },
+    {
+      "title": "Transparency data: HMT spend greater than £25,000: October 2024",
+      "link": "https://www.gov.uk/government/publications/hmt-spend-greater-than-25000-october-2024",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-28T09:00:03.000Z",
+      "region": "UK",
+      "summary": "This document details HMT spend greater than £25,000.",
+      "tags": []
+    },
+    {
+      "title": "Transparency data: HMT spend greater than £25,000: July 2024",
+      "link": "https://www.gov.uk/government/publications/hmt-spend-greater-than-25000-july-2024",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-28T09:00:03.000Z",
+      "region": "UK",
+      "summary": "This document details HMT spend greater than £25,000.",
+      "tags": []
+    },
+    {
+      "title": "Transparency data: HMT spend greater than £25,000: August 2024",
+      "link": "https://www.gov.uk/government/publications/hmt-spend-greater-than-25000-august-2024",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-28T09:00:03.000Z",
+      "region": "UK",
+      "summary": "This document details HMT spend greater than £25,000.",
+      "tags": []
+    },
+    {
+      "title": "Transparency data: HMT spend greater than £25,000: January 2025",
+      "link": "https://www.gov.uk/government/publications/hmt-spend-greater-than-25000-january-2025",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-28T09:00:03.000Z",
+      "region": "UK",
+      "summary": "This document details HMT spend greater than £25,000.",
+      "tags": []
+    },
+    {
+      "title": "Transparency data: HMT spend greater than £25,000: November 2024",
+      "link": "https://www.gov.uk/government/publications/hmt-spend-greater-than-25000-november-2024",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-28T09:00:03.000Z",
+      "region": "UK",
+      "summary": "This document details HMT spend greater than £25,000.",
+      "tags": []
+    },
+    {
+      "title": "Transparency data: HMT spend greater than £25,000: December 2024",
+      "link": "https://www.gov.uk/government/publications/hmt-spend-greater-than-25000-december-2024",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-28T09:00:03.000Z",
+      "region": "UK",
+      "summary": "This document details HMT spend greater than £25,000.",
+      "tags": []
+    },
+    {
+      "title": "Peter Hofbauer appointed to The Crown Estate Board",
+      "link": "https://www.gov.uk/government/news/peter-hofbauer-appointed-to-the-crown-estate-board",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-28T08:30:07.000Z",
+      "region": "UK",
+      "summary": "The Crown Estate has announced the appointment of Peter Hofbauer to The Crown Estate Board.",
+      "tags": []
+    },
     {
       "title": "SEC Announces Agenda and Panelists for Roundtable on Trade-Through Prohibitions",
       "link": "https://www.sec.gov/newsroom/press-releases/2025-109-sec-announces-agenda-panelists-roundtable-trade-through-prohibitions",
@@ -128,15 +299,6 @@
       ]
     },
     {
-      "title": "Official Statistics: Forecasts for the UK economy: August 2025",
-      "link": "https://www.gov.uk/government/statistics/forecasts-for-the-uk-economy-august-2025",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-22T13:56:46.000Z",
-      "region": "UK",
-      "summary": "A comparison of independent forecasts for the UK economy in August 2025.",
-      "tags": []
-    },
-    {
       "title": "SEC Names Judge Margaret Ryan as Director of the Division of Enforcement",
       "link": "https://www.sec.gov/newsroom/press-releases/2025-108-sec-names-judge-margaret-ryan-director-division-enforcement",
       "source": "Press Releases",
@@ -174,78 +336,6 @@
         "HKMA",
         "Regulator"
       ]
-    },
-    {
-      "title": "Guidance: Who is subject to financial sanctions in the UK?",
-      "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-21T13:43:34.000Z",
-      "region": "UK",
-      "summary": "A guide to the current consolidated list of asset freeze targets, and a list of persons named in relation to financial and investment restrictions under the Russia regulations",
-      "tags": []
-    },
-    {
-      "title": "Guidance: Russia financial sanctions: list of asset-freeze targets",
-      "link": "https://www.gov.uk/government/publications/financial-sanctions-ukraine-sovereignty-and-territorial-integrity",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-21T13:43:19.000Z",
-      "region": "UK",
-      "summary": "The Russia (Sanctions) (EU Exit) Regulations 2019 ensure sanctions relating to Russia are implemented effectively after the UK leaves the EU.",
-      "tags": []
-    },
-    {
-      "title": "Guidance: Iran financial sanctions: list of asset-freeze targets",
-      "link": "https://www.gov.uk/government/publications/financial-sanctions-iran",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-21T11:03:22.000Z",
-      "region": "UK",
-      "summary": "This page contains the current list of persons designated under the Iran sanctions regime.",
-      "tags": []
-    },
-    {
-      "title": "Policy paper: Treasury Minutes – August 2025",
-      "link": "https://www.gov.uk/government/publications/treasury-minutes-august-2025",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-21T10:47:09.000Z",
-      "region": "UK",
-      "summary": "Government departments respond to the Public Accounts Committee reports through a Treasury minute.",
-      "tags": []
-    },
-    {
-      "title": "Transparency data: HMT workforce management information: July 2025",
-      "link": "https://www.gov.uk/government/publications/hmt-workforce-management-information-july-2025",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-21T10:30:32.000Z",
-      "region": "UK",
-      "summary": "This document details monthly management information on staff numbers and paybill costs within HM Treasury and its agencies.",
-      "tags": []
-    },
-    {
-      "title": "Policy paper: Scottish Income Tax outturn reconciliation for 2023-24",
-      "link": "https://www.gov.uk/government/publications/scottish-income-tax-outturn-reconciliation-for-2023-24",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-21T10:00:01.000Z",
-      "region": "UK",
-      "summary": "This explanatory note sets out how the 2023-24 Income Tax data published by HMRC and population data published by the ONS is used to update the Scottish Government’s funding.",
-      "tags": []
-    },
-    {
-      "title": "Policy paper: Welsh Rates of Income Tax outturn reconciliation for 2023-24",
-      "link": "https://www.gov.uk/government/publications/welsh-rates-of-income-tax-outturn-reconciliation-for-2023-24",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-21T10:00:01.000Z",
-      "region": "UK",
-      "summary": "This explanatory note sets out how the 2023-24 Income Tax data published by HMRC is used to update the Welsh Government’s funding.",
-      "tags": []
-    },
-    {
-      "title": "Accredited official statistics: Public sector finances bulletin",
-      "link": "https://www.gov.uk/government/statistics/public-sector-finances-bulletin",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-21T06:00:10.000Z",
-      "region": "UK",
-      "summary": "The public sector finances statistical bulletin.",
-      "tags": []
     },
     {
       "title": "Scam alert related to banks",
@@ -313,15 +403,6 @@
       ]
     },
     {
-      "title": "Correspondence: Letter from HM Treasury to Pool Reinsurance Limited",
-      "link": "https://www.gov.uk/government/publications/letter-from-hm-treasury-to-pool-reinsurance-limited",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-20T11:30:01.000Z",
-      "region": "UK",
-      "summary": "This letter provides an update regarding elements of HMT interpretation when certifying incidents under the Reinsurance (Acts of Terrorism) 1993 Act.",
-      "tags": []
-    },
-    {
       "title": "Scam alert related to banks",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250820-4/",
       "source": "HKMA: Press Releases",
@@ -374,24 +455,6 @@
       ]
     },
     {
-      "title": "Corporate report: Whole of Government Accounts 2024 to 2025: guidance for preparers",
-      "link": "https://www.gov.uk/government/publications/whole-of-government-accounts-2024-to-2025-guidance-for-preparers",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-18T11:47:00.000Z",
-      "region": "UK",
-      "summary": "Guidance for central government and local government preparers for Whole of Government Accounts.",
-      "tags": []
-    },
-    {
-      "title": "Senior business leaders bolster Treasury board",
-      "link": "https://www.gov.uk/government/news/senior-business-leaders-bolster-treasury-board",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-18T08:49:55.000Z",
-      "region": "UK",
-      "summary": "Chancellor bolsters business expertise at the Treasury with three new appointments to the Board of Directors.",
-      "tags": []
-    },
-    {
       "title": "Scam alert related to banks",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250818-3/",
       "source": "HKMA: Press Releases",
@@ -403,24 +466,6 @@
         "HKMA",
         "Regulator"
       ]
-    },
-    {
-      "title": "Standard: Government Functional Standard - GovS 014: Debt",
-      "link": "https://www.gov.uk/government/publications/government-functional-standard-govs-014-debt",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-15T15:24:09.000Z",
-      "region": "UK",
-      "summary": "This standard is part of a suite of standards to guide people working in and with the UK government.",
-      "tags": []
-    },
-    {
-      "title": "Guidance: Democratic Republic of the Congo financial sanctions: list of asset-freeze targets",
-      "link": "https://www.gov.uk/government/publications/financial-sanctions-democratic-republic-of-the-congo",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-15T12:06:39.000Z",
-      "region": "UK",
-      "summary": "Democratic Republic of the Congo is currently subject to UK financial sanctions. This document provides a current list of designated persons.",
-      "tags": []
     },
     {
       "title": "Tender for the re-opening of 3-year RMB HKSAR Institutional Government Bonds to be held on Thursday, 21 August 2025",
@@ -486,24 +531,6 @@
         "SEC",
         "Regulator"
       ]
-    },
-    {
-      "title": "International treaty: The Berne Financial Services Agreement",
-      "link": "https://www.gov.uk/government/publications/the-berne-financial-services-agreement",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-14T10:57:24.000Z",
-      "region": "UK",
-      "summary": "His Majesty’s Treasury of the United Kingdom of Great Britain and Northern Ireland and the Federal Department of Finance of the Swiss Confederation have signed a ground-breaking agreement to enhance the cross-border mark",
-      "tags": []
-    },
-    {
-      "title": "Guidance: Country and Regional Analysis 2025 Guidance",
-      "link": "https://www.gov.uk/government/publications/country-and-regional-analysis-2025-guidance",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-14T09:30:06.000Z",
-      "region": "UK",
-      "summary": "Guidance for departments for the country and regional analysis (CRA) data collection exercise.",
-      "tags": []
     },
     {
       "title": "Joint Statement by the HKMA and the SFC on Stablecoin-related Market Movements",
@@ -584,15 +611,6 @@
       ]
     },
     {
-      "title": "Guidance: Cyber financial sanctions: list of asset-freeze targets",
-      "link": "https://www.gov.uk/government/publications/financial-sanctions-cyber-attacks",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-13T15:14:52.000Z",
-      "region": "UK",
-      "summary": "UK financial sanctions are in place for persons, entities or bodies involved in certain cyber activity. This page contains the current list of designated targets.",
-      "tags": []
-    },
-    {
       "title": "SEC Launches New Statistics and Data Visualizations Webpage",
       "link": "https://www.sec.gov/newsroom/press-releases/2025-106-sec-launches-new-statistics-data-visualizations-webpage",
       "source": "Press Releases",
@@ -604,15 +622,6 @@
         "SEC",
         "Regulator"
       ]
-    },
-    {
-      "title": "Improving civil enforcement processes for financial sanctions",
-      "link": "https://www.gov.uk/government/consultations/improving-civil-enforcement-processes-for-financial-sanctions",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-13T10:47:19.000Z",
-      "region": "UK",
-      "summary": "Consultation on changes to the Office of Financial Sanctions Implementation’s civil enforcement processes for financial sanctions and the oil price cap.",
-      "tags": []
     },
     {
       "title": "Tender results of the re-opening of 5-year HKD HKSAR Institutional Government Bonds",
@@ -647,15 +656,6 @@
       "publishedAt": "2025-08-12T14:57:11.000Z",
       "region": "Canada",
       "summary": "FINTRAC’s financial intelligence was recognized by the Royal Canadian Mounted Police Federal Policing Northwest Region where four individuals have been charged in relation to a coordinated ATM fraud in western Canadian c",
-      "tags": []
-    },
-    {
-      "title": "Chancellor confirms landmark investment to fix the foundations for Northern Ireland’s future prosperity",
-      "link": "https://www.gov.uk/government/news/chancellor-confirms-landmark-investment-to-fix-the-foundations-for-northern-irelands-future-prosperity",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-12T10:55:08.000Z",
-      "region": "UK",
-      "summary": "£310 million in new funding for economic growth unveiled as part of Plan for Change.",
       "tags": []
     },
     {
