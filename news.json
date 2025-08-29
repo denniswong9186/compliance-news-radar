@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2025-08-29T10:11:15.896Z",
+  "generatedAt": "2025-08-29T11:09:23.413Z",
   "items": [
+    {
+      "title": "Transparency data: HM Treasury: spending over £500, December 24",
+      "link": "https://www.gov.uk/government/publications/hm-treasury-spending-over-500-december-24",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-29T11:01:50.000Z",
+      "region": "UK",
+      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
+      "tags": []
+    },
+    {
+      "title": "Transparency data: HM Treasury: spending over £500, January 25",
+      "link": "https://www.gov.uk/government/publications/hm-treasury-spending-over-500-january-25",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-08-29T11:01:45.000Z",
+      "region": "UK",
+      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
+      "tags": []
+    },
     {
       "title": "Transparency data: HM Treasury: spending over £500, July 24",
       "link": "https://www.gov.uk/government/publications/hm-treasury-spending-over-500-july-24",
@@ -42,24 +60,6 @@
       "link": "https://www.gov.uk/government/publications/hm-treasury-spending-over-500-november-24",
       "source": "HM Treasury - Activity on GOV.UK",
       "publishedAt": "2025-08-29T09:22:19.000Z",
-      "region": "UK",
-      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
-      "tags": []
-    },
-    {
-      "title": "Transparency data: HM Treasury: spending over £500, December 24",
-      "link": "https://www.gov.uk/government/publications/hm-treasury-spending-over-500-december-24",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-29T09:21:59.000Z",
-      "region": "UK",
-      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
-      "tags": []
-    },
-    {
-      "title": "Transparency data: HM Treasury: spending over £500, January 25",
-      "link": "https://www.gov.uk/government/publications/hm-treasury-spending-over-500-january-25",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-29T09:21:40.000Z",
       "region": "UK",
       "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
       "tags": []
