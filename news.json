@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2025-08-29T12:18:59.304Z",
+  "generatedAt": "2025-08-29T13:20:40.733Z",
   "items": [
+    {
+      "title": "The EBA responds to the European Parliament’s observations made in the 2023 Discharge report",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-responds-european-parliaments-observations-made-2023-discharge-report",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-08-29T13:12:06.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) today published an Opinion in response to the observations made by European Parliament in its 2023 Discharge Report. In the new format report, covering all agencies, the number of obs",
+      "tags": [
+        "EU",
+        "EBA",
+        "Regulator"
+      ]
+    },
     {
       "title": "Transparency data: HM Treasury: spending over £500, December 24",
       "link": "https://www.gov.uk/government/publications/hm-treasury-spending-over-500-december-24",
@@ -829,19 +842,6 @@
       "tags": [
         "US",
         "SEC",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "The EBA consults to simplify and streamline its technical standards on resolution plans and on the functioning of resolution colleges",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-consults-simplify-and-streamline-its-technical-standards-resolution-plans-and-functioning",
-      "source": "European Banking Authority",
-      "publishedAt": "2025-08-05T12:55:00.000Z",
-      "region": "EU",
-      "summary": "The European Banking Authority (EBA) launched today a public consultation to amend the Regulatory Technical Standards (RTS) on resolution plans and the RTS on resolution colleges. These revisions target both the structur",
-      "tags": [
-        "EU",
-        "EBA",
         "Regulator"
       ]
     },
