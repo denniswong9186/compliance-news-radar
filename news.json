@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-01T12:19:52.399Z",
+  "generatedAt": "2025-09-01T13:23:07.524Z",
   "items": [
     {
       "title": "Guidance: Preston guidance: July 2025",
@@ -1228,19 +1228,6 @@
       "region": "UK",
       "summary": "The PRA, FCA and the Society of Lloyd’s have agreed changes to streamline the process of regulatory approval for Lloyd’s managing agents, intended to reduce the timeframe for authorisation.",
       "tags": []
-    },
-    {
-      "title": "News release: FINTRAC imposes an administrative monetary penalty on Canaccord Genuity Corp.",
-      "link": "https://fintrac-canafe.canada.ca/new-neuf/nr/2025-07-03-eng",
-      "source": "Financial Transactions and Reports Analysis Centre of Canada",
-      "publishedAt": "2025-07-03T13:00:00.000Z",
-      "region": "Canada",
-      "summary": "Canaccord Genuity Corp., an investment dealer headquartered in Vancouver, British Columbia, was imposed an administrative monetary penalty of $544,500 for committing 4 violations.",
-      "tags": [
-        "Canada",
-        "CRA",
-        "FCAC"
-      ]
     }
   ]
 }
