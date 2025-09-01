@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-01T08:15:49.597Z",
+  "generatedAt": "2025-09-01T09:13:41.829Z",
   "items": [
     {
       "title": "Chancellor appoints growth adviser",
@@ -9,6 +9,19 @@
       "region": "UK",
       "summary": "Professor John Van Reenen has been appointed by the Chancellor as an adviser on economic growth.",
       "tags": []
+    },
+    {
+      "title": "Interest rate for sixth interest payment of Silver Bond Series due 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250901-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-08-31T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
     },
     {
       "title": "The EBA responds to the European Parliament’s observations made in the 2023 Discharge report",
@@ -639,19 +652,6 @@
     {
       "title": "Tender for the re-opening of 20-year HKD HKSAR Institutional Government Bonds to be held on Wednesday, 20 August 2025",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250814-7/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-08-13T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "Tender results of the re-opening of 5-year RMB HKSAR Institutional Government Bonds",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250814-6/",
       "source": "HKMA: Press Releases",
       "publishedAt": "2025-08-13T16:00:00.000Z",
       "region": "Hong Kong",
