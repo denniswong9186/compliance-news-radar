@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2025-09-01T09:13:41.829Z",
+  "generatedAt": "2025-09-01T10:12:31.378Z",
   "items": [
+    {
+      "title": "Guidance: Preston guidance: July 2025",
+      "link": "https://www.gov.uk/government/publications/preston-guidance-july-2025",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-01T09:59:24.000Z",
+      "region": "UK",
+      "summary": "Preston factors (earnings and interest factors) are provided for employers.",
+      "tags": []
+    },
+    {
+      "title": "Corporate report: Whole of Government Accounts 2024 to 2025: guidance for preparers",
+      "link": "https://www.gov.uk/government/publications/whole-of-government-accounts-2024-to-2025-guidance-for-preparers",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-01T09:19:40.000Z",
+      "region": "UK",
+      "summary": "Guidance for central government and local government preparers for Whole of Government Accounts.",
+      "tags": []
+    },
+    {
+      "title": "Licences that allow activity prohibited by financial sanctions",
+      "link": "https://www.gov.uk/guidance/licences-that-allow-activity-prohibited-by-financial-sanctions",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-01T08:46:25.000Z",
+      "region": "UK",
+      "summary": "Any person or organisation involved in a transaction with those subject to financial sanctions will first need a licence from OFSI.",
+      "tags": []
+    },
     {
       "title": "Chancellor appoints growth adviser",
       "link": "https://www.gov.uk/government/news/chancellor-appoints-growth-adviser",
@@ -254,33 +281,6 @@
       "link": "https://www.gov.uk/government/publications/hmt-spend-greater-than-25000-february-2025",
       "source": "HM Treasury - Activity on GOV.UK",
       "publishedAt": "2025-08-28T09:00:04.000Z",
-      "region": "UK",
-      "summary": "This document details HMT spend greater than £25,000.",
-      "tags": []
-    },
-    {
-      "title": "Transparency data: HMT spend greater than £25,000: March 2025",
-      "link": "https://www.gov.uk/government/publications/hmt-spend-greater-than-25000-march-2025",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-28T09:00:04.000Z",
-      "region": "UK",
-      "summary": "This document details HMT spend greater than £25,000.",
-      "tags": []
-    },
-    {
-      "title": "Transparency data: HMT spend greater than £25,000: September 2024",
-      "link": "https://www.gov.uk/government/publications/hmt-spend-greater-than-25000-september-2024",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-28T09:00:03.000Z",
-      "region": "UK",
-      "summary": "This document details HMT spend greater than £25,000.",
-      "tags": []
-    },
-    {
-      "title": "Transparency data: HMT spend greater than £25,000: October 2024",
-      "link": "https://www.gov.uk/government/publications/hmt-spend-greater-than-25000-october-2024",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-28T09:00:03.000Z",
       "region": "UK",
       "summary": "This document details HMT spend greater than £25,000.",
       "tags": []
