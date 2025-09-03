@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2025-09-03T09:11:02.242Z",
+  "generatedAt": "2025-09-03T10:10:38.517Z",
   "items": [
+    {
+      "title": "Interim Chair appointed to National Savings and Investments",
+      "link": "https://www.gov.uk/government/news/interim-chair-appointed-to-national-savings-and-investments",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-03T09:32:10.000Z",
+      "region": "UK",
+      "summary": "The Economic Secretary to the Treasury has announced that Luke Jensen has been appointed as Interim Chair to the Board of National Savings and Investments (NS&I).",
+      "tags": []
+    },
+    {
+      "title": "Guidance: Who is subject to financial sanctions in the UK?",
+      "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-03T09:19:37.000Z",
+      "region": "UK",
+      "summary": "A guide to the current consolidated list of asset freeze targets, and a list of persons named in relation to financial and investment restrictions under the Russia regulations",
+      "tags": []
+    },
+    {
+      "title": "Guidance: Russia financial sanctions: list of asset-freeze targets",
+      "link": "https://www.gov.uk/government/publications/financial-sanctions-ukraine-sovereignty-and-territorial-integrity",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-03T09:19:33.000Z",
+      "region": "UK",
+      "summary": "The Russia (Sanctions) (EU Exit) Regulations 2019 ensure sanctions relating to Russia are implemented effectively after the UK leaves the EU.",
+      "tags": []
+    },
     {
       "title": "Research: UK official holdings of international reserves: August 2025",
       "link": "https://www.gov.uk/government/publications/uk-official-holdings-of-international-reserves-august-2025",
@@ -29,6 +56,19 @@
       "tags": [
         "US",
         "SEC",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250903-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-02T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
         "Regulator"
       ]
     },
@@ -220,24 +260,6 @@
       "tags": []
     },
     {
-      "title": "Transparency data: HM Treasury: spending over £500, February 25",
-      "link": "https://www.gov.uk/government/publications/hm-treasury-spending-over-500-february-25",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-29T09:21:22.000Z",
-      "region": "UK",
-      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
-      "tags": []
-    },
-    {
-      "title": "Transparency data: HM Treasury: spending over £500, March 25",
-      "link": "https://www.gov.uk/government/publications/hm-treasury-spending-over-500-march-25",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-29T09:21:04.000Z",
-      "region": "UK",
-      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
-      "tags": []
-    },
-    {
       "title": "Granting of restricted banking licence to ABN AMRO Clearing Bank N.V.",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250829-7/",
       "source": "HKMA: Press Releases",
@@ -301,15 +323,6 @@
         "HKMA",
         "Regulator"
       ]
-    },
-    {
-      "title": "Transparency data: HM Treasury group payment performance",
-      "link": "https://www.gov.uk/government/publications/hm-treasury-group-payment-performance",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-28T15:00:00.000Z",
-      "region": "UK",
-      "summary": "Transparency data on invoice payment times.",
-      "tags": []
     },
     {
       "title": "News release: FINTRAC imposes an administrative monetary penalty on British Columbia Lottery Corporation",
@@ -639,19 +652,6 @@
     {
       "title": "Tentative issuance schedule for Exchange Fund Bills and Notes",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250815-4/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-08-14T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "Instant Message and Website Alert – fraudulent websites related to Alipay Financial Services (HK) Limited",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250815-3/",
       "source": "HKMA: Press Releases",
       "publishedAt": "2025-08-14T16:00:00.000Z",
       "region": "Hong Kong",
