@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2025-09-03T19:08:34.876Z",
+  "generatedAt": "2025-09-03T20:11:16.269Z",
   "items": [
+    {
+      "title": "Investment in British AI companies hits record levels as Tech Sec pitches UK as global magnet",
+      "link": "https://www.gov.uk/government/news/investment-in-british-ai-companies-hits-record-levels-as-tech-sec-pitches-uk-as-global-magnet",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-03T20:00:01.000Z",
+      "region": "UK",
+      "summary": "British AI companies attracted record investment last year, driving the government's Plan for Change.",
+      "tags": []
+    },
+    {
+      "title": "SEC Charges Pennsylvania Resident and His Companies with $770 Million Ponzi Scheme",
+      "link": "https://www.sec.gov/newsroom/press-releases/2025-111-sec-charges-pennsylvania-resident-his-companies-770-million-ponzi-scheme",
+      "source": "Press Releases",
+      "publishedAt": "2025-09-03T19:20:35.000Z",
+      "region": "US",
+      "summary": "The Securities and Exchange Commission today charged Daryl F. Heller of Pennsylvania and his companies, Prestige Investment Group, LLC and Paramount Management Group, LLC, with operating a multi-year Ponzi scheme that re",
+      "tags": [
+        "US",
+        "SEC",
+        "Regulator"
+      ]
+    },
     {
       "title": "Guidance: General Licence INT/2022/1710676 Revoked",
       "link": "https://www.gov.uk/government/publications/general-licence-int20221710676--2",
@@ -246,15 +268,6 @@
       "link": "https://www.gov.uk/government/publications/hm-treasury-spending-over-500-august-24",
       "source": "HM Treasury - Activity on GOV.UK",
       "publishedAt": "2025-08-29T09:23:23.000Z",
-      "region": "UK",
-      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
-      "tags": []
-    },
-    {
-      "title": "Transparency data: HM Treasury: spending over £500, September 24",
-      "link": "https://www.gov.uk/government/publications/hm-treasury-spending-over-500-september-24",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-29T09:23:03.000Z",
       "region": "UK",
       "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
       "tags": []
