@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2025-09-03T13:22:18.687Z",
+  "generatedAt": "2025-09-03T14:11:26.069Z",
   "items": [
+    {
+      "title": "Guidance: General Licence INT/2022/1710676 Revoked",
+      "link": "https://www.gov.uk/government/publications/general-licence-int20221710676--2",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-03T13:17:59.000Z",
+      "region": "UK",
+      "summary": "A general licence issued by OFSI",
+      "tags": []
+    },
     {
       "title": "Correspondence: Chancellor letter to the Treasury Select Committee (TSC) - Budget 2025 date",
       "link": "https://www.gov.uk/government/publications/chancellor-letter-to-the-treasury-select-committee-tsc-budget-2025-date",
@@ -246,15 +255,6 @@
       "link": "https://www.gov.uk/government/publications/hm-treasury-spending-over-500-september-24",
       "source": "HM Treasury - Activity on GOV.UK",
       "publishedAt": "2025-08-29T09:23:03.000Z",
-      "region": "UK",
-      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
-      "tags": []
-    },
-    {
-      "title": "Transparency data: HM Treasury: spending over £500, October 24",
-      "link": "https://www.gov.uk/government/publications/hm-treasury-spending-over-500-october-24",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-29T09:22:46.000Z",
       "region": "UK",
       "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
       "tags": []
