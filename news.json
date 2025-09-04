@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2025-09-04T09:11:14.939Z",
+  "generatedAt": "2025-09-04T10:11:13.550Z",
   "items": [
+    {
+      "title": "Guidance: Accounting Officer templates",
+      "link": "https://www.gov.uk/government/publications/accounting-officers-appointed-by-hm-treasury-july-2013",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-04T09:43:07.000Z",
+      "region": "UK",
+      "summary": "Templates for Accounting Officers and list of Accounting Officers appointed by HM Treasury.",
+      "tags": []
+    },
     {
       "title": "Investment in British AI companies hits record levels as Tech Sec pitches UK as global magnet",
       "link": "https://www.gov.uk/government/news/investment-in-british-ai-companies-hits-record-levels-as-tech-sec-pitches-uk-as-global-magnet",
@@ -20,6 +29,19 @@
       "tags": [
         "US",
         "SEC",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250904-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-03T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
         "Regulator"
       ]
     },
@@ -272,15 +294,6 @@
       "link": "https://www.gov.uk/government/publications/hm-treasury-spending-over-500-july-24",
       "source": "HM Treasury - Activity on GOV.UK",
       "publishedAt": "2025-08-29T09:23:42.000Z",
-      "region": "UK",
-      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
-      "tags": []
-    },
-    {
-      "title": "Transparency data: HM Treasury: spending over £500, August 24",
-      "link": "https://www.gov.uk/government/publications/hm-treasury-spending-over-500-august-24",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-29T09:23:23.000Z",
       "region": "UK",
       "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
       "tags": []
@@ -652,19 +665,6 @@
     {
       "title": "Tender for the re-opening of 3-year RMB HKSAR Institutional Government Bonds to be held on Thursday, 21 August 2025",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250815-6/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-08-14T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "Credit Card Lending Survey Results for Second Quarter 2025",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250815-5/",
       "source": "HKMA: Press Releases",
       "publishedAt": "2025-08-14T16:00:00.000Z",
       "region": "Hong Kong",
