@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2025-09-04T11:09:19.123Z",
+  "generatedAt": "2025-09-04T12:19:45.667Z",
   "items": [
+    {
+      "title": "Budget to address economy that’s “not working well enough for working people”",
+      "link": "https://www.gov.uk/government/news/budget-to-address-economy-thats-not-working-well-enough-for-working-people",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-04T11:20:02.000Z",
+      "region": "UK",
+      "summary": "Today (Wednesday 3 September), the Chancellor has confirmed that the date of the Budget will be Wednesday 26 November.",
+      "tags": []
+    },
     {
       "title": "Bank of England launches discussion paper seeking views on measures to enhance gilt repo market resilience",
       "link": "https://www.bankofengland.co.uk/news/2025/september/boe-launches-discussion-paper-seeking-views-on-measures-to-enhance-gilt-repo-market-resilience",
@@ -8,6 +17,15 @@
       "publishedAt": "2025-09-04T11:00:00.000Z",
       "region": "UK",
       "summary": "The Bank of England has today published a Discussion Paper on potential measures to enhance the resilience of the UK government bond (‘gilt’) repo market",
+      "tags": []
+    },
+    {
+      "title": "Minutes of the Standards Advisory Panel - June 2025",
+      "link": "https://www.bankofengland.co.uk/minutes/2025/june/standards-advisory-panel-june-2025",
+      "source": "News",
+      "publishedAt": "2025-09-04T09:51:16.000Z",
+      "region": "UK",
+      "summary": "The latest meeting of the Standards Advisory Panel (SAP)",
       "tags": []
     },
     {
@@ -119,15 +137,6 @@
       "publishedAt": "2025-09-03T08:30:02.000Z",
       "region": "UK",
       "summary": "This release details movements in the international reserves of gold and assets held by the UK government.",
-      "tags": []
-    },
-    {
-      "title": "Budget to address economy that’s “not working well enough for working people”",
-      "link": "https://www.gov.uk/government/news/budget-to-address-economy-thats-not-working-well-enough-for-working-people",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-02T23:00:00.000Z",
-      "region": "UK",
-      "summary": "Today (Wednesday 3 September), the Chancellor has confirmed that the date of the Budget will be Wednesday 26 November.",
       "tags": []
     },
     {
