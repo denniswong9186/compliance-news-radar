@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2025-09-05T08:13:56.589Z",
+  "generatedAt": "2025-09-05T09:11:16.773Z",
   "items": [
+    {
+      "title": "The EBA welcomes feedback on its draft technical package and new enhanced DPM 2.0 glossary",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-welcomes-feedback-its-draft-technical-package-and-new-enhanced-dpm-20-glossary",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-09-05T08:17:12.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) today published a draft technical package for version 4.2 of its reporting framework, marking a key milestone in the transition to the DPM 2.0 standard and the introduction of a fully",
+      "tags": [
+        "EU",
+        "EBA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Hong Kong’s Latest Foreign Currency Reserve Assets Figures Released",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250905-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-04T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
     {
       "title": "Corporate report: Financial Reporting Advisory Board annual report: 2024 to 2025",
       "link": "https://www.gov.uk/government/publications/financial-reporting-advisory-board-annual-report-2024-to-2025",
@@ -703,19 +729,6 @@
       ]
     },
     {
-      "title": "Tender for the re-opening of 3-year RMB HKSAR Institutional Government Bonds to be held on Thursday, 21 August 2025",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250815-6/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-08-14T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
       "title": "Founder and Owner of Washington-Based Water Machine Manufacturer and Two Companies Charged in $275 Million Fraud Scheme",
       "link": "https://www.sec.gov/newsroom/press-releases/2025-107-founder-owner-washington-based-water-machine-manufacturer-two-companies-charged-275-million-fraud",
       "source": "Press Releases",
@@ -879,19 +892,6 @@
       "publishedAt": "2025-08-06T11:24:45.000Z",
       "region": "EU",
       "summary": "The European Banking Authority (EBA) today published its final Regulatory Technical Standards (RTS) specifying what constitutes an “equivalent legal mechanism” for unfinished property exposures under the Capital Requirem",
-      "tags": [
-        "EU",
-        "EBA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "The EBA issues a no-action letter on the application of ESG disclosure requirements and updates the EBA ESG risks dashboard with December 2024 data",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-issues-no-action-letter-application-esg-disclosure-requirements-and-updates-eba-esg-risks",
-      "source": "European Banking Authority",
-      "publishedAt": "2025-08-06T07:18:00.000Z",
-      "region": "EU",
-      "summary": "The European Banking Authority (EBA) today published a no-action letter on the application of the ESG Pillar 3 disclosure requirements under the EBA disclosure Implementing Technical Standards (ITS). This no-action lette",
       "tags": [
         "EU",
         "EBA",
@@ -1285,15 +1285,6 @@
         "SEC",
         "Regulator"
       ]
-    },
-    {
-      "title": "Lloyd’s managing agent authorisation process to be streamlined to support growth",
-      "link": "https://www.bankofengland.co.uk/news/2025/july/lloyds-managing-agent-authorisation-process-to-be-streamlined-to-support-growth",
-      "source": "News",
-      "publishedAt": "2025-07-07T09:00:00.000Z",
-      "region": "UK",
-      "summary": "The PRA, FCA and the Society of Lloyd’s have agreed changes to streamline the process of regulatory approval for Lloyd’s managing agents, intended to reduce the timeframe for authorisation.",
-      "tags": []
     }
   ]
 }
