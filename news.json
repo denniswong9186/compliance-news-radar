@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2025-09-05T13:20:05.835Z",
+  "generatedAt": "2025-09-05T14:10:04.834Z",
   "items": [
+    {
+      "title": "Transparency data: HM Treasury: ministerial overseas travel and meetings, January to March 2025",
+      "link": "https://www.gov.uk/government/publications/hm-treasury-ministerial-overseas-travel-and-meetings-january-to-march-2025",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-05T13:21:34.000Z",
+      "region": "UK",
+      "summary": "Data on ministers’ overseas travel and meetings with external individuals and organisations.",
+      "tags": []
+    },
     {
       "title": "SEC and CFTC Issue Joint Statement on Regulatory Harmonization Efforts; Will Co-Host Roundtable Sept. 29",
       "link": "https://www.sec.gov/newsroom/press-releases/2025-112-sec-cftc-issue-joint-statement-regulatory-harmonization-efforts-will-co-host-roundtable-sept-29",
@@ -393,15 +402,6 @@
         "EBA",
         "Regulator"
       ]
-    },
-    {
-      "title": "Transparency data: HM Treasury: spending over £500, December 24",
-      "link": "https://www.gov.uk/government/publications/hm-treasury-spending-over-500-december-24",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-08-29T11:01:50.000Z",
-      "region": "UK",
-      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
-      "tags": []
     },
     {
       "title": "Granting of restricted banking licence to ABN AMRO Clearing Bank N.V.",
@@ -1285,19 +1285,6 @@
       "region": "UK",
       "summary": "Our Financial Policy Committee (FPC) meets to identify risks to financial stability and agree policy actions aimed at safeguarding the resilience of the UK financial system.",
       "tags": []
-    },
-    {
-      "title": "SEC Small Business Advisory Committee to Discuss Regulatory Framework for Finders and Continue Exploring Regulation A",
-      "link": "https://www.sec.gov/newsroom/press-releases/2025-97-sec-small-business-advisory-committee-discuss-regulatory-framework-finders-continue-exploring",
-      "source": "Press Releases",
-      "publishedAt": "2025-07-07T13:57:00.000Z",
-      "region": "US",
-      "summary": "The Securities and Exchange Commission’s Small Business Capital Formation Advisory Committee announced that it will hold a meeting at the SEC Headquarters in Washington D.C on Tuesday, July 22, 2025 at 10 a.m. E.T. The m",
-      "tags": [
-        "US",
-        "SEC",
-        "Regulator"
-      ]
     }
   ]
 }
