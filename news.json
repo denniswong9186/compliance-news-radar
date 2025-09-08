@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-08T09:13:23.232Z",
+  "generatedAt": "2025-09-08T10:12:20.208Z",
   "items": [
     {
       "title": "A Streamlined Approach to Payment Systems Regulation Consultation",
@@ -9,6 +9,32 @@
       "region": "UK",
       "summary": "This consultation sets out proposals for consolidating the Payment Systems Regulator within the Financial Conduct Authority.",
       "tags": []
+    },
+    {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250908-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-07T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "HKMA launches public consultation on Phase 2A prototype of Hong Kong Taxonomy for Sustainable Finance",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250908-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-07T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
     },
     {
       "title": "SEC Announces Formation of Cross-Border Task Force to Combat Fraud",
@@ -707,32 +733,6 @@
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250821-3/",
       "source": "HKMA: Press Releases",
       "publishedAt": "2025-08-20T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "Scam alert related to banks",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250820-4/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-08-19T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "Tender results of the re-opening of 20-year HKD HKSAR Institutional Government Bonds",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250820-3/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-08-19T16:00:00.000Z",
       "region": "Hong Kong",
       "summary": "Summary unavailable. Open article for details.",
       "tags": [
