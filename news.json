@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-09T08:14:32.764Z",
+  "generatedAt": "2025-09-09T09:12:18.239Z",
   "items": [
     {
       "title": "SEC Crypto Task Force to Host Roundtable on Financial Surveillance and Privacy",
@@ -11,6 +11,32 @@
       "tags": [
         "US",
         "SEC",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Beware of fraudulent documents purported to be issued by HKMA",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250909-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-08T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Exchange Fund Bills Tender Results",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250909-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-08T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
         "Regulator"
       ]
     },
@@ -727,32 +753,6 @@
     {
       "title": "Tender results of the re-opening of 3-year RMB HKSAR Institutional Government Bonds",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250821-5/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-08-20T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "Ministry of Finance issues Renminbi Sovereign Bonds through Central Moneymarkets Unit of Hong Kong Monetary Authority",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250821-4/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-08-20T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "The People's Bank of China will issue Renminbi Bills through Central Moneymarkets Unit of Hong Kong Monetary Authority",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250821-3/",
       "source": "HKMA: Press Releases",
       "publishedAt": "2025-08-20T16:00:00.000Z",
       "region": "Hong Kong",
