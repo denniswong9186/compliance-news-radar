@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-09T20:11:15.113Z",
+  "generatedAt": "2025-09-09T21:08:58.832Z",
   "items": [
     {
       "title": "Statement by FCAC Commissioner Benzvy Miller on FCAC’s commitment to regulatory efficiency",
@@ -51,6 +51,19 @@
         "Canada",
         "CRA",
         "FCAC"
+      ]
+    },
+    {
+      "title": "The ESAs note greater effort from financial market participants in their disclosure of principal adverse impacts",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/esas-note-greater-effort-financial-market-participants-their-disclosure-principal-adverse-impacts",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-09-09T13:00:00.000Z",
+      "region": "EU",
+      "summary": "The Joint Committee of the three European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published their fourth annual Report on the extent of voluntary disclosure of principal adverse impacts (PAIs) unde",
+      "tags": [
+        "EU",
+        "EBA",
+        "Regulator"
       ]
     },
     {
@@ -984,19 +997,6 @@
       "region": "UK",
       "summary": "The Bank's Court of Directors acts as a unitary board, setting the organisation's strategy and budget and taking key decisions on resourcing and appointments. Required to meet a minimum seven times per year, it has five ",
       "tags": []
-    },
-    {
-      "title": "The EBA publishes its final draft technical standards on the equivalent legal mechanism for unfinished property exposures under the Standardised Approach for credit risk",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-final-draft-technical-standards-equivalent-legal-mechanism-unfinished-property",
-      "source": "European Banking Authority",
-      "publishedAt": "2025-08-06T11:24:45.000Z",
-      "region": "EU",
-      "summary": "The European Banking Authority (EBA) today published its final Regulatory Technical Standards (RTS) specifying what constitutes an “equivalent legal mechanism” for unfinished property exposures under the Capital Requirem",
-      "tags": [
-        "EU",
-        "EBA",
-        "Regulator"
-      ]
     },
     {
       "title": "Securities and Exchange Commission Division of Corporation Finance Issues Staff Statement on Certain Liquid Staking Activities",
