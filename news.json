@@ -1,13 +1,93 @@
 {
-  "generatedAt": "2025-09-10T14:10:12.093Z",
+  "generatedAt": "2025-09-10T15:11:05.055Z",
   "items": [
+    {
+      "title": "Made a mistake on your taxes? Upcoming changes to the Voluntary Disclosures Program",
+      "link": "https://www.canada.ca/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2025/mistake-on-taxes-changes-voluntary-disclosures-program.html?rss",
+      "source": "Newsroom",
+      "publishedAt": "2025-09-10T15:00:00.000Z",
+      "region": "Canada",
+      "summary": "The Canada Revenue Agency (CRA) is committed to helping taxpayers correct their past tax mistakes.",
+      "tags": [
+        "Canada",
+        "CRA",
+        "FCAC"
+      ]
+    },
+    {
+      "title": "James Moloney Named Director of Division of Corporation Finance",
+      "link": "https://www.sec.gov/newsroom/press-releases/2025-115-james-moloney-named-director-division-corporation-finance",
+      "source": "Press Releases",
+      "publishedAt": "2025-09-10T15:00:00.000Z",
+      "region": "US",
+      "summary": "The Securities and Exchange Commission today announced that James J. Moloney, a longtime and highly respected legal counsel to public companies worldwide on corporate transactions and corporate governance issues, has bee",
+      "tags": [
+        "US",
+        "SEC",
+        "Regulator"
+      ]
+    },
     {
       "title": "First-time buyers top of the agenda for new Economic Secretary",
       "link": "https://www.gov.uk/government/news/first-time-buyers-top-of-the-agenda-for-new-economic-secretary",
       "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-10T13:33:05.000Z",
+      "publishedAt": "2025-09-10T14:40:21.000Z",
       "region": "UK",
       "summary": "New Economic Secretary and Housing Minister will host major banks in the Treasury tomorrow as part of plans to create an economy that works for working people.",
+      "tags": []
+    },
+    {
+      "title": "Statutory guidance: Reference documents for The Customs (Reliefs from a Liability to Import Duty and Miscellaneous Amendments) (EU Exit) Regulations 2020",
+      "link": "https://www.gov.uk/government/publications/reference-documents-for-the-customs-reliefs-from-a-liability-to-import-duty-and-miscellaneous-amendments-eu-exit-regulations-2020",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-10T14:07:22.000Z",
+      "region": "UK",
+      "summary": "Find the documents for details of the conditions in which a 'good' may be eligible for a relief from the standard tariff rate.",
+      "tags": []
+    },
+    {
+      "title": "Statutory guidance: Reference document for authorised use: eligible goods and authorised uses",
+      "link": "https://www.gov.uk/government/publications/authorised-use-eligible-goods-and-authorised-uses",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-10T14:07:15.000Z",
+      "region": "UK",
+      "summary": "List of eligible goods and their authorised uses.",
+      "tags": []
+    },
+    {
+      "title": "Statutory guidance: Reference Documents for The Customs (Tariff Quotas) (EU Exit) Regulations 2020",
+      "link": "https://www.gov.uk/government/publications/reference-documents-for-the-customs-tariff-quotas-eu-exit-regulations-2020",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-10T14:07:08.000Z",
+      "region": "UK",
+      "summary": "Check the documents that detail product specific tariff-rate quotas, including the individual product volumes and rates, and also list of eligible goods and their authorised uses.",
+      "tags": []
+    },
+    {
+      "title": "Statutory guidance: Reference Documents for The Customs Tariff (Suspension of Import Duty Rates) (EU Exit) Regulations 2020",
+      "link": "https://www.gov.uk/government/publications/reference-documents-for-the-customs-tariff-suspension-of-import-duty-rates-eu-exit-regulations-2020",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-10T14:07:02.000Z",
+      "region": "UK",
+      "summary": "Find out about the tariff suspensions that apply from the end of the transition period.",
+      "tags": []
+    },
+    {
+      "title": "Statutory guidance: Reference Document for The Customs (Origin of Chargeable Goods) (EU Exit) Regulations 2020",
+      "link": "https://www.gov.uk/government/publications/reference-document-for-the-customs-origin-of-chargeable-goods-eu-exit-regulations-2020",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-10T14:06:54.000Z",
+      "region": "UK",
+      "summary": "Find out about the product-specific rules, to determine the origin of imports outside of a preferential agreement.",
+      "tags": []
+    },
+    {
+      "title": "Statutory guidance: Reference Document for The Customs Tariff (Establishment) (EU Exit) Regulations 2020",
+      "link": "https://www.gov.uk/government/publications/reference-document-for-the-customs-tariff-establishment-eu-exit-regulations-2020",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-10T14:06:45.000Z",
+      "region": "UK",
+      "summary": "Find the UK’s most favoured nation tariff rates as referenced in The Customs Tariff (Establishment) (EU Exit) Regulations 2020.",
       "tags": []
     },
     {
@@ -459,15 +539,6 @@
       "tags": []
     },
     {
-      "title": "Research: UK official holdings of international reserves: August 2025",
-      "link": "https://www.gov.uk/government/publications/uk-official-holdings-of-international-reserves-august-2025",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-03T08:30:02.000Z",
-      "region": "UK",
-      "summary": "This release details movements in the international reserves of gold and assets held by the UK government.",
-      "tags": []
-    },
-    {
       "title": "SEC and CFTC Staff Issue Joint Statement on Trading of Certain Spot Crypto Asset Products",
       "link": "https://www.sec.gov/newsroom/press-releases/2025-110-sec-cftc-staff-issue-joint-statement-trading-certain-spot-crypto-asset-products",
       "source": "Press Releases",
@@ -494,33 +565,6 @@
       ]
     },
     {
-      "title": "Policy paper: Proposed amendments to the Money Laundering Regulations - draft SI and policy note",
-      "link": "https://www.gov.uk/government/publications/proposed-amendments-to-the-money-laundering-regulations-draft-si-and-policy-note",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-02T13:00:04.000Z",
-      "region": "UK",
-      "summary": "HM Treasury invites feedback on amendments to the UK’s Money Laundering Regulations; consultation closes 30 September 2025.",
-      "tags": []
-    },
-    {
-      "title": "Policy paper: Get Britain Working White Paper",
-      "link": "https://www.gov.uk/government/publications/get-britain-working-white-paper",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-02T07:26:35.000Z",
-      "region": "UK",
-      "summary": "The government's proposals to reform employment, health and skills support to tackle economic inactivity and support people into good work.",
-      "tags": []
-    },
-    {
-      "title": "Corporate report: The Payment Systems Regulator Annual Report and Accounts 2024 to 2025",
-      "link": "https://www.gov.uk/government/publications/the-payment-systems-regulator-annual-report-and-accounts-2024-to-2025",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-01T23:00:00.000Z",
-      "region": "UK",
-      "summary": "This report summarises the Payment Systems Regulator Limited's (PSR) activities over the year 2024 to 2025.",
-      "tags": []
-    },
-    {
       "title": "Scam alert related to banks",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250902-4/",
       "source": "HKMA: Press Releases",
@@ -545,24 +589,6 @@
         "HKMA",
         "Regulator"
       ]
-    },
-    {
-      "title": "Policy paper: Memorandum of Understanding on financial crisis management",
-      "link": "https://www.gov.uk/government/publications/memorandum-of-understanding-on-financial-crisis-management",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-01T15:00:02.000Z",
-      "region": "UK",
-      "summary": "Memorandum of Understanding between His Majesty’s Treasury, and The Bank of England and Prudential Regulation Authority in respect of Resolution Planning and Financial Crisis Management",
-      "tags": []
-    },
-    {
-      "title": "Guidance: Preston guidance: July 2025",
-      "link": "https://www.gov.uk/government/publications/preston-guidance-july-2025",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-01T09:59:24.000Z",
-      "region": "UK",
-      "summary": "Preston factors (earnings and interest factors) are provided for employers.",
-      "tags": []
     },
     {
       "title": "Interest rate for sixth interest payment of Silver Bond Series due 2025",
