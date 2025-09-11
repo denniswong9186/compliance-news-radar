@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2025-09-11T14:11:31.053Z",
+  "generatedAt": "2025-09-11T15:10:58.659Z",
   "items": [
+    {
+      "title": "Guidance: Annual frozen asset review and reporting form",
+      "link": "https://www.gov.uk/government/publications/annual-frozen-asset-review-and-reporting-form",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-11T14:58:33.000Z",
+      "region": "UK",
+      "summary": "Guidance notice for the annual frozen asset reporting exercise 2025 and associated reporting form.",
+      "tags": []
+    },
     {
       "title": "Guidance: OFSI General licence - INT/2024/4907888",
       "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20244907888",
@@ -410,15 +419,6 @@
         "SEC",
         "Regulator"
       ]
-    },
-    {
-      "title": "Transparency data: HM Treasury: ministerial overseas travel and meetings, January to March 2025",
-      "link": "https://www.gov.uk/government/publications/hm-treasury-ministerial-overseas-travel-and-meetings-january-to-march-2025",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-05T13:21:34.000Z",
-      "region": "UK",
-      "summary": "Data on ministers’ overseas travel and meetings with external individuals and organisations.",
-      "tags": []
     },
     {
       "title": "SEC and CFTC Issue Joint Statement on Regulatory Harmonization Efforts; Will Co-Host Roundtable Sept. 29",
