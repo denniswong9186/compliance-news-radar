@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2025-09-11T11:09:03.623Z",
+  "generatedAt": "2025-09-11T12:18:45.847Z",
   "items": [
+    {
+      "title": "Guidance: Who is subject to financial sanctions in the UK?",
+      "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-11T12:11:12.000Z",
+      "region": "UK",
+      "summary": "A guide to the current consolidated list of asset freeze targets, and a list of persons named in relation to financial and investment restrictions under the Russia regulations",
+      "tags": []
+    },
+    {
+      "title": "Guidance: Russia financial sanctions: list of asset-freeze targets",
+      "link": "https://www.gov.uk/government/publications/financial-sanctions-ukraine-sovereignty-and-territorial-integrity",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-11T12:11:04.000Z",
+      "region": "UK",
+      "summary": "The Russia (Sanctions) (EU Exit) Regulations 2019 ensure sanctions relating to Russia are implemented effectively after the UK leaves the EU.",
+      "tags": []
+    },
     {
       "title": "Policy paper: Business rates: forward look",
       "link": "https://www.gov.uk/government/publications/business-rates-forward-look",
@@ -52,6 +70,19 @@
         "Hong Kong",
         "HKMA",
         "Regulator"
+      ]
+    },
+    {
+      "title": "Made a mistake on your taxes? Upcoming changes to the Voluntary Disclosures Program",
+      "link": "https://www.canada.ca/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2025/mistake-on-taxes-changes-voluntary-disclosures-program.html?rss",
+      "source": "Newsroom",
+      "publishedAt": "2025-09-10T15:00:00.000Z",
+      "region": "Canada",
+      "summary": "The Canada Revenue Agency (CRA) is committed to helping taxpayers correct their past tax mistakes.",
+      "tags": [
+        "Canada",
+        "CRA",
+        "FCAC"
       ]
     },
     {
@@ -492,24 +523,6 @@
       "publishedAt": "2025-09-04T09:43:07.000Z",
       "region": "UK",
       "summary": "Templates for Accounting Officers and list of Accounting Officers appointed by HM Treasury.",
-      "tags": []
-    },
-    {
-      "title": "Stephen Blyth appointed, and Randall Kroszner reappointed to the Bank of England’s Financial Policy Committee",
-      "link": "https://www.gov.uk/government/news/stephen-blyth-appointed-and-randall-kroszner-reappointed-to-the-bank-of-englands-financial-policy-committee",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-03T23:00:00.000Z",
-      "region": "UK",
-      "summary": "Professor Stephen Blyth has been appointed, and Dr Randall Kroszner reappointed, as external members of the Financial Policy Committee.",
-      "tags": []
-    },
-    {
-      "title": "Investment in British AI companies hits record levels as Tech Sec pitches UK as global magnet",
-      "link": "https://www.gov.uk/government/news/investment-in-british-ai-companies-hits-record-levels-as-tech-sec-pitches-uk-as-global-magnet",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-03T20:00:01.000Z",
-      "region": "UK",
-      "summary": "British AI companies attracted record investment last year, driving the government's Plan for Change.",
       "tags": []
     },
     {
@@ -1122,6 +1135,19 @@
       "tags": []
     },
     {
+      "title": "Reminder: Tax Free Savings Account – Watch your limit and stay within it!",
+      "link": "https://www.canada.ca/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2025/tax-free-savings-account-limit.html?rss",
+      "source": "Newsroom",
+      "publishedAt": "2025-07-24T14:00:00.000Z",
+      "region": "Canada",
+      "summary": "Canadians have been contributing to tax-free savings accounts (TFSA) since 2009, enjoying tax-free investment growth. Did you know that it’s possible to overcontribute and be subject to tax?",
+      "tags": [
+        "Canada",
+        "CRA",
+        "FCAC"
+      ]
+    },
+    {
       "title": "PRA to accelerate authorisations for UK Insurance Special Purpose Vehicles",
       "link": "https://www.bankofengland.co.uk/news/2025/july/pra-to-accelerate-authorisations-for-uk-insurance-special-purpose-vehicles",
       "source": "News",
@@ -1129,6 +1155,19 @@
       "region": "UK",
       "summary": "Today, the Prudential Regulation Authority (PRA) published policy statement (PS) 9/25 containing its final policy and its feedback to responses received to consultation CP15/24.",
       "tags": []
+    },
+    {
+      "title": "Make the most of your first home savings account",
+      "link": "https://www.canada.ca/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2025/make-most-your-first-home-savings-account.html?rss",
+      "source": "Newsroom",
+      "publishedAt": "2025-07-22T14:00:00.000Z",
+      "region": "Canada",
+      "summary": "A First Home Savings Account (FHSA) lets you save for a qualifying home with tax-free growth and tax-deductible contributions, making it a great option for potential first-time home buyers.",
+      "tags": [
+        "Canada",
+        "CRA",
+        "FCAC"
+      ]
     },
     {
       "title": "Results of the Foreign Exchange Joint Standing Committee (FXJSC) Turnover Survey for April 2025",
@@ -1200,6 +1239,19 @@
       "region": "UK",
       "summary": "The Economic Secretary to the Treasury has today confirmed the reappointment of Marjorie Ngwenya as an External Member of the Prudential Regulation Committee (PRC).",
       "tags": []
+    },
+    {
+      "title": "Important changes to how tax preparers obtain access to an individual’s account",
+      "link": "https://www.canada.ca/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2025/important-changes-how-tax-preparers-obtain-access-individual-account.html?rss",
+      "source": "Newsroom",
+      "publishedAt": "2025-07-17T14:00:00.000Z",
+      "region": "Canada",
+      "summary": "The Canada Revenue Agency (CRA) is enhancing and changing its authorization service for individuals. Here is what you need to know.",
+      "tags": [
+        "Canada",
+        "CRA",
+        "FCAC"
+      ]
     },
     {
       "title": "Remit and recommendations for the  Financial Market Infrastructure Committee - July 2025",
