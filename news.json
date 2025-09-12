@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2025-09-12T08:13:54.535Z",
+  "generatedAt": "2025-09-12T09:10:57.873Z",
   "items": [
+    {
+      "title": "Transparency data: Government Major Projects Portfolio – Accounting Officer Assessments Ministry of Justice",
+      "link": "https://www.gov.uk/government/publications/government-major-projects-portfolio-accounting-officer-assessments-ministry-of-justice",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-12T08:47:33.000Z",
+      "region": "UK",
+      "summary": "Accounting officer assessment summaries for the Ministry of Justice (MoJ) programmes and projects in the Government Major Project Portfolio.",
+      "tags": []
+    },
+    {
+      "title": "Chancellor appoints infrastructure and planning adviser to clear path for new investments",
+      "link": "https://www.gov.uk/government/news/chancellor-appoints-infrastructure-and-planning-adviser-to-clear-path-for-new-investments",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-12T08:30:05.000Z",
+      "region": "UK",
+      "summary": "Leading lawyer, Catherine Howard, appointed to advise Chancellor on the next phase of planning and infrastructure reforms as she vows to ‘do what it takes to get Britain building’",
+      "tags": []
+    },
     {
       "title": "Guidance: Who is subject to financial sanctions in the UK?",
       "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
@@ -29,6 +47,19 @@
       "tags": [
         "US",
         "SEC",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Analytical Accounts of the Exchange Fund",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250912-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-11T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
         "Regulator"
       ]
     },
@@ -251,15 +282,6 @@
       "tags": []
     },
     {
-      "title": "Policy paper: EM on EU excise duty applied to tobacco products (COM(2025)580),",
-      "link": "https://www.gov.uk/government/publications/em-on-eu-excise-duty-applied-to-tobacco-products-com2025580",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-09T23:00:00.000Z",
-      "region": "UK",
-      "summary": "The government's summary of proposed changes to EU laws concerning the structure and rates of excise duty applied to manufactured tobacco and related product.",
-      "tags": []
-    },
-    {
       "title": "Statement by FCAC Commissioner Benzvy Miller on FCAC’s commitment to regulatory efficiency",
       "link": "https://www.canada.ca/en/financial-consumer-agency/news/2025/09/statement-by-fcac-commissioner-benzvy-miller-on-fcacs-commitment-to-regulatory-efficiency.html",
       "source": "Financial Consumer Agency of Canada",
@@ -396,15 +418,6 @@
       "publishedAt": "2025-09-08T12:08:00.000Z",
       "region": "Canada",
       "summary": "FINTRAC’s financial intelligence was recognized by the Alberta Securities Commission (ASC) in relation to an investigation where two individuals have each been charged with seven offences under the Criminal Code, includi",
-      "tags": []
-    },
-    {
-      "title": "A Streamlined Approach to Payment Systems Regulation Consultation",
-      "link": "https://www.gov.uk/government/consultations/a-streamlined-approach-to-payment-systems-regulation-consultation",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-08T08:00:06.000Z",
-      "region": "UK",
-      "summary": "This consultation sets out proposals for consolidating the Payment Systems Regulator within the Financial Conduct Authority.",
       "tags": []
     },
     {
@@ -840,19 +853,6 @@
     {
       "title": "Scam alert related to banks",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250825-4/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-08-24T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "Result of the tenders of the People's Bank of China RMB Bills held on 25 August 2025",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250825-3/",
       "source": "HKMA: Press Releases",
       "publishedAt": "2025-08-24T16:00:00.000Z",
       "region": "Hong Kong",
