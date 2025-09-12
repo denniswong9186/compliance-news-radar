@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2025-09-12T12:18:57.393Z",
+  "generatedAt": "2025-09-12T13:18:39.413Z",
   "items": [
+    {
+      "title": "Covid repayment window opens",
+      "link": "https://www.gov.uk/government/news/covid-repayment-window-opens",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-12T13:00:04.000Z",
+      "region": "UK",
+      "summary": "Those who still owe Covid scheme money to the public purse have been given a time-limited opportunity to pay it back before tougher sanctions apply.",
+      "tags": []
+    },
+    {
+      "title": "News release: FINTRAC imposes an administrative monetary penalty on the Saskatchewan Indian Gaming Authority",
+      "link": "https://fintrac-canafe.canada.ca/new-neuf/nr/2025-09-12-eng",
+      "source": "Financial Transactions and Reports Analysis Centre of Canada",
+      "publishedAt": "2025-09-12T13:00:00.000Z",
+      "region": "Canada",
+      "summary": "The Saskatchewan Indian Gaming Authority (SIGA) was imposed an administrative monetary penalty of $1 175 000 for committing 3 violations.",
+      "tags": [
+        "Canada",
+        "CRA",
+        "FCAC"
+      ]
+    },
     {
       "title": "Transparency data: Government Major Projects Portfolio – Accounting Officer Assessments Ministry of Justice",
       "link": "https://www.gov.uk/government/publications/government-major-projects-portfolio-accounting-officer-assessments-ministry-of-justice",
@@ -283,15 +305,6 @@
       "publishedAt": "2025-09-10T10:49:26.000Z",
       "region": "UK",
       "summary": "The Money Markets Committee is a forum for market participants and authorities to discuss the UK unsecured deposits and funding market and securities lending and repo markets.",
-      "tags": []
-    },
-    {
-      "title": "Policy paper: EM on EU excise duty applied to tobacco products COM(2025)581)",
-      "link": "https://www.gov.uk/government/publications/em-on-eu-excise-duty-applied-to-tobacco-products-com2025581",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-09T23:00:00.000Z",
-      "region": "UK",
-      "summary": "The government's summary of proposed changes to EU law concerning the general arrangements for excise duty applied to manufactured tobacco and related products.",
       "tags": []
     },
     {
@@ -1012,12 +1025,12 @@
       ]
     },
     {
-      "title": "FINTRAC updates its administrative monetary penalties policy",
-      "link": "https://fintrac-canafe.canada.ca/pen/2-eng",
+      "title": "FINTRAC publishes its supervisory framework",
+      "link": "https://fintrac-canafe.canada.ca/introduction/cpf/cpf-eng",
       "source": "Financial Transactions and Reports Analysis Centre of Canada",
       "publishedAt": "2025-08-06T13:00:00.000Z",
       "region": "Canada",
-      "summary": "The administrative monetary penalties program supports FINTRAC's mandate by providing a measured and proportionate response to particular instances of non-compliance.",
+      "summary": "Learn about FINTRAC's framework that guides the Centre's supervisory activities that ensure compliance with the Proceeds of Crime (Money Laundering) and Terrorist Financing Act.",
       "tags": [
         "Canada",
         "CRA",
@@ -1025,12 +1038,12 @@
       ]
     },
     {
-      "title": "FINTRAC publishes its supervisory framework",
-      "link": "https://fintrac-canafe.canada.ca/introduction/cpf/cpf-eng",
+      "title": "FINTRAC updates its administrative monetary penalties policy",
+      "link": "https://fintrac-canafe.canada.ca/pen/2-eng",
       "source": "Financial Transactions and Reports Analysis Centre of Canada",
       "publishedAt": "2025-08-06T13:00:00.000Z",
       "region": "Canada",
-      "summary": "Learn about FINTRAC's framework that guides the Centre's supervisory activities that ensure compliance with the Proceeds of Crime (Money Laundering) and Terrorist Financing Act.",
+      "summary": "The administrative monetary penalties program supports FINTRAC's mandate by providing a measured and proportionate response to particular instances of non-compliance.",
       "tags": [
         "Canada",
         "CRA",
