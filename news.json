@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-12T13:18:39.413Z",
+  "generatedAt": "2025-09-12T14:10:21.409Z",
   "items": [
     {
       "title": "Covid repayment window opens",
@@ -21,6 +21,19 @@
         "Canada",
         "CRA",
         "FCAC"
+      ]
+    },
+    {
+      "title": "The EBA publishes draft amendments to the framework for reporting of MREL decisions by resolution authorities to the EBA",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-draft-amendments-framework-reporting-mrel-decisions-resolution-authorities-eba",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-09-12T12:26:02.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) published today its final draft Implementing Technical Standards (ITS) amending the framework for reporting of decisions on the Minimum Requirement for Own Funds and Eligible Liabilit",
+      "tags": [
+        "EU",
+        "EBA",
+        "Regulator"
       ]
     },
     {
@@ -997,19 +1010,6 @@
       "region": "UK",
       "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
-    },
-    {
-      "title": "The EBA consults on revised Guidelines on internal governance",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-consults-revised-guidelines-internal-governance",
-      "source": "European Banking Authority",
-      "publishedAt": "2025-08-07T06:30:00.000Z",
-      "region": "EU",
-      "summary": "The European Banking Authority (EBA) today launched a consultation on its revised Guidelines on internal governance under the Capital Requirements Directive (CRD). The proposed revisions reflect the changes introduced in",
-      "tags": [
-        "EU",
-        "EBA",
-        "Regulator"
-      ]
     },
     {
       "title": "Staff Issues FAQs to Help Broker-Dealers Implement Financial Responsibility Requirements Related to U.S. Treasury Clearing",
