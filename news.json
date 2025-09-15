@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-15T14:11:47.512Z",
+  "generatedAt": "2025-09-15T15:12:00.011Z",
   "items": [
     {
       "title": "FINTRAC update its guidance on information records relating to unrepresented parties in real estate transactions as of October 1, 2025",
@@ -25,6 +25,19 @@
         "Canada",
         "CRA",
         "FCAC"
+      ]
+    },
+    {
+      "title": "José Manuel Campa resigns as Chairperson of the EBA",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/jose-manuel-campa-resigns-chairperson-eba",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-09-15T14:39:12.000Z",
+      "region": "EU",
+      "summary": "José Manuel Campa, current Chairperson of the European Banking Authority (EBA), announced last week to the EBA Board of Supervisors his decision to step down from his role and leave the Authority at the end of January 20",
+      "tags": [
+        "EU",
+        "EBA",
+        "Regulator"
       ]
     },
     {
@@ -1009,19 +1022,6 @@
       "publishedAt": "2025-08-11T12:55:00.000Z",
       "region": "EU",
       "summary": "The European Banking Authority (EBA) today published its Q1 2025 Risk Dashboard (RDB), which discloses aggregated statistical information for the largest EU/EEA credit institutions.",
-      "tags": [
-        "EU",
-        "EBA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "The EBA publishes statement confirming its response to the new European Commission’s Delegated Act postponing the market risk framework in the EU",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-statement-confirming-its-response-new-european-commissions-delegated-act-postponing",
-      "source": "European Banking Authority",
-      "publishedAt": "2025-08-08T08:09:20.000Z",
-      "region": "EU",
-      "summary": "Following the European Commission's adoption of a Delegated Act postponing application of the revised market risk framework in the EU, the so-called Fundamental Review of the Trading Book (FRTB), the European Banking Aut",
       "tags": [
         "EU",
         "EBA",
