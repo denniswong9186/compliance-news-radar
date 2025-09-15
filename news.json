@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2025-09-15T11:09:13.209Z",
+  "generatedAt": "2025-09-15T12:19:24.185Z",
   "items": [
+    {
+      "title": "EBA issues revised list of ITS validation rules",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-issues-revised-list-its-validation-rules-35",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-09-15T12:12:32.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) issued today a revised list of validation rules in its Implementing Technical Standards (ITS) on supervisory reporting, highlighting those which have been deactivated either for incor",
+      "tags": [
+        "EU",
+        "EBA",
+        "Regulator"
+      ]
+    },
     {
       "title": "Scam alert related to banks",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250915-3/",
@@ -983,19 +996,6 @@
       "publishedAt": "2025-08-08T08:09:20.000Z",
       "region": "EU",
       "summary": "Following the European Commission's adoption of a Delegated Act postponing application of the revised market risk framework in the EU, the so-called Fundamental Review of the Trading Book (FRTB), the European Banking Aut",
-      "tags": [
-        "EU",
-        "EBA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "The EBA amends technical standards specifying the data collection for the 2026 benchmarking exercise",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-amends-technical-standards-specifying-data-collection-2026-benchmarking-exercise",
-      "source": "European Banking Authority",
-      "publishedAt": "2025-08-08T07:56:06.000Z",
-      "region": "EU",
-      "summary": "The European Banking Authority (EBA) today published its final draft Implementing Technical Standards (ITS), amending the Implementing Regulation on the benchmarking of credit and market risk for the 2026 exercise. The m",
       "tags": [
         "EU",
         "EBA",
