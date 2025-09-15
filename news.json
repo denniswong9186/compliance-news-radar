@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-15T09:12:28.788Z",
+  "generatedAt": "2025-09-15T10:12:00.786Z",
   "items": [
     {
       "title": "Scam alert related to banks",
@@ -34,6 +34,19 @@
         "Canada",
         "CRA",
         "FCAC"
+      ]
+    },
+    {
+      "title": "The EBA publishes draft amendments to the framework for reporting of MREL decisions by resolution authorities to the EBA",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-draft-amendments-framework-reporting-mrel-decisions-resolution-authorities-eba",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-09-12T12:26:02.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) published today its final draft Implementing Technical Standards (ITS) amending the framework for reporting of decisions on the Minimum Requirement for Own Funds and Eligible Liabilit",
+      "tags": [
+        "EU",
+        "EBA",
+        "Regulator"
       ]
     },
     {
@@ -386,6 +399,19 @@
       ]
     },
     {
+      "title": "The ESAs note greater effort from financial market participants in their disclosure of principal adverse impacts",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/esas-note-greater-effort-financial-market-participants-their-disclosure-principal-adverse-impacts",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-09-09T13:00:00.000Z",
+      "region": "EU",
+      "summary": "The Joint Committee of the three European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published their fourth annual Report on the extent of voluntary disclosure of principal adverse impacts (PAIs) unde",
+      "tags": [
+        "EU",
+        "EBA",
+        "Regulator"
+      ]
+    },
+    {
       "title": "SEC Crypto Task Force to Host Roundtable on Financial Surveillance and Privacy",
       "link": "https://www.sec.gov/newsroom/press-releases/2025-114-sec-crypto-task-force-host-roundtable-financial-surveillance-privacy",
       "source": "Press Releases",
@@ -495,6 +521,19 @@
       "tags": [
         "US",
         "SEC",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "The EBA welcomes feedback on its draft technical package and new enhanced DPM 2.0 glossary",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-welcomes-feedback-its-draft-technical-package-and-new-enhanced-dpm-20-glossary",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-09-05T08:17:12.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) today published a draft technical package for version 4.2 of its reporting framework, marking a key milestone in the transition to the DPM 2.0 standard and the introduction of a fully",
+      "tags": [
+        "EU",
+        "EBA",
         "Regulator"
       ]
     },
@@ -682,6 +721,19 @@
       ]
     },
     {
+      "title": "The EBA responds to the European Parliament’s observations made in the 2023 Discharge report",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-responds-european-parliaments-observations-made-2023-discharge-report",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-08-29T13:12:06.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) today published an Opinion in response to the observations made by European Parliament in its 2023 Discharge Report. In the new format report, covering all agencies, the number of obs",
+      "tags": [
+        "EU",
+        "EBA",
+        "Regulator"
+      ]
+    },
+    {
       "title": "Granting of restricted banking licence to ABN AMRO Clearing Bank N.V.",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250829-7/",
       "source": "HKMA: Press Releases",
@@ -786,6 +838,19 @@
       ]
     },
     {
+      "title": "The EBA updates data used for the identification of global systemically important institutions (G-SIIs)",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-updates-data-used-identification-global-systemically-important-institutions-g-siis-0",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-08-26T09:06:41.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) today released an updated set of 13 indicators and supporting data for the 32 largest institutions in the European Union, each with a leverage ratio exposure measure exceeding EUR 200",
+      "tags": [
+        "EU",
+        "EBA",
+        "Regulator"
+      ]
+    },
+    {
       "title": "Scam alert related to banks",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250826-5/",
       "source": "HKMA: Press Releases",
@@ -838,6 +903,19 @@
       ]
     },
     {
+      "title": "The EBA publishes its final standards for off-balance sheet items conversion factors",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-final-standards-balance-sheet-items-conversion-factors",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-08-18T14:48:51.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) today published its final draft Regulatory Technical Standards (RTS) on the allocation of off-balance sheet items and the specification of factors that might constrain institutions’ a",
+      "tags": [
+        "EU",
+        "EBA",
+        "Regulator"
+      ]
+    },
+    {
       "title": "Founder and Owner of Washington-Based Water Machine Manufacturer and Two Companies Charged in $275 Million Fraud Scheme",
       "link": "https://www.sec.gov/newsroom/press-releases/2025-107-founder-owner-washington-based-water-machine-manufacturer-two-companies-charged-275-million-fraud",
       "source": "Press Releases",
@@ -871,6 +949,58 @@
       "region": "Canada",
       "summary": "FINTRAC’s financial intelligence was recognized by the Royal Canadian Mounted Police Federal Policing Northwest Region where four individuals have been charged in relation to a coordinated ATM fraud in western Canadian c",
       "tags": []
+    },
+    {
+      "title": "SupTech can make anti-money laundering and countering the financing of terrorism supervision more effective, the EBA finds",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/suptech-can-make-anti-money-laundering-and-countering-financing-terrorism-supervision-more-effective",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-08-12T07:42:09.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) today published a Report on the use of technology tools in anti-money laundering and countering the financing of terrorism (AML/CFT) supervision (SupTech). The Report takes stock of o",
+      "tags": [
+        "EU",
+        "EBA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "First-quarter of 2025 supervisory data shows that the EU/EEA banking sector remains robust, despite increased cost of risk, the EBA Risk Dashboard finds",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/first-quarter-2025-supervisory-data-shows-eueea-banking-sector-remains-robust-despite-increased-cost",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-08-11T12:55:00.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) today published its Q1 2025 Risk Dashboard (RDB), which discloses aggregated statistical information for the largest EU/EEA credit institutions.",
+      "tags": [
+        "EU",
+        "EBA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "The EBA publishes statement confirming its response to the new European Commission’s Delegated Act postponing the market risk framework in the EU",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-statement-confirming-its-response-new-european-commissions-delegated-act-postponing",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-08-08T08:09:20.000Z",
+      "region": "EU",
+      "summary": "Following the European Commission's adoption of a Delegated Act postponing application of the revised market risk framework in the EU, the so-called Fundamental Review of the Trading Book (FRTB), the European Banking Aut",
+      "tags": [
+        "EU",
+        "EBA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "The EBA amends technical standards specifying the data collection for the 2026 benchmarking exercise",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-amends-technical-standards-specifying-data-collection-2026-benchmarking-exercise",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-08-08T07:56:06.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) today published its final draft Implementing Technical Standards (ITS), amending the Implementing Regulation on the benchmarking of credit and market risk for the 2026 exercise. The m",
+      "tags": [
+        "EU",
+        "EBA",
+        "Regulator"
+      ]
     },
     {
       "title": "Bank Rate reduced to 4% - August 2025",
