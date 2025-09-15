@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2025-09-15T13:21:56.769Z",
+  "generatedAt": "2025-09-15T14:11:47.512Z",
   "items": [
+    {
+      "title": "FINTRAC update its guidance on information records relating to unrepresented parties in real estate transactions as of October 1, 2025",
+      "link": "https://fintrac-canafe.canada.ca/guidance-directives/recordkeeping-document/record/real-eng#x5 ",
+      "source": "Financial Transactions and Reports Analysis Centre of Canada",
+      "publishedAt": "2025-09-15T15:00:00.000Z",
+      "region": "Canada",
+      "summary": "The Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) updates its guidance on unrepresented parties in real estate transactions as of October 1, 2025.",
+      "tags": [
+        "Canada",
+        "CRA",
+        "FCAC"
+      ]
+    },
+    {
+      "title": "FINTRAC update its guidance on the use of an agent or mandatary as of October 1, 2025",
+      "link": "https://fintrac-canafe.canada.ca/guidance-directives/client-clientele/Guide11/11-eng",
+      "source": "Financial Transactions and Reports Analysis Centre of Canada",
+      "publishedAt": "2025-09-15T15:00:00.000Z",
+      "region": "Canada",
+      "summary": "The Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) updates its guidance on the use of an agent or mandatary to verify the identity of a corporation or an entity as of October 1, 2025.",
+      "tags": [
+        "Canada",
+        "CRA",
+        "FCAC"
+      ]
+    },
     {
       "title": "EBA issues revised list of ITS validation rules",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-issues-revised-list-its-validation-rules-35",
@@ -1265,19 +1291,6 @@
       "region": "UK",
       "summary": "The Economic Secretary to the Treasury has today confirmed the reappointment of Marjorie Ngwenya as an External Member of the Prudential Regulation Committee (PRC).",
       "tags": []
-    },
-    {
-      "title": "Important changes to how tax preparers obtain access to an individual’s account",
-      "link": "https://www.canada.ca/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2025/important-changes-how-tax-preparers-obtain-access-individual-account.html?rss",
-      "source": "Newsroom",
-      "publishedAt": "2025-07-17T14:00:00.000Z",
-      "region": "Canada",
-      "summary": "The Canada Revenue Agency (CRA) is enhancing and changing its authorization service for individuals. Here is what you need to know.",
-      "tags": [
-        "Canada",
-        "CRA",
-        "FCAC"
-      ]
     }
   ]
 }
