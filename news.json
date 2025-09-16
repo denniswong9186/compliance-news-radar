@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2025-09-16T12:19:05.228Z",
+  "generatedAt": "2025-09-16T13:22:40.810Z",
   "items": [
+    {
+      "title": "SEC Announces Four New Members of Investor Advisory Committee",
+      "link": "https://www.sec.gov/newsroom/press-releases/2025-117-sec-announces-four-new-members-investor-advisory-committee",
+      "source": "Press Releases",
+      "publishedAt": "2025-09-16T12:45:00.000Z",
+      "region": "US",
+      "summary": "The Securities and Exchange Commission today announced four new members to fill vacancies on its Investor Advisory Committee. The new members, who will serve four-year terms, join 16 current committee members. The commit",
+      "tags": [
+        "US",
+        "SEC",
+        "Regulator"
+      ]
+    },
     {
       "title": "Corporate report: Royal Mint Trading Fund: Annual Report and Accounts 2024 to 2025",
       "link": "https://www.gov.uk/government/publications/royal-mint-trading-fund-annual-report-and-accounts-2024-to-2025",
@@ -1263,15 +1276,6 @@
       "publishedAt": "2025-07-21T09:13:44.000Z",
       "region": "UK",
       "summary": "Joint statement from the Bank of England and Financial Conduct Authority",
-      "tags": []
-    },
-    {
-      "title": "News release: ASC alleges breach of Alberta securities laws by crypto asset trading platform",
-      "link": "https://www.asc.ca/en/news-and-publications/news-releases/2025/07/17-asc-alleges-breach-of-alberta-securities-laws-by-crypto-asset-trading-platform-catalx-cts-ltd",
-      "source": "Financial Transactions and Reports Analysis Centre of Canada",
-      "publishedAt": "2025-07-18T12:22:48.000Z",
-      "region": "Canada",
-      "summary": "FINTRAC’s financial intelligence was recognized by the Alberta Securities Commission (ASC) where a crypto trading platform has allegedly breached Alberta securities laws. The ASC alleges that two individuals perpetrated ",
       "tags": []
     }
   ]
