@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2025-09-18T17:09:23.977Z",
+  "generatedAt": "2025-09-18T18:15:45.403Z",
   "items": [
+    {
+      "title": "News release: Update: Project Cerberus dismantles transnational organized crime group",
+      "link": "https://alert-ab.ca/update-project-cerberus-dismantles-transnational-organized-crime-group/",
+      "source": "Financial Transactions and Reports Analysis Centre of Canada",
+      "publishedAt": "2025-09-18T17:28:20.000Z",
+      "region": "Canada",
+      "summary": "FINTRAC’s financial intelligence was recognized by the Alberta Law Enforcement Response Teams (ALERT) in relation to Project Cerberus, a major cross-border drug trafficking investigation. The operation led to charges aga",
+      "tags": []
+    },
     {
       "title": "News release: FINTRAC imposes an administrative monetary penalty on Primary Capital Inc.",
       "link": "https://fintrac-canafe.canada.ca/new-neuf/nr/2025-09-18-eng",
@@ -42,15 +51,6 @@
       "tags": []
     },
     {
-      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
-      "tags": []
-    },
-    {
       "title": "Monetary Policy Committee dates for 2026",
       "link": "https://www.bankofengland.co.uk/news/2025/september/monetary-policy-committee-dates-for-2026",
       "source": "News",
@@ -60,12 +60,12 @@
       "tags": []
     },
     {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
       "tags": []
     },
     {
@@ -75,6 +75,15 @@
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "Exchange of letters between the Governor and the Chancellor",
+      "tags": []
+    },
+    {
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
@@ -1174,12 +1183,12 @@
       ]
     },
     {
-      "title": "FINTRAC publishes its supervisory framework",
-      "link": "https://fintrac-canafe.canada.ca/introduction/cpf/cpf-eng",
+      "title": "FINTRAC updates its administrative monetary penalties policy",
+      "link": "https://fintrac-canafe.canada.ca/pen/2-eng",
       "source": "Financial Transactions and Reports Analysis Centre of Canada",
       "publishedAt": "2025-08-06T13:00:00.000Z",
       "region": "Canada",
-      "summary": "Learn about FINTRAC's framework that guides the Centre's supervisory activities that ensure compliance with the Proceeds of Crime (Money Laundering) and Terrorist Financing Act.",
+      "summary": "The administrative monetary penalties program supports FINTRAC's mandate by providing a measured and proportionate response to particular instances of non-compliance.",
       "tags": [
         "Canada",
         "CRA",
@@ -1187,12 +1196,12 @@
       ]
     },
     {
-      "title": "FINTRAC updates its administrative monetary penalties policy",
-      "link": "https://fintrac-canafe.canada.ca/pen/2-eng",
+      "title": "FINTRAC publishes its supervisory framework",
+      "link": "https://fintrac-canafe.canada.ca/introduction/cpf/cpf-eng",
       "source": "Financial Transactions and Reports Analysis Centre of Canada",
       "publishedAt": "2025-08-06T13:00:00.000Z",
       "region": "Canada",
-      "summary": "The administrative monetary penalties program supports FINTRAC's mandate by providing a measured and proportionate response to particular instances of non-compliance.",
+      "summary": "Learn about FINTRAC's framework that guides the Centre's supervisory activities that ensure compliance with the Proceeds of Crime (Money Laundering) and Terrorist Financing Act.",
       "tags": [
         "Canada",
         "CRA",
