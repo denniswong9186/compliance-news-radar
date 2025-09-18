@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2025-09-18T11:08:49.617Z",
+  "generatedAt": "2025-09-18T12:18:33.542Z",
   "items": [
+    {
+      "title": "Correspondence: Open letters between HM Treasury and Bank of England, September 2025",
+      "link": "https://www.gov.uk/government/publications/open-letters-between-hm-treasury-and-bank-of-england-september-2025",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-18T11:15:07.000Z",
+      "region": "UK",
+      "summary": "CPI inflation was 3.8% in July 2025, prompting an open letter from the Governor of the Bank of England to the Chancellor on 18 September 2025. The Chancellor replied to the Governor on 18 September 2025.",
+      "tags": []
+    },
+    {
+      "title": "Guidance: Russia financial sanctions: list of asset-freeze targets",
+      "link": "https://www.gov.uk/government/publications/financial-sanctions-ukraine-sovereignty-and-territorial-integrity",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-18T11:04:19.000Z",
+      "region": "UK",
+      "summary": "The Russia (Sanctions) (EU Exit) Regulations 2019 ensure sanctions relating to Russia are implemented effectively after the UK leaves the EU.",
+      "tags": []
+    },
+    {
+      "title": "Guidance: Who is subject to financial sanctions in the UK?",
+      "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-18T11:04:14.000Z",
+      "region": "UK",
+      "summary": "A guide to the current consolidated list of asset freeze targets, and a list of persons named in relation to financial and investment restrictions under the Russia regulations",
+      "tags": []
+    },
     {
       "title": "Bank Rate maintained at 4% - September 2025",
       "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
@@ -26,6 +53,15 @@
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
+      "tags": []
+    },
+    {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
@@ -370,24 +406,6 @@
       "tags": []
     },
     {
-      "title": "Guidance: Who is subject to financial sanctions in the UK?",
-      "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-12T06:27:04.000Z",
-      "region": "UK",
-      "summary": "A guide to the current consolidated list of asset freeze targets, and a list of persons named in relation to financial and investment restrictions under the Russia regulations",
-      "tags": []
-    },
-    {
-      "title": "Guidance: Russia financial sanctions: list of asset-freeze targets",
-      "link": "https://www.gov.uk/government/publications/financial-sanctions-ukraine-sovereignty-and-territorial-integrity",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-12T06:26:56.000Z",
-      "region": "UK",
-      "summary": "The Russia (Sanctions) (EU Exit) Regulations 2019 ensure sanctions relating to Russia are implemented effectively after the UK leaves the EU.",
-      "tags": []
-    },
-    {
       "title": "SEC Investor Advisory Committee to Host Panels to Discuss Reconsideration of the Eligibility Criteria and Regulatory Treatment of Foreign Private Issuers",
       "link": "https://www.sec.gov/newsroom/press-releases/2025-116-sec-investor-advisory-committee-host-panels-discuss-reconsideration-eligibility-criteria-regulatory",
       "source": "Press Releases",
@@ -570,15 +588,6 @@
       "publishedAt": "2025-09-10T14:07:15.000Z",
       "region": "UK",
       "summary": "List of eligible goods and their authorised uses.",
-      "tags": []
-    },
-    {
-      "title": "Statutory guidance: Reference Documents for The Customs (Tariff Quotas) (EU Exit) Regulations 2020",
-      "link": "https://www.gov.uk/government/publications/reference-documents-for-the-customs-tariff-quotas-eu-exit-regulations-2020",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-10T14:07:08.000Z",
-      "region": "UK",
-      "summary": "Check the documents that detail product specific tariff-rate quotas, including the individual product volumes and rates, and also list of eligible goods and their authorised uses.",
       "tags": []
     },
     {
