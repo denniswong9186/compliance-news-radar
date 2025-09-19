@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2025-09-19T08:14:12.051Z",
+  "generatedAt": "2025-09-19T09:12:13.941Z",
   "items": [
+    {
+      "title": "European supervisors tell financial institutions to stay alert to stability risks in uncertain and volatile times",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/european-supervisors-tell-financial-institutions-stay-alert-stability-risks-uncertain-and-volatile",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-09-19T09:00:00.000Z",
+      "region": "EU",
+      "summary": "The three European Supervisory Authorities (EBA, EIOPA and ESMA - ESAs) today issued their Autumn 2025 Joint Committee Report on risks and vulnerabilities in the EU financial system. The Report highlights how tensions in",
+      "tags": [
+        "EU",
+        "EBA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Transparency data: OSCAR II – publishing data from the database: September 2025",
+      "link": "https://www.gov.uk/government/publications/oscar-ii-publishing-data-from-the-database-september-2025",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-19T08:30:01.000Z",
+      "region": "UK",
+      "summary": "The first quarterly OSCAR transparency release for 2025 to 2026.",
+      "tags": []
+    },
     {
       "title": "Accredited official statistics: Public sector finances bulletin",
       "link": "https://www.gov.uk/government/statistics/public-sector-finances-bulletin",
@@ -18,6 +40,32 @@
       "region": "Canada",
       "summary": "FINTRAC’s financial intelligence was recognized by the Alberta Law Enforcement Response Teams (ALERT) in relation to Project Cerberus, a major cross-border drug trafficking investigation. The operation led to charges aga",
       "tags": []
+    },
+    {
+      "title": "Statistics of Payment Cards Issued in Hong Kong for Second Quarter 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250919-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-18T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Statistics of Stored Value Facilities (SVF) Schemes Issued by SVF Licensees",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250919-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-18T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
     },
     {
       "title": "News release: FINTRAC imposes an administrative monetary penalty on Primary Capital Inc.",
@@ -604,15 +652,6 @@
       "tags": []
     },
     {
-      "title": "Statutory guidance: Reference documents for The Customs (Reliefs from a Liability to Import Duty and Miscellaneous Amendments) (EU Exit) Regulations 2020",
-      "link": "https://www.gov.uk/government/publications/reference-documents-for-the-customs-reliefs-from-a-liability-to-import-duty-and-miscellaneous-amendments-eu-exit-regulations-2020",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-10T14:07:22.000Z",
-      "region": "UK",
-      "summary": "Find the documents for details of the conditions in which a 'good' may be eligible for a relief from the standard tariff rate.",
-      "tags": []
-    },
-    {
       "title": "Minutes of the Money Market Committee meeting – June 2025",
       "link": "https://www.bankofengland.co.uk/minutes/2025/june/money-markets-committee-minutes-june-2025",
       "source": "News",
@@ -996,19 +1035,6 @@
       ]
     },
     {
-      "title": "Interest rate for sixth interest payment of Silver Bond Series due 2025",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250901-3/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-08-31T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
       "title": "The EBA responds to the European Parliament’s observations made in the 2023 Discharge report",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-responds-european-parliaments-observations-made-2023-discharge-report",
       "source": "European Banking Authority",
@@ -1018,19 +1044,6 @@
       "tags": [
         "EU",
         "EBA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "Granting of restricted banking licence to ABN AMRO Clearing Bank N.V.",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250829-7/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-08-28T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
         "Regulator"
       ]
     },
@@ -1141,19 +1154,6 @@
       "publishedAt": "2025-08-12T07:42:09.000Z",
       "region": "EU",
       "summary": "The European Banking Authority (EBA) today published a Report on the use of technology tools in anti-money laundering and countering the financing of terrorism (AML/CFT) supervision (SupTech). The Report takes stock of o",
-      "tags": [
-        "EU",
-        "EBA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "First-quarter of 2025 supervisory data shows that the EU/EEA banking sector remains robust, despite increased cost of risk, the EBA Risk Dashboard finds",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/first-quarter-2025-supervisory-data-shows-eueea-banking-sector-remains-robust-despite-increased-cost",
-      "source": "European Banking Authority",
-      "publishedAt": "2025-08-11T12:55:00.000Z",
-      "region": "EU",
-      "summary": "The European Banking Authority (EBA) today published its Q1 2025 Risk Dashboard (RDB), which discloses aggregated statistical information for the largest EU/EEA credit institutions.",
       "tags": [
         "EU",
         "EBA",
