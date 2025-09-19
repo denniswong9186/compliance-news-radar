@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-19T09:12:13.941Z",
+  "generatedAt": "2025-09-19T10:11:42.690Z",
   "items": [
     {
       "title": "European supervisors tell financial institutions to stay alert to stability risks in uncertain and volatile times",
@@ -40,6 +40,19 @@
       "region": "Canada",
       "summary": "FINTRAC’s financial intelligence was recognized by the Alberta Law Enforcement Response Teams (ALERT) in relation to Project Cerberus, a major cross-border drug trafficking investigation. The operation led to charges aga",
       "tags": []
+    },
+    {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250919-5/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-18T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
     },
     {
       "title": "Statistics of Payment Cards Issued in Hong Kong for Second Quarter 2025",
@@ -126,21 +139,21 @@
       "tags": []
     },
     {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
-      "tags": []
-    },
-    {
       "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
       "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "Exchange of letters between the Governor and the Chancellor",
+      "tags": []
+    },
+    {
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
@@ -1022,19 +1035,6 @@
       ]
     },
     {
-      "title": "Exchange Fund Bills Tender Results",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250902-3/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-09-01T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
       "title": "The EBA responds to the European Parliament’s observations made in the 2023 Discharge report",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-responds-european-parliaments-observations-made-2023-discharge-report",
       "source": "European Banking Authority",
@@ -1387,15 +1387,6 @@
         "SEC",
         "Regulator"
       ]
-    },
-    {
-      "title": "Bank of England and Financial Conduct Authority – Memorandum of Understanding on the supervision of Financial Market Infrastructure",
-      "link": "https://www.bankofengland.co.uk/news/2025/july/boe-fca-mou-on-supervision-of-fmi",
-      "source": "News",
-      "publishedAt": "2025-07-21T09:13:44.000Z",
-      "region": "UK",
-      "summary": "Joint statement from the Bank of England and Financial Conduct Authority",
-      "tags": []
     }
   ]
 }
