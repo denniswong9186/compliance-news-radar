@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2025-09-19T12:19:16.230Z",
+  "generatedAt": "2025-09-19T13:21:08.117Z",
   "items": [
+    {
+      "title": "Guidance: Who is subject to financial sanctions in the UK?",
+      "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-19T12:34:12.000Z",
+      "region": "UK",
+      "summary": "A guide to the current consolidated list of asset freeze targets, and a list of persons named in relation to financial and investment restrictions under the Russia regulations",
+      "tags": []
+    },
+    {
+      "title": "Guidance: Russia financial sanctions: list of asset-freeze targets",
+      "link": "https://www.gov.uk/government/publications/financial-sanctions-ukraine-sovereignty-and-territorial-integrity",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-19T12:33:36.000Z",
+      "region": "UK",
+      "summary": "The Russia (Sanctions) (EU Exit) Regulations 2019 ensure sanctions relating to Russia are implemented effectively after the UK leaves the EU.",
+      "tags": []
+    },
     {
       "title": "Official Statistics: Standards and policies for HM Treasury statistics",
       "link": "https://www.gov.uk/government/statistics/standards-and-policies-for-hm-treasury-statistics",
@@ -121,24 +139,6 @@
       "tags": []
     },
     {
-      "title": "Guidance: Russia financial sanctions: list of asset-freeze targets",
-      "link": "https://www.gov.uk/government/publications/financial-sanctions-ukraine-sovereignty-and-territorial-integrity",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-18T11:04:19.000Z",
-      "region": "UK",
-      "summary": "The Russia (Sanctions) (EU Exit) Regulations 2019 ensure sanctions relating to Russia are implemented effectively after the UK leaves the EU.",
-      "tags": []
-    },
-    {
-      "title": "Guidance: Who is subject to financial sanctions in the UK?",
-      "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-18T11:04:14.000Z",
-      "region": "UK",
-      "summary": "A guide to the current consolidated list of asset freeze targets, and a list of persons named in relation to financial and investment restrictions under the Russia regulations",
-      "tags": []
-    },
-    {
       "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
       "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
       "source": "News",
@@ -157,21 +157,21 @@
       "tags": []
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
-      "tags": []
-    },
-    {
       "title": "Bank Rate maintained at 4% - September 2025",
       "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "tags": []
+    },
+    {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
