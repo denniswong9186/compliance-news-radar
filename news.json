@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2025-09-19T10:11:42.690Z",
+  "generatedAt": "2025-09-19T11:09:10.852Z",
   "items": [
+    {
+      "title": "Official Statistics: Standards and policies for HM Treasury statistics",
+      "link": "https://www.gov.uk/government/statistics/standards-and-policies-for-hm-treasury-statistics",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-19T10:44:46.000Z",
+      "region": "UK",
+      "summary": "HM Treasury's statistics are governed by the standards set out by the UK Statistics Authority in their Code of Practice for official statistics.",
+      "tags": []
+    },
+    {
+      "title": "Transparency data: HMT workforce management information: August 2025",
+      "link": "https://www.gov.uk/government/publications/hmt-workforce-management-information-august-2025",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-19T10:21:45.000Z",
+      "region": "UK",
+      "summary": "This document details monthly management information on staff numbers and paybill costs within HM Treasury and its agencies.",
+      "tags": []
+    },
     {
       "title": "European supervisors tell financial institutions to stay alert to stability risks in uncertain and volatile times",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/european-supervisors-tell-financial-institutions-stay-alert-stability-risks-uncertain-and-volatile",
@@ -121,21 +139,21 @@
       "tags": []
     },
     {
-      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
-      "tags": []
-    },
-    {
       "title": "Monetary Policy Committee dates for 2026",
       "link": "https://www.bankofengland.co.uk/news/2025/september/monetary-policy-committee-dates-for-2026",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "2026 confirmed dates",
+      "tags": []
+    },
+    {
+      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
       "tags": []
     },
     {
@@ -595,15 +613,6 @@
       "tags": []
     },
     {
-      "title": "Chancellor commits to explore pro-growth tax reforms to support small businesses opening new premises",
-      "link": "https://www.gov.uk/government/news/chancellor-commits-to-explore-pro-growth-tax-reforms-to-support-small-businesses-opening-new-premises",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-10T23:00:00.000Z",
-      "region": "UK",
-      "summary": "Small businesses could find it easier to expand and employ more people, thanks to government commitment to make business rates fairer.",
-      "tags": []
-    },
-    {
       "title": "Scam alert related to banks",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250911-4/",
       "source": "HKMA: Press Releases",
@@ -654,15 +663,6 @@
         "SEC",
         "Regulator"
       ]
-    },
-    {
-      "title": "First-time buyers top of the agenda for new Economic Secretary",
-      "link": "https://www.gov.uk/government/news/first-time-buyers-top-of-the-agenda-for-new-economic-secretary",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-10T14:40:21.000Z",
-      "region": "UK",
-      "summary": "New Economic Secretary and Housing Minister will host major banks in the Treasury tomorrow as part of plans to create an economy that works for working people.",
-      "tags": []
     },
     {
       "title": "Minutes of the Money Market Committee meeting – June 2025",
