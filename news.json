@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2025-09-19T05:10:33.041Z",
+  "generatedAt": "2025-09-19T06:15:59.161Z",
   "items": [
+    {
+      "title": "Accredited official statistics: Public sector finances bulletin",
+      "link": "https://www.gov.uk/government/statistics/public-sector-finances-bulletin",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-19T06:00:05.000Z",
+      "region": "UK",
+      "summary": "The public sector finances statistical bulletin.",
+      "tags": []
+    },
     {
       "title": "News release: Update: Project Cerberus dismantles transnational organized crime group",
       "link": "https://alert-ab.ca/update-project-cerberus-dismantles-transnational-organized-crime-group/",
@@ -601,15 +610,6 @@
       "publishedAt": "2025-09-10T14:07:22.000Z",
       "region": "UK",
       "summary": "Find the documents for details of the conditions in which a 'good' may be eligible for a relief from the standard tariff rate.",
-      "tags": []
-    },
-    {
-      "title": "Statutory guidance: Reference document for authorised use: eligible goods and authorised uses",
-      "link": "https://www.gov.uk/government/publications/authorised-use-eligible-goods-and-authorised-uses",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-10T14:07:15.000Z",
-      "region": "UK",
-      "summary": "List of eligible goods and their authorised uses.",
       "tags": []
     },
     {
