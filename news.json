@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2025-09-19T13:21:08.117Z",
+  "generatedAt": "2025-09-19T14:10:46.134Z",
   "items": [
+    {
+      "title": "Chancellor meets European finance ministers in Copenhagen to unlock economic growth",
+      "link": "https://www.gov.uk/government/news/chancellor-meets-european-finance-ministers-in-copenhagen-to-unlock-economic-growth",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-19T13:47:49.000Z",
+      "region": "UK",
+      "summary": "Chancellor Rachel Reeves is meeting finance ministers from European countries, Canada and Ukraine in Copenhagen to talk about defence, trade and investment.",
+      "tags": []
+    },
+    {
+      "title": "Guidance: OFSI General Licence INT/2022/1875276",
+      "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20221875276",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-19T13:42:06.000Z",
+      "region": "UK",
+      "summary": "Details of OFSI General Licence INT/2022/1875276",
+      "tags": []
+    },
     {
       "title": "Guidance: Who is subject to financial sanctions in the UK?",
       "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
@@ -157,21 +175,21 @@
       "tags": []
     },
     {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
-      "tags": []
-    },
-    {
       "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
       "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "Exchange of letters between the Governor and the Chancellor",
+      "tags": []
+    },
+    {
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
@@ -592,24 +610,6 @@
       "publishedAt": "2025-09-11T13:22:16.000Z",
       "region": "UK",
       "summary": "Details of OFSI General licence - INT/2022/2009156",
-      "tags": []
-    },
-    {
-      "title": "Guidance: OFSI General licence INT/2024/4888228",
-      "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20244888228",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-11T13:21:59.000Z",
-      "region": "UK",
-      "summary": "Details for OFSI General licence INT/2024/4888228 - Statutory Audit Fees",
-      "tags": []
-    },
-    {
-      "title": "Policy paper: Business rates: forward look",
-      "link": "https://www.gov.uk/government/publications/business-rates-forward-look",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-11T07:00:01.000Z",
-      "region": "UK",
-      "summary": "An overview of the expected timeline for reforms and how stakeholders should engage the government.",
       "tags": []
     },
     {
