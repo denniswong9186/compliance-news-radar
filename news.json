@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-18T23:10:06.763Z",
+  "generatedAt": "2025-09-19T00:45:08.048Z",
   "items": [
     {
       "title": "News release: Update: Project Cerberus dismantles transnational organized crime group",
@@ -48,6 +48,42 @@
       "publishedAt": "2025-09-18T11:04:14.000Z",
       "region": "UK",
       "summary": "A guide to the current consolidated list of asset freeze targets, and a list of persons named in relation to financial and investment restrictions under the Russia regulations",
+      "tags": []
+    },
+    {
+      "title": "Monetary Policy Committee dates for 2026",
+      "link": "https://www.bankofengland.co.uk/news/2025/september/monetary-policy-committee-dates-for-2026",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "2026 confirmed dates",
+      "tags": []
+    },
+    {
+      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
+      "tags": []
+    },
+    {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
+      "tags": []
+    },
+    {
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
@@ -162,6 +198,15 @@
       "publishedAt": "2025-09-17T09:00:04.000Z",
       "region": "UK",
       "summary": "A comparison of independent forecasts for the UK economy in September 2025.",
+      "tags": []
+    },
+    {
+      "title": "Minutes: CBDC Academic Advisory Group – March 2025",
+      "link": "https://www.bankofengland.co.uk/minutes/2025/march/minutes-of-cbdc-academic-advisory-group-march-2025",
+      "source": "News",
+      "publishedAt": "2025-09-17T08:23:00.000Z",
+      "region": "UK",
+      "summary": "Meeting of the CBDC Academic Advisory Group",
       "tags": []
     },
     {
@@ -568,6 +613,15 @@
       "tags": []
     },
     {
+      "title": "Minutes of the Money Market Committee meeting – June 2025",
+      "link": "https://www.bankofengland.co.uk/minutes/2025/june/money-markets-committee-minutes-june-2025",
+      "source": "News",
+      "publishedAt": "2025-09-10T10:49:26.000Z",
+      "region": "UK",
+      "summary": "The Money Markets Committee is a forum for market participants and authorities to discuss the UK unsecured deposits and funding market and securities lending and repo markets.",
+      "tags": []
+    },
+    {
       "title": "Statement by FCAC Commissioner Benzvy Miller on FCAC’s commitment to regulatory efficiency",
       "link": "https://www.canada.ca/en/financial-consumer-agency/news/2025/09/statement-by-fcac-commissioner-benzvy-miller-on-fcacs-commitment-to-regulatory-efficiency.html",
       "source": "Financial Consumer Agency of Canada",
@@ -811,6 +865,15 @@
       ]
     },
     {
+      "title": "Stephen Blyth appointed, and Randall Kroszner reappointed to the Bank of England’s Financial Policy Committee",
+      "link": "https://www.bankofengland.co.uk/news/2025/september/stephen-blyth-appointed-and-randall-kroszner-reappointed-to-the-boes-fpc",
+      "source": "News",
+      "publishedAt": "2025-09-04T15:00:00.000Z",
+      "region": "UK",
+      "summary": "Professor Stephen Blyth has been appointed, and Dr Randall Kroszner reappointed, as external members of the Financial Policy Committee by the Chancellor of the Exchequer, Rachel Reeves",
+      "tags": []
+    },
+    {
       "title": "News release: FINTRAC imposes an administrative monetary penalty on Canadian National Exhibition Association",
       "link": "https://fintrac-canafe.canada.ca/new-neuf/nr/2025-09-04-eng",
       "source": "Financial Transactions and Reports Analysis Centre of Canada",
@@ -822,6 +885,24 @@
         "CRA",
         "FCAC"
       ]
+    },
+    {
+      "title": "Bank of England launches discussion paper seeking views on measures to enhance gilt repo market resilience",
+      "link": "https://www.bankofengland.co.uk/news/2025/september/boe-launches-discussion-paper-seeking-views-on-measures-to-enhance-gilt-repo-market-resilience",
+      "source": "News",
+      "publishedAt": "2025-09-04T11:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England has today published a Discussion Paper on potential measures to enhance the resilience of the UK government bond (‘gilt’) repo market",
+      "tags": []
+    },
+    {
+      "title": "Minutes of the Standards Advisory Panel - June 2025",
+      "link": "https://www.bankofengland.co.uk/minutes/2025/june/standards-advisory-panel-june-2025",
+      "source": "News",
+      "publishedAt": "2025-09-04T09:51:16.000Z",
+      "region": "UK",
+      "summary": "The latest meeting of the Standards Advisory Panel (SAP)",
+      "tags": []
     },
     {
       "title": "SEC Charges Pennsylvania Resident and His Companies with $770 Million Ponzi Scheme",
@@ -1080,6 +1161,15 @@
       ]
     },
     {
+      "title": "Bank Rate reduced to 4% - August 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/august-2025",
+      "source": "News",
+      "publishedAt": "2025-08-07T11:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "tags": []
+    },
+    {
       "title": "Staff Issues FAQs to Help Broker-Dealers Implement Financial Responsibility Requirements Related to U.S. Treasury Clearing",
       "link": "https://www.sec.gov/newsroom/press-releases/2025-105-staff-issues-faqs-help-broker-dealers-implement-financial-responsibility-requirements-related-us",
       "source": "Press Releases",
@@ -1117,6 +1207,15 @@
         "CRA",
         "FCAC"
       ]
+    },
+    {
+      "title": "Minutes of the Meeting of the Court of Directors held on 6 June 2025",
+      "link": "https://www.bankofengland.co.uk/minutes/2025/june/court-june-2025",
+      "source": "News",
+      "publishedAt": "2025-08-06T13:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank's Court of Directors acts as a unitary board, setting the organisation's strategy and budget and taking key decisions on resourcing and appointments. Required to meet a minimum seven times per year, it has five ",
+      "tags": []
     },
     {
       "title": "Securities and Exchange Commission Division of Corporation Finance Issues Staff Statement on Certain Liquid Staking Activities",
@@ -1171,6 +1270,15 @@
       ]
     },
     {
+      "title": "Prudential Regulation Authority unveils options to enhance competition in the mortgage market",
+      "link": "https://www.bankofengland.co.uk/news/2025/july/pra-unveils-options-to-enhance-competition-in-the-mortgage-market",
+      "source": "News",
+      "publishedAt": "2025-07-31T09:00:00.000Z",
+      "region": "UK",
+      "summary": "The Prudential Regulation Authority has unveiled a series of possible options to make it easier for mid-sized firms to scale-up and compete in the residential mortgage market, and is now opening a wide discussion with in",
+      "tags": []
+    },
+    {
       "title": "SEC Permits In-Kind Creations and Redemptions for Crypto ETPs",
       "link": "https://www.sec.gov/newsroom/press-releases/2025-101-sec-permits-kind-creations-redemptions-crypto-etps",
       "source": "Press Releases",
@@ -1182,6 +1290,33 @@
         "SEC",
         "Regulator"
       ]
+    },
+    {
+      "title": "Minutes of the UK Money Markets Code Sub-Committee – June 2025",
+      "link": "https://www.bankofengland.co.uk/minutes/2025/july/money-markets-committee-minutes-june-2025",
+      "source": "News",
+      "publishedAt": "2025-07-29T10:05:41.000Z",
+      "region": "UK",
+      "summary": "The Money Markets Committee is a forum for market participants and authorities to discuss the UK unsecured deposits and funding market and securities lending and repo markets.",
+      "tags": []
+    },
+    {
+      "title": "Jackie Bennett OBE re-appointed as Residential Property Forum Chair",
+      "link": "https://www.bankofengland.co.uk/news/2025/july/jackie-bennett-obe-re-appointed-as-residential-property-forum-chair",
+      "source": "News",
+      "publishedAt": "2025-07-29T09:00:00.000Z",
+      "region": "UK",
+      "summary": "Jackie Bennett OBE has been re-appointed for a second term as the Chair for the Residential Property Forum (RPF) – a Bank of England convened, industry-led group, which helps monitor the residential property sector in th",
+      "tags": []
+    },
+    {
+      "title": "The PRA fines Barents Reinsurance S.A., London Branch £1,785,000 for internal controls, governance and reporting failures",
+      "link": "https://www.bankofengland.co.uk/news/2025/july/pra-fines-barents-reinsurance-sa-london-branch",
+      "source": "News",
+      "publishedAt": "2025-07-28T09:00:00.000Z",
+      "region": "UK",
+      "summary": "The Prudential Regulation Authority has fined Barents Reinsurance S.A., London Branch £1,785,000 for failing to organise and control its affairs responsibly and effectively, as well as governance and regulatory reporting",
+      "tags": []
     },
     {
       "title": "Reminder: Tax Free Savings Account – Watch your limit and stay within it!",
@@ -1197,6 +1332,15 @@
       ]
     },
     {
+      "title": "PRA to accelerate authorisations for UK Insurance Special Purpose Vehicles",
+      "link": "https://www.bankofengland.co.uk/news/2025/july/pra-to-accelerate-authorisations-for-uk-insurance-special-purpose-vehicles",
+      "source": "News",
+      "publishedAt": "2025-07-24T09:00:00.000Z",
+      "region": "UK",
+      "summary": "Today, the Prudential Regulation Authority (PRA) published policy statement (PS) 9/25 containing its final policy and its feedback to responses received to consultation CP15/24.",
+      "tags": []
+    },
+    {
       "title": "Make the most of your first home savings account",
       "link": "https://www.canada.ca/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2025/make-most-your-first-home-savings-account.html?rss",
       "source": "Newsroom",
@@ -1208,6 +1352,15 @@
         "CRA",
         "FCAC"
       ]
+    },
+    {
+      "title": "Results of the Foreign Exchange Joint Standing Committee (FXJSC) Turnover Survey for April 2025",
+      "link": "https://www.bankofengland.co.uk/markets/london-foreign-exchange-joint-standing-committee/results-of-the-semi-annual-fx-turnover-survey-april-2025",
+      "source": "News",
+      "publishedAt": "2025-07-22T13:00:00.000Z",
+      "region": "UK",
+      "summary": "See the headline results from an April 2025 survey of 25 financial institutions that are active in the UK foreign exchange market.",
+      "tags": []
     },
     {
       "title": "SEC Announces George Botic to Serve as Acting Chair of the Public Company Accounting Oversight Board",
@@ -1234,6 +1387,15 @@
         "SEC",
         "Regulator"
       ]
+    },
+    {
+      "title": "Bank of England and Financial Conduct Authority – Memorandum of Understanding on the supervision of Financial Market Infrastructure",
+      "link": "https://www.bankofengland.co.uk/news/2025/july/boe-fca-mou-on-supervision-of-fmi",
+      "source": "News",
+      "publishedAt": "2025-07-21T09:13:44.000Z",
+      "region": "UK",
+      "summary": "Joint statement from the Bank of England and Financial Conduct Authority",
+      "tags": []
     }
   ]
 }
