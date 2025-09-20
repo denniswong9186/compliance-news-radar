@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-20T12:17:23.575Z",
+  "generatedAt": "2025-09-20T13:16:25.392Z",
   "items": [
     {
       "title": "News release: RCMP executes record seizure of more than 56 million dollars in cryptocurrency",
@@ -184,21 +184,21 @@
       "tags": []
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
-      "tags": []
-    },
-    {
       "title": "Bank Rate maintained at 4% - September 2025",
       "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "tags": []
+    },
+    {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
@@ -1361,15 +1361,6 @@
         "CRA",
         "FCAC"
       ]
-    },
-    {
-      "title": "Results of the Foreign Exchange Joint Standing Committee (FXJSC) Turnover Survey for April 2025",
-      "link": "https://www.bankofengland.co.uk/markets/london-foreign-exchange-joint-standing-committee/results-of-the-semi-annual-fx-turnover-survey-april-2025",
-      "source": "News",
-      "publishedAt": "2025-07-22T13:00:00.000Z",
-      "region": "UK",
-      "summary": "See the headline results from an April 2025 survey of 25 financial institutions that are active in the UK foreign exchange market.",
-      "tags": []
     }
   ]
 }
