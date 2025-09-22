@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2025-09-22T08:15:39.988Z",
+  "generatedAt": "2025-09-22T09:13:48.356Z",
   "items": [
+    {
+      "title": "PRA proposes reduced reporting requirements for banks",
+      "link": "https://www.bankofengland.co.uk/news/2025/september/pra-proposes-reduced-reporting-requirements-for-banks",
+      "source": "News",
+      "publishedAt": "2025-09-22T09:00:00.000Z",
+      "region": "UK",
+      "summary": "The Prudential Regulation Authority (PRA) has today announced proposals to reduce regulatory requirements for banks by deleting 37 individual reporting templates.",
+      "tags": []
+    },
     {
       "title": "Changes to the collection and publication of data on the further sectoral breakdown of non-resident business",
       "link": "https://www.bankofengland.co.uk/statistics/articles/2025/changes-to-collection-and-publication-of-data-on-further-sectoral-breakdown-of-non-resident-business",
@@ -1348,15 +1357,6 @@
         "CRA",
         "FCAC"
       ]
-    },
-    {
-      "title": "PRA to accelerate authorisations for UK Insurance Special Purpose Vehicles",
-      "link": "https://www.bankofengland.co.uk/news/2025/july/pra-to-accelerate-authorisations-for-uk-insurance-special-purpose-vehicles",
-      "source": "News",
-      "publishedAt": "2025-07-24T09:00:00.000Z",
-      "region": "UK",
-      "summary": "Today, the Prudential Regulation Authority (PRA) published policy statement (PS) 9/25 containing its final policy and its feedback to responses received to consultation CP15/24.",
-      "tags": []
     }
   ]
 }
