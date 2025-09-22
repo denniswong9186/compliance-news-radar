@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2025-09-22T05:11:41.347Z",
+  "generatedAt": "2025-09-22T06:17:07.049Z",
   "items": [
+    {
+      "title": "Changes to the collection and publication of data on the further sectoral breakdown of non-resident business",
+      "link": "https://www.bankofengland.co.uk/statistics/articles/2025/changes-to-collection-and-publication-of-data-on-further-sectoral-breakdown-of-non-resident-business",
+      "source": "News",
+      "publishedAt": "2025-09-22T06:00:00.000Z",
+      "region": "UK",
+      "summary": "This article details a consultation to discontinue the collection and publication of statistical data via Form BN on the further sectoral breakdown of non-resident monetary financial institutions. It also outlines existi",
+      "tags": []
+    },
     {
       "title": "Result of the tender of the People's Bank of China RMB Bills held on 22 September 2025",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250922-3/",
@@ -197,21 +206,21 @@
       "tags": []
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
-      "tags": []
-    },
-    {
       "title": "Bank Rate maintained at 4% - September 2025",
       "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "tags": []
+    },
+    {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
