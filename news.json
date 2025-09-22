@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2025-09-22T10:12:35.794Z",
+  "generatedAt": "2025-09-22T11:09:29.203Z",
   "items": [
+    {
+      "title": "Policy paper: Treasury Minutes – September 2025",
+      "link": "https://www.gov.uk/government/publications/treasury-minutes-september-2025",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-22T10:38:35.000Z",
+      "region": "UK",
+      "summary": "Government departments respond to the Public Accounts Committee reports through a Treasury minute.",
+      "tags": []
+    },
+    {
+      "title": "“No region will be locked out of investment” pledges Chancellor",
+      "link": "https://www.gov.uk/government/news/no-region-will-be-locked-out-of-investment-pledges-chancellor",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-22T10:20:58.000Z",
+      "region": "UK",
+      "summary": "Rachel Reeves has fired the starting gun on the government’s landmark Regional Investment Summit, pledging that “no region will be locked out of investment”.",
+      "tags": []
+    },
     {
       "title": "PRA proposes reduced reporting requirements for banks",
       "link": "https://www.bankofengland.co.uk/news/2025/september/pra-proposes-reduced-reporting-requirements-for-banks",
@@ -18,6 +36,19 @@
       "region": "UK",
       "summary": "This article details a consultation to discontinue the collection and publication of statistical data via Form BN on the further sectoral breakdown of non-resident monetary financial institutions. It also outlines existi",
       "tags": []
+    },
+    {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250922-5/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-21T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
     },
     {
       "title": "Report on “Long-term Investing in Hong Kong: Developments and Opportunities in a Digital Economy”",
@@ -648,24 +679,6 @@
       "tags": []
     },
     {
-      "title": "Guidance: OFSI General licence - INT/2024/4907888",
-      "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20244907888",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-11T13:22:40.000Z",
-      "region": "UK",
-      "summary": "Details for OFSI General licence INT/2024/4907888 - Payments for Visa Application Services",
-      "tags": []
-    },
-    {
-      "title": "Guidance: OFSI General licence - INT/2022/2009156",
-      "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20222009156",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-11T13:22:16.000Z",
-      "region": "UK",
-      "summary": "Details of OFSI General licence - INT/2022/2009156",
-      "tags": []
-    },
-    {
       "title": "Scam alert related to banks",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250911-4/",
       "source": "HKMA: Press Releases",
@@ -1025,19 +1038,6 @@
     {
       "title": "Scam alert related to banks",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250904-4/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-09-03T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "SFC-HKMA joint survey shows record investment product sales and market participation in 2024",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250904-3/",
       "source": "HKMA: Press Releases",
       "publishedAt": "2025-09-03T16:00:00.000Z",
       "region": "Hong Kong",
