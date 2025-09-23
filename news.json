@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2025-09-23T11:09:12.223Z",
+  "generatedAt": "2025-09-23T12:19:12.426Z",
   "items": [
+    {
+      "title": "Bank of England Foreign Currency Reserves – Market Notice 23 September 2025",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/foreign-currency-reserves-23-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-23T12:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England is today announcing some changes to the financing of its foreign exchange reserves.",
+      "tags": []
+    },
+    {
+      "title": "Guidance: Who is subject to financial sanctions in the UK?",
+      "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-23T11:33:15.000Z",
+      "region": "UK",
+      "summary": "A guide to the current consolidated list of asset freeze targets, and a list of persons named in relation to financial and investment restrictions under the Russia regulations",
+      "tags": []
+    },
+    {
+      "title": "Guidance: Russia financial sanctions: list of asset-freeze targets",
+      "link": "https://www.gov.uk/government/publications/financial-sanctions-ukraine-sovereignty-and-territorial-integrity",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-23T11:33:11.000Z",
+      "region": "UK",
+      "summary": "The Russia (Sanctions) (EU Exit) Regulations 2019 ensure sanctions relating to Russia are implemented effectively after the UK leaves the EU.",
+      "tags": []
+    },
     {
       "title": "Policy paper: Chancellor meeting with Gilt-edged Market Makers: Minutes - September 2025",
       "link": "https://www.gov.uk/government/publications/chancellor-meeting-with-gilt-edged-market-makers-minutes-september-2025",
@@ -65,24 +92,6 @@
       "publishedAt": "2025-09-22T13:00:07.000Z",
       "region": "UK",
       "summary": "The Chancellor of the Exchequer and the US Treasury Secretary establish a Transatlantic Taskforce for Markets of the Future to enhance collaboration on capital markets, digital assets and other innovative financial activ",
-      "tags": []
-    },
-    {
-      "title": "Guidance: Who is subject to financial sanctions in the UK?",
-      "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-22T12:46:05.000Z",
-      "region": "UK",
-      "summary": "A guide to the current consolidated list of asset freeze targets, and a list of persons named in relation to financial and investment restrictions under the Russia regulations",
-      "tags": []
-    },
-    {
-      "title": "Guidance: Russia financial sanctions: list of asset-freeze targets",
-      "link": "https://www.gov.uk/government/publications/financial-sanctions-ukraine-sovereignty-and-territorial-integrity",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-22T12:46:02.000Z",
-      "region": "UK",
-      "summary": "The Russia (Sanctions) (EU Exit) Regulations 2019 ensure sanctions relating to Russia are implemented effectively after the UK leaves the EU.",
       "tags": []
     },
     {
