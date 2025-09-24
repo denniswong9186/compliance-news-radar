@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2025-09-24T08:14:48.826Z",
+  "generatedAt": "2025-09-24T09:12:19.956Z",
   "items": [
+    {
+      "title": "Q2 2025 supervisory data indicate improvements in ROE despite continued tightening of net interest margins in EU/EEA banks",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/q2-2025-supervisory-data-indicate-improvements-roe-despite-continued-tightening-net-interest-margins",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-09-24T09:00:00.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) today published its Q2 2025 Risk Dashboard (RDB), which discloses aggregated statistical information for the largest EU/EEA credit institutions.",
+      "tags": [
+        "EU",
+        "EBA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Interest rate for fourth interest payment of series of retail green bonds due 2026",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250924-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-23T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
     {
       "title": "The EBA advises the EU Commission on the review of the EU covered bond framework",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-advises-eu-commission-review-eu-covered-bond-framework",
@@ -351,15 +377,6 @@
       "tags": []
     },
     {
-      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
-      "tags": []
-    },
-    {
       "title": "Monetary Policy Committee dates for 2026",
       "link": "https://www.bankofengland.co.uk/news/2025/september/monetary-policy-committee-dates-for-2026",
       "source": "News",
@@ -369,12 +386,12 @@
       "tags": []
     },
     {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
       "tags": []
     },
     {
@@ -384,6 +401,15 @@
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "Exchange of letters between the Governor and the Chancellor",
+      "tags": []
+    },
+    {
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
@@ -1031,19 +1057,6 @@
       ]
     },
     {
-      "title": "Scam alert related to banks",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250905-4/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-09-04T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
       "title": "Stephen Blyth appointed, and Randall Kroszner reappointed to the Bank of England’s Financial Policy Committee",
       "link": "https://www.bankofengland.co.uk/news/2025/september/stephen-blyth-appointed-and-randall-kroszner-reappointed-to-the-boes-fpc",
       "source": "News",
@@ -1171,19 +1184,6 @@
       "tags": [
         "US",
         "SEC",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "The EBA publishes its final standards for off-balance sheet items conversion factors",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-final-standards-balance-sheet-items-conversion-factors",
-      "source": "European Banking Authority",
-      "publishedAt": "2025-08-18T14:48:51.000Z",
-      "region": "EU",
-      "summary": "The European Banking Authority (EBA) today published its final draft Regulatory Technical Standards (RTS) on the allocation of off-balance sheet items and the specification of factors that might constrain institutions’ a",
-      "tags": [
-        "EU",
-        "EBA",
         "Regulator"
       ]
     },
