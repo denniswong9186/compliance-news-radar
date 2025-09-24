@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2025-09-24T18:15:17.750Z",
+  "generatedAt": "2025-09-24T19:09:02.131Z",
   "items": [
+    {
+      "title": "SEC Announces Departure of Chief Operating Officer Ken Johnson",
+      "link": "https://www.sec.gov/newsroom/press-releases/2025-125-sec-announces-departure-chief-operating-officer-ken-johnson",
+      "source": "Press Releases",
+      "publishedAt": "2025-09-24T18:02:29.000Z",
+      "region": "US",
+      "summary": "The Securities and Exchange Commission today announced that Ken Johnson, who has been serving as Chief Operating Officer (COO) since December 2017, will retire from the agency in December. “Ken has been an integral leade",
+      "tags": [
+        "US",
+        "SEC",
+        "Regulator"
+      ]
+    },
     {
       "title": "SEC Announces Agenda, Panelists for SEC-CFTC Roundtable on Regulatory Harmonization Efforts",
       "link": "https://www.sec.gov/newsroom/press-releases/2025-124-sec-announces-agenda-panelists-sec-cftc-roundtable-regulatory-harmonization-efforts",
@@ -439,21 +452,21 @@
       "tags": []
     },
     {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
-      "tags": []
-    },
-    {
       "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
       "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "Exchange of letters between the Governor and the Chancellor",
+      "tags": []
+    },
+    {
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
