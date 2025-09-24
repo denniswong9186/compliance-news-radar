@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2025-09-24T10:11:11.779Z",
+  "generatedAt": "2025-09-24T11:09:15.753Z",
   "items": [
+    {
+      "title": "Corporate report: Whole of Government Accounts 2024 to 2025: guidance for preparers",
+      "link": "https://www.gov.uk/government/publications/whole-of-government-accounts-2024-to-2025-guidance-for-preparers",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-24T10:32:12.000Z",
+      "region": "UK",
+      "summary": "Guidance for central government and local government preparers for Whole of Government Accounts.",
+      "tags": []
+    },
     {
       "title": "Q2 2025 supervisory data indicate improvements in ROE despite continued tightening of net interest margins in EU/EEA banks",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/q2-2025-supervisory-data-indicate-improvements-roe-despite-continued-tightening-net-interest-margins",
@@ -377,15 +386,6 @@
       "tags": []
     },
     {
-      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
-      "tags": []
-    },
-    {
       "title": "Monetary Policy Committee dates for 2026",
       "link": "https://www.bankofengland.co.uk/news/2025/september/monetary-policy-committee-dates-for-2026",
       "source": "News",
@@ -395,12 +395,12 @@
       "tags": []
     },
     {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
       "tags": []
     },
     {
@@ -410,6 +410,15 @@
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "Exchange of letters between the Governor and the Chancellor",
+      "tags": []
+    },
+    {
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
@@ -599,15 +608,6 @@
         "SEC",
         "Regulator"
       ]
-    },
-    {
-      "title": "Corporate report: Royal Mint Trading Fund: Annual Report and Accounts 2024 to 2025",
-      "link": "https://www.gov.uk/government/publications/royal-mint-trading-fund-annual-report-and-accounts-2024-to-2025",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-16T11:00:02.000Z",
-      "region": "UK",
-      "summary": "The Royal Mint Trading Fund Annual Report and Accounts 2024 to 2025.",
-      "tags": []
     },
     {
       "title": "Scam alert related to banks",
