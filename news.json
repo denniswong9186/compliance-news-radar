@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2025-09-25T12:20:05.505Z",
+  "generatedAt": "2025-09-25T13:23:44.717Z",
   "items": [
+    {
+      "title": "News release: FINTRAC imposes an administrative monetary penalty on Peken Global Limited (KuCoin)",
+      "link": "https://fintrac-canafe.canada.ca/new-neuf/nr/2025-09-25-eng",
+      "source": "Financial Transactions and Reports Analysis Centre of Canada",
+      "publishedAt": "2025-09-25T13:00:00.000Z",
+      "region": "Canada",
+      "summary": "Peken Global Limited (also operating as KuCoin), a Seychelles-incorporated entity operating in Canada, was imposed an administrative monetary penalty of $19,552,000 for committing 3 violations.",
+      "tags": [
+        "Canada",
+        "CRA",
+        "FCAC"
+      ]
+    },
     {
       "title": "Transparency data: HM Treasury: spending over £500, June 25",
       "link": "https://www.gov.uk/government/publications/hm-treasury-spending-over-500-june-25",
@@ -688,12 +701,12 @@
       ]
     },
     {
-      "title": "FINTRAC updates its guidance on information records relating to unrepresented parties in real estate transactions as of October 1, 2025",
-      "link": "https://fintrac-canafe.canada.ca/guidance-directives/recordkeeping-document/record/real-eng#x5 ",
+      "title": "FINTRAC updates its guidance on the use of an agent or mandatary as of October 1, 2025",
+      "link": "https://fintrac-canafe.canada.ca/guidance-directives/client-clientele/Guide11/11-eng",
       "source": "Financial Transactions and Reports Analysis Centre of Canada",
       "publishedAt": "2025-09-15T15:00:00.000Z",
       "region": "Canada",
-      "summary": "The Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) updates its guidance on unrepresented parties in real estate transactions as of October 1, 2025.",
+      "summary": "The Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) updates its guidance on the use of an agent or mandatary to verify the identity of a corporation or an entity as of October 1, 2025.",
       "tags": [
         "Canada",
         "CRA",
@@ -701,12 +714,12 @@
       ]
     },
     {
-      "title": "FINTRAC updates its guidance on the use of an agent or mandatary as of October 1, 2025",
-      "link": "https://fintrac-canafe.canada.ca/guidance-directives/client-clientele/Guide11/11-eng",
+      "title": "FINTRAC updates its guidance on information records relating to unrepresented parties in real estate transactions as of October 1, 2025",
+      "link": "https://fintrac-canafe.canada.ca/guidance-directives/recordkeeping-document/record/real-eng#x5 ",
       "source": "Financial Transactions and Reports Analysis Centre of Canada",
       "publishedAt": "2025-09-15T15:00:00.000Z",
       "region": "Canada",
-      "summary": "The Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) updates its guidance on the use of an agent or mandatary to verify the identity of a corporation or an entity as of October 1, 2025.",
+      "summary": "The Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) updates its guidance on unrepresented parties in real estate transactions as of October 1, 2025.",
       "tags": [
         "Canada",
         "CRA",
