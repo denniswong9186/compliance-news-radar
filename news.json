@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-25T09:11:59.803Z",
+  "generatedAt": "2025-09-25T10:11:16.335Z",
   "items": [
     {
       "title": "Policy paper: UK-Australia Financial Regulatory Forum September 2025: Joint Statement",
@@ -268,6 +268,15 @@
       "publishedAt": "2025-09-21T23:00:00.000Z",
       "region": "UK",
       "summary": "NHS productivity increases by 2.7% over the past year, new data shows, meaning patients are being seen and treated more quickly due to investment and reforms.",
+      "tags": []
+    },
+    {
+      "title": "Starter guide to UK sanctions",
+      "link": "https://www.gov.uk/guidance/starter-guide-to-uk-sanctions",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-21T23:00:00.000Z",
+      "region": "UK",
+      "summary": "A guide for businesses and organisations that need to understand more about what sanctions are and how they work.",
       "tags": []
     },
     {
@@ -563,15 +572,6 @@
       "publishedAt": "2025-09-17T15:59:12.000Z",
       "region": "UK",
       "summary": "The Exchequer Secretary made a speech at the annual HMRC Conference on 16 September.",
-      "tags": []
-    },
-    {
-      "title": "Transparency data: HM Treasury Senior officials’ business expenses, hospitality, and meetings April to June 2025",
-      "link": "https://www.gov.uk/government/publications/hm-treasury-senior-officials-business-expenses-hospitality-and-meetings-april-to-june-2025",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-17T14:20:32.000Z",
-      "region": "UK",
-      "summary": "Data on senior officials’ (SCS2+) business expenses, hospitality, and meetings with external individuals and organisations.",
       "tags": []
     },
     {
