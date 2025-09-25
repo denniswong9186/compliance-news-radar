@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2025-09-25T11:09:50.285Z",
+  "generatedAt": "2025-09-25T12:20:05.505Z",
   "items": [
+    {
+      "title": "Transparency data: HM Treasury: spending over £500, June 25",
+      "link": "https://www.gov.uk/government/publications/hm-treasury-spending-over-500-june-25",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-25T11:00:01.000Z",
+      "region": "UK",
+      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
+      "tags": []
+    },
+    {
+      "title": "Transparency data: HM Treasury: spending over £500, April 25",
+      "link": "https://www.gov.uk/government/publications/hm-treasury-spending-over-500-april-25",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-25T11:00:00.000Z",
+      "region": "UK",
+      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
+      "tags": []
+    },
+    {
+      "title": "Transparency data: HM Treasury: spending over £500, May 25",
+      "link": "https://www.gov.uk/government/publications/hm-treasury-spending-over-500-may-25",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-25T11:00:00.000Z",
+      "region": "UK",
+      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
+      "tags": []
+    },
     {
       "title": "Guidance: Counter terrorism financial sanctions: list of asset-freeze targets",
       "link": "https://www.gov.uk/government/publications/current-list-of-designated-persons-terrorism-and-terrorist-financing",
@@ -386,24 +413,6 @@
       ]
     },
     {
-      "title": "Transparency data: OSCAR II – publishing data from the database: September 2025",
-      "link": "https://www.gov.uk/government/publications/oscar-ii-publishing-data-from-the-database-september-2025",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-19T08:30:01.000Z",
-      "region": "UK",
-      "summary": "The first quarterly OSCAR transparency release for 2025 to 2026.",
-      "tags": []
-    },
-    {
-      "title": "Accredited official statistics: Public sector finances bulletin",
-      "link": "https://www.gov.uk/government/statistics/public-sector-finances-bulletin",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-19T06:00:05.000Z",
-      "region": "UK",
-      "summary": "The public sector finances statistical bulletin.",
-      "tags": []
-    },
-    {
       "title": "News release: Update: Project Cerberus dismantles transnational organized crime group",
       "link": "https://alert-ab.ca/update-project-cerberus-dismantles-transnational-organized-crime-group/",
       "source": "Financial Transactions and Reports Analysis Centre of Canada",
@@ -465,15 +474,6 @@
       ]
     },
     {
-      "title": "Correspondence: Open letters between HM Treasury and Bank of England, September 2025",
-      "link": "https://www.gov.uk/government/publications/open-letters-between-hm-treasury-and-bank-of-england-september-2025",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-18T11:15:07.000Z",
-      "region": "UK",
-      "summary": "CPI inflation was 3.8% in July 2025, prompting an open letter from the Governor of the Bank of England to the Chancellor on 18 September 2025. The Chancellor replied to the Governor on 18 September 2025.",
-      "tags": []
-    },
-    {
       "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
       "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
       "source": "News",
@@ -492,21 +492,21 @@
       "tags": []
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
-      "tags": []
-    },
-    {
       "title": "Bank Rate maintained at 4% - September 2025",
       "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "tags": []
+    },
+    {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
