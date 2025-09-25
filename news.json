@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2025-09-25T07:11:21.743Z",
+  "generatedAt": "2025-09-25T08:14:16.447Z",
   "items": [
+    {
+      "title": "Policy paper: UK-Australia Financial Regulatory Forum September 2025: Joint Statement",
+      "link": "https://www.gov.uk/government/publications/uk-australia-financial-regulatory-forum-september-2025-joint-statement",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-25T07:30:01.000Z",
+      "region": "UK",
+      "summary": "HM Treasury and Australian Treasury Joint Statement on the Inaugural Dialogue.",
+      "tags": []
+    },
     {
       "title": "SEC Announces Departure of Chief Operating Officer Ken Johnson",
       "link": "https://www.sec.gov/newsroom/press-releases/2025-125-sec-announces-departure-chief-operating-officer-ken-johnson",
@@ -452,21 +461,21 @@
       "tags": []
     },
     {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
-      "tags": []
-    },
-    {
       "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
       "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "Exchange of letters between the Governor and the Chancellor",
+      "tags": []
+    },
+    {
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
@@ -564,15 +573,6 @@
         "SEC",
         "Regulator"
       ]
-    },
-    {
-      "title": "Policy paper: Transforming Business Rates: Interim Report",
-      "link": "https://www.gov.uk/government/publications/transforming-business-rates-interim-report",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-17T11:35:20.000Z",
-      "region": "UK",
-      "summary": "A report summarising the findings from the Transforming Business Rates Discussion Paper and outlining priority reforms that the government will consider to improve the operation of the business rates system.",
-      "tags": []
     },
     {
       "title": "Minutes: CBDC Academic Advisory Group – March 2025",
