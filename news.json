@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2025-09-25T14:11:25.103Z",
+  "generatedAt": "2025-09-25T15:11:31.092Z",
   "items": [
+    {
+      "title": "Transparency data: HM Treasury: special advisers’ gifts, hospitality and meetings, April to June 2025",
+      "link": "https://www.gov.uk/government/publications/hm-treasury-special-advisers-gifts-hospitality-and-meetings-april-to-june-2025",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-25T15:00:10.000Z",
+      "region": "UK",
+      "summary": "Data on gifts and hospitality received by special advisers, and meetings they attended with senior media figures.",
+      "tags": []
+    },
+    {
+      "title": "Transparency data: HM Treasury: ministerial overseas travel and meetings, April to June 2025",
+      "link": "https://www.gov.uk/government/publications/hm-treasury-ministerial-overseas-travel-and-meetings-april-to-june-2025",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-25T15:00:10.000Z",
+      "region": "UK",
+      "summary": "Data on ministers’ overseas travel and meetings with external individuals and organisations",
+      "tags": []
+    },
+    {
+      "title": "Transparency data: HM Treasury business appointment rules advice April to June 2025",
+      "link": "https://www.gov.uk/government/publications/hm-treasury-business-appointment-rules-advice-april-to-june-2025",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-25T15:00:10.000Z",
+      "region": "UK",
+      "summary": "Summaries of advice given under the business appointment rules to applicants at SCS2 and SCS1 level and equivalents.",
+      "tags": []
+    },
     {
       "title": "News release: FINTRAC imposes an administrative monetary penalty on Peken Global Limited (KuCoin)",
       "link": "https://fintrac-canafe.canada.ca/new-neuf/nr/2025-09-25-eng",
@@ -383,33 +410,6 @@
       "publishedAt": "2025-09-19T13:47:49.000Z",
       "region": "UK",
       "summary": "Chancellor Rachel Reeves is meeting finance ministers from European countries, Canada and Ukraine in Copenhagen to talk about defence, trade and investment.",
-      "tags": []
-    },
-    {
-      "title": "Guidance: OFSI General Licence INT/2022/1875276",
-      "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20221875276",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-19T13:42:06.000Z",
-      "region": "UK",
-      "summary": "Details of OFSI General Licence INT/2022/1875276",
-      "tags": []
-    },
-    {
-      "title": "Official Statistics: Standards and policies for HM Treasury statistics",
-      "link": "https://www.gov.uk/government/statistics/standards-and-policies-for-hm-treasury-statistics",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-19T10:44:46.000Z",
-      "region": "UK",
-      "summary": "HM Treasury's statistics are governed by the standards set out by the UK Statistics Authority in their Code of Practice for official statistics.",
-      "tags": []
-    },
-    {
-      "title": "Transparency data: HMT workforce management information: August 2025",
-      "link": "https://www.gov.uk/government/publications/hmt-workforce-management-information-august-2025",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-19T10:21:45.000Z",
-      "region": "UK",
-      "summary": "This document details monthly management information on staff numbers and paybill costs within HM Treasury and its agencies.",
       "tags": []
     },
     {
