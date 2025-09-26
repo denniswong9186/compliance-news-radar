@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2025-09-26T11:09:06.312Z",
+  "generatedAt": "2025-09-26T12:19:07.805Z",
   "items": [
+    {
+      "title": "News release: Ontario RCMP shuts down one of Canada's largest known \"dark web\" drug networks",
+      "link": "https://rcmp.ca/en/news/2025/09/ontario-rcmp-shuts-down-one-canadas-largest-known-dark-web-drug-networks",
+      "source": "Financial Transactions and Reports Analysis Centre of Canada",
+      "publishedAt": "2025-09-26T11:35:35.000Z",
+      "region": "Canada",
+      "summary": "FINTRAC’s financial intelligence was recognized by the Royal Canadian Mounted Police (RCMP) in Ontario in relation to the largest dark web drug trafficking investigation to date. Seven individuals have been arrested and ",
+      "tags": []
+    },
     {
       "title": "Commercial Credit Data Sharing: Consultation and Call for Evidence",
       "link": "https://www.gov.uk/government/consultations/commercial-credit-data-sharing-consultation-and-call-for-evidence",
@@ -753,12 +762,12 @@
       ]
     },
     {
-      "title": "FINTRAC updates its guidance on the use of an agent or mandatary as of October 1, 2025",
-      "link": "https://fintrac-canafe.canada.ca/guidance-directives/client-clientele/Guide11/11-eng",
+      "title": "FINTRAC updates its guidance on information records relating to unrepresented parties in real estate transactions as of October 1, 2025",
+      "link": "https://fintrac-canafe.canada.ca/guidance-directives/recordkeeping-document/record/real-eng#x5 ",
       "source": "Financial Transactions and Reports Analysis Centre of Canada",
       "publishedAt": "2025-09-15T15:00:00.000Z",
       "region": "Canada",
-      "summary": "The Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) updates its guidance on the use of an agent or mandatary to verify the identity of a corporation or an entity as of October 1, 2025.",
+      "summary": "The Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) updates its guidance on unrepresented parties in real estate transactions as of October 1, 2025.",
       "tags": [
         "Canada",
         "CRA",
@@ -766,12 +775,12 @@
       ]
     },
     {
-      "title": "FINTRAC updates its guidance on information records relating to unrepresented parties in real estate transactions as of October 1, 2025",
-      "link": "https://fintrac-canafe.canada.ca/guidance-directives/recordkeeping-document/record/real-eng#x5 ",
+      "title": "FINTRAC updates its guidance on the use of an agent or mandatary as of October 1, 2025",
+      "link": "https://fintrac-canafe.canada.ca/guidance-directives/client-clientele/Guide11/11-eng",
       "source": "Financial Transactions and Reports Analysis Centre of Canada",
       "publishedAt": "2025-09-15T15:00:00.000Z",
       "region": "Canada",
-      "summary": "The Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) updates its guidance on unrepresented parties in real estate transactions as of October 1, 2025.",
+      "summary": "The Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) updates its guidance on the use of an agent or mandatary to verify the identity of a corporation or an entity as of October 1, 2025.",
       "tags": [
         "Canada",
         "CRA",
