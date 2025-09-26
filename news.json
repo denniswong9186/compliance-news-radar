@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-26T07:11:05.610Z",
+  "generatedAt": "2025-09-26T08:14:36.841Z",
   "items": [
     {
       "title": "£292m Pride in Place investment for Scottish neighbourhoods",
@@ -20,13 +20,17 @@
       "tags": []
     },
     {
-      "title": "Transparency data: HM Treasury: special advisers’ gifts, hospitality and meetings, April to June 2025",
-      "link": "https://www.gov.uk/government/publications/hm-treasury-special-advisers-gifts-hospitality-and-meetings-april-to-june-2025",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-25T15:00:10.000Z",
-      "region": "UK",
-      "summary": "Data on gifts and hospitality received by special advisers, and meetings they attended with senior media figures.",
-      "tags": []
+      "title": "Treasury Markets Summit 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250926-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-25T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
     },
     {
       "title": "Transparency data: HM Treasury: ministerial overseas travel and meetings, April to June 2025",
@@ -111,6 +115,15 @@
       "publishedAt": "2025-09-25T07:30:01.000Z",
       "region": "UK",
       "summary": "HM Treasury and Australian Treasury Joint Statement on the Inaugural Dialogue.",
+      "tags": []
+    },
+    {
+      "title": "Transparency data: HM Treasury: special advisers’ gifts, hospitality and meetings, April to June 2025",
+      "link": "https://www.gov.uk/government/publications/hm-treasury-special-advisers-gifts-hospitality-and-meetings-april-to-june-2025",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-24T23:00:00.000Z",
+      "region": "UK",
+      "summary": "Data on gifts and hospitality received by special advisers, and meetings they attended with senior media figures.",
       "tags": []
     },
     {
@@ -487,15 +500,6 @@
       ]
     },
     {
-      "title": "Monetary Policy Committee dates for 2026",
-      "link": "https://www.bankofengland.co.uk/news/2025/september/monetary-policy-committee-dates-for-2026",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "2026 confirmed dates",
-      "tags": []
-    },
-    {
       "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
       "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
       "source": "News",
@@ -505,12 +509,12 @@
       "tags": []
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "title": "Monetary Policy Committee dates for 2026",
+      "link": "https://www.bankofengland.co.uk/news/2025/september/monetary-policy-committee-dates-for-2026",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
+      "summary": "2026 confirmed dates",
       "tags": []
     },
     {
@@ -520,6 +524,15 @@
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "tags": []
+    },
+    {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
@@ -1046,19 +1059,6 @@
     {
       "title": "Scam alert related to banks",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250908-4/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-09-07T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "HKMA launches public consultation on Phase 2A prototype of Hong Kong Taxonomy for Sustainable Finance",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250908-3/",
       "source": "HKMA: Press Releases",
       "publishedAt": "2025-09-07T16:00:00.000Z",
       "region": "Hong Kong",
