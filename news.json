@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-26T10:11:16.159Z",
+  "generatedAt": "2025-09-26T11:09:06.312Z",
   "items": [
     {
       "title": "Commercial Credit Data Sharing: Consultation and Call for Evidence",
@@ -9,6 +9,32 @@
       "region": "UK",
       "summary": "This consultation and call for evidence sets out proposals and issues for examination relating to the Commercial Credit Data Sharing scheme.",
       "tags": []
+    },
+    {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250926-6/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-25T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Launch of cross-boundary bond repurchase business",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250926-5/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-25T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
     },
     {
       "title": "The Hong Kong Mortgage Corporation Limited Interim Results Highlights for 2025",
@@ -531,21 +557,21 @@
       "tags": []
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
-      "tags": []
-    },
-    {
       "title": "Bank Rate maintained at 4% - September 2025",
       "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "tags": []
+    },
+    {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
@@ -1024,32 +1050,6 @@
     {
       "title": "Scam alert related to banks",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250909-5/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-09-08T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "Beware of fraudulent documents purported to be issued by HKMA",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250909-4/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-09-08T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "Exchange Fund Bills Tender Results",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250909-3/",
       "source": "HKMA: Press Releases",
       "publishedAt": "2025-09-08T16:00:00.000Z",
       "region": "Hong Kong",
