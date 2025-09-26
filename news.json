@@ -1,15 +1,6 @@
 {
-  "generatedAt": "2025-09-26T08:14:36.841Z",
+  "generatedAt": "2025-09-26T09:11:53.873Z",
   "items": [
-    {
-      "title": "£292m Pride in Place investment for Scottish neighbourhoods",
-      "link": "https://www.gov.uk/government/news/292m-pride-in-place-investment-for-scottish-neighbourhoods",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-25T17:00:01.000Z",
-      "region": "UK",
-      "summary": "16 Scottish LAs backed by Scotland Office to revitalise communities as part of our Plan for Change, with spending decisions in the hands of local people",
-      "tags": []
-    },
     {
       "title": "Commercial Credit Data Sharing: Consultation and Call for Evidence",
       "link": "https://www.gov.uk/government/consultations/commercial-credit-data-sharing-consultation-and-call-for-evidence",
@@ -115,6 +106,15 @@
       "publishedAt": "2025-09-25T07:30:01.000Z",
       "region": "UK",
       "summary": "HM Treasury and Australian Treasury Joint Statement on the Inaugural Dialogue.",
+      "tags": []
+    },
+    {
+      "title": "£292m Pride in Place investment for Scottish neighbourhoods",
+      "link": "https://www.gov.uk/government/news/292m-pride-in-place-investment-for-scottish-neighbourhoods",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-24T23:00:00.000Z",
+      "region": "UK",
+      "summary": "16 Scottish LAs backed by Scotland Office to revitalise communities as part of our Plan for Change, with spending decisions in the hands of local people",
       "tags": []
     },
     {
@@ -1421,15 +1421,6 @@
       "publishedAt": "2025-07-29T09:00:00.000Z",
       "region": "UK",
       "summary": "Jackie Bennett OBE has been re-appointed for a second term as the Chair for the Residential Property Forum (RPF) – a Bank of England convened, industry-led group, which helps monitor the residential property sector in th",
-      "tags": []
-    },
-    {
-      "title": "The PRA fines Barents Reinsurance S.A., London Branch £1,785,000 for internal controls, governance and reporting failures",
-      "link": "https://www.bankofengland.co.uk/news/2025/july/pra-fines-barents-reinsurance-sa-london-branch",
-      "source": "News",
-      "publishedAt": "2025-07-28T09:00:00.000Z",
-      "region": "UK",
-      "summary": "The Prudential Regulation Authority has fined Barents Reinsurance S.A., London Branch £1,785,000 for failing to organise and control its affairs responsibly and effectively, as well as governance and regulatory reporting",
       "tags": []
     }
   ]
