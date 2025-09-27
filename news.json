@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-27T08:11:59.143Z",
+  "generatedAt": "2025-09-27T09:09:53.291Z",
   "items": [
     {
       "title": "SEC Seeks Public Comment to Improve Rules on Residential Mortgage-Backed Securities and Asset-Backed Securities",
@@ -561,15 +561,6 @@
       ]
     },
     {
-      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
-      "tags": []
-    },
-    {
       "title": "Monetary Policy Committee dates for 2026",
       "link": "https://www.bankofengland.co.uk/news/2025/september/monetary-policy-committee-dates-for-2026",
       "source": "News",
@@ -579,12 +570,12 @@
       "tags": []
     },
     {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
       "tags": []
     },
     {
@@ -594,6 +585,15 @@
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "Exchange of letters between the Governor and the Chancellor",
+      "tags": []
+    },
+    {
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
@@ -1395,15 +1395,6 @@
       "publishedAt": "2025-07-29T10:05:41.000Z",
       "region": "UK",
       "summary": "The Money Markets Committee is a forum for market participants and authorities to discuss the UK unsecured deposits and funding market and securities lending and repo markets.",
-      "tags": []
-    },
-    {
-      "title": "Jackie Bennett OBE re-appointed as Residential Property Forum Chair",
-      "link": "https://www.bankofengland.co.uk/news/2025/july/jackie-bennett-obe-re-appointed-as-residential-property-forum-chair",
-      "source": "News",
-      "publishedAt": "2025-07-29T09:00:00.000Z",
-      "region": "UK",
-      "summary": "Jackie Bennett OBE has been re-appointed for a second term as the Chair for the Residential Property Forum (RPF) – a Bank of England convened, industry-led group, which helps monitor the residential property sector in th",
       "tags": []
     }
   ]
