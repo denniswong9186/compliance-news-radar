@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2025-09-29T08:15:54.021Z",
+  "generatedAt": "2025-09-29T09:13:41.225Z",
   "items": [
+    {
+      "title": "HKMA Quarterly Bulletin and Half-Yearly Monetary and Financial Stability Report (September 2025 Issue)",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250929-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-28T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
     {
       "title": "Government backs Jaguar Land Rover with £1.5 billion loan guarantee",
       "link": "https://www.gov.uk/government/news/government-backs-jaguar-land-rover-with-15-billion-loan-guarantee",
@@ -561,21 +574,21 @@
       ]
     },
     {
-      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
-      "tags": []
-    },
-    {
       "title": "Monetary Policy Committee dates for 2026",
       "link": "https://www.bankofengland.co.uk/news/2025/september/monetary-policy-committee-dates-for-2026",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "2026 confirmed dates",
+      "tags": []
+    },
+    {
+      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
       "tags": []
     },
     {
@@ -1044,19 +1057,6 @@
       ]
     },
     {
-      "title": "Scam alert related to banks",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250909-5/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-09-08T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
       "title": "News release: JSOT criminally charges Yuvraj Verma and Rohit Sethi",
       "link": "https://www.asc.ca/News-and-Publications/News-Releases/2025/09/5-JSOT-criminally-charges-Yuvraj-Verma-and-Rohit-Sethi",
       "source": "Financial Transactions and Reports Analysis Centre of Canada",
@@ -1378,15 +1378,6 @@
         "CRA",
         "FCAC"
       ]
-    },
-    {
-      "title": "Prudential Regulation Authority unveils options to enhance competition in the mortgage market",
-      "link": "https://www.bankofengland.co.uk/news/2025/july/pra-unveils-options-to-enhance-competition-in-the-mortgage-market",
-      "source": "News",
-      "publishedAt": "2025-07-31T09:00:00.000Z",
-      "region": "UK",
-      "summary": "The Prudential Regulation Authority has unveiled a series of possible options to make it easier for mid-sized firms to scale-up and compete in the residential mortgage market, and is now opening a wide discussion with in",
-      "tags": []
     }
   ]
 }
