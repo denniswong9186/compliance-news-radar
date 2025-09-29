@@ -1,6 +1,37 @@
 {
-  "generatedAt": "2025-09-29T12:20:04.549Z",
+  "generatedAt": "2025-09-29T13:23:52.189Z",
   "items": [
+    {
+      "title": "Guidance: Iran (nuclear) financial sanctions: list of asset-freeze targets",
+      "link": "https://www.gov.uk/government/publications/financial-sanctions-iran-nuclear-proliferation",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-29T12:21:50.000Z",
+      "region": "UK",
+      "summary": "This page contains the list of asset freeze targets, listed because of proliferation-related activity in Iran. It also contains information on regulations.",
+      "tags": []
+    },
+    {
+      "title": "Guidance: Who is subject to financial sanctions in the UK?",
+      "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-09-29T12:21:36.000Z",
+      "region": "UK",
+      "summary": "A guide to the current consolidated list of asset freeze targets, and a list of persons named in relation to financial and investment restrictions under the Russia regulations",
+      "tags": []
+    },
+    {
+      "title": "The EBA launches its 2025 EU-wide transparency exercise",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-launches-its-2025-eu-wide-transparency-exercise",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-09-29T08:50:44.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) today launched its 2025 EU-wide Transparency Exercise with the aim to enhance transparency and market discipline in the EU financial system. This exercise complements banks’ own Pilla",
+      "tags": [
+        "EU",
+        "EBA",
+        "Regulator"
+      ]
+    },
     {
       "title": "New youth guarantee for eligible young people and funding for libraries in all primary schools",
       "link": "https://www.gov.uk/government/news/new-youth-guarantee-for-eligible-young-people-and-funding-for-libraries-in-all-primary-schools",
@@ -214,15 +245,6 @@
       "tags": []
     },
     {
-      "title": "Guidance: Who is subject to financial sanctions in the UK?",
-      "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-25T10:01:41.000Z",
-      "region": "UK",
-      "summary": "A guide to the current consolidated list of asset freeze targets, and a list of persons named in relation to financial and investment restrictions under the Russia regulations",
-      "tags": []
-    },
-    {
       "title": "Policy paper: UK-Australia Financial Regulatory Forum September 2025: Joint Statement",
       "link": "https://www.gov.uk/government/publications/uk-australia-financial-regulatory-forum-september-2025-joint-statement",
       "source": "HM Treasury - Activity on GOV.UK",
@@ -396,15 +418,6 @@
       "publishedAt": "2025-09-23T11:33:11.000Z",
       "region": "UK",
       "summary": "The Russia (Sanctions) (EU Exit) Regulations 2019 ensure sanctions relating to Russia are implemented effectively after the UK leaves the EU.",
-      "tags": []
-    },
-    {
-      "title": "Policy paper: Chancellor meeting with Gilt-edged Market Makers: Minutes - September 2025",
-      "link": "https://www.gov.uk/government/publications/chancellor-meeting-with-gilt-edged-market-makers-minutes-september-2025",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-23T06:55:03.000Z",
-      "region": "UK",
-      "summary": "Summary minutes of the Chancellor of the Exchequer’s meeting with the primary dealer firms in the gilt market, on 22 September 2025 in HM Treasury.",
       "tags": []
     },
     {
@@ -1210,19 +1223,6 @@
       ]
     },
     {
-      "title": "The EBA updates data used for the identification of global systemically important institutions (G-SIIs)",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-updates-data-used-identification-global-systemically-important-institutions-g-siis-0",
-      "source": "European Banking Authority",
-      "publishedAt": "2025-08-26T09:06:41.000Z",
-      "region": "EU",
-      "summary": "The European Banking Authority (EBA) today released an updated set of 13 indicators and supporting data for the 32 largest institutions in the European Union, each with a leverage ratio exposure measure exceeding EUR 200",
-      "tags": [
-        "EU",
-        "EBA",
-        "Regulator"
-      ]
-    },
-    {
       "title": "SEC Names Judge Margaret Ryan as Director of the Division of Enforcement",
       "link": "https://www.sec.gov/newsroom/press-releases/2025-108-sec-names-judge-margaret-ryan-director-division-enforcement",
       "source": "Press Releases",
@@ -1364,19 +1364,6 @@
         "US",
         "SEC",
         "Regulator"
-      ]
-    },
-    {
-      "title": "FCAC calls on banks to improve handling of consumer complaints",
-      "link": "https://www.canada.ca/en/financial-consumer-agency/news/2025/07/fcac-calls-on-banks-to-improve-handling-of-consumer-complaints.html",
-      "source": "Financial Consumer Agency of Canada",
-      "publishedAt": "2025-07-31T13:00:00.000Z",
-      "region": "Canada",
-      "summary": "FCAC calls on banks to improve handling of consumer complaints",
-      "tags": [
-        "Canada",
-        "CRA",
-        "FCAC"
       ]
     }
   ]
