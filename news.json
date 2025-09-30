@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2025-09-30T14:11:19.575Z",
+  "generatedAt": "2025-09-30T15:09:48.017Z",
   "items": [
+    {
+      "title": "SEC Issues Order to Reduce Operating Costs of Consolidated Audit Trail",
+      "link": "https://www.sec.gov/newsroom/press-releases/2025-127-sec-issues-order-reduce-operating-costs-consolidated-audit-trail",
+      "source": "Press Releases",
+      "publishedAt": "2025-09-30T15:03:00.000Z",
+      "region": "US",
+      "summary": "The Securities and Exchange Commission today issued an order granting conditional exemptive relief related to certain requirements of the National Market System Plan governing the Consolidated Audit Trail (CAT NMS Plan),",
+      "tags": [
+        "US",
+        "SEC",
+        "Regulator"
+      ]
+    },
     {
       "title": "BIS Triennial Survey of Foreign Exchange and Over-The-Counter Interest Rate Derivatives Markets in April 2025 – UK Data",
       "link": "https://www.bankofengland.co.uk/news/2025/september/bis-triennial-survey-of-foreign-exchange-and-over-the-counter-interest-rate-derivatives-markets",
@@ -713,21 +726,12 @@
       ]
     },
     {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
-      "tags": []
-    },
-    {
-      "title": "Monetary Policy Committee dates for 2026",
-      "link": "https://www.bankofengland.co.uk/news/2025/september/monetary-policy-committee-dates-for-2026",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "2026 confirmed dates",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
@@ -740,12 +744,21 @@
       "tags": []
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "title": "Monetary Policy Committee dates for 2026",
+      "link": "https://www.bankofengland.co.uk/news/2025/september/monetary-policy-committee-dates-for-2026",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
+      "summary": "2026 confirmed dates",
+      "tags": []
+    },
+    {
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
