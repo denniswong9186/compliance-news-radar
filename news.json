@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-30T08:15:17.161Z",
+  "generatedAt": "2025-09-30T09:12:15.146Z",
   "items": [
     {
       "title": "FCAC announces an administrative monetary penalty paid by the Toronto-Dominion Bank",
@@ -22,6 +22,71 @@
       "region": "UK",
       "summary": "The Chancellor has today, Monday 29 September, announced a 'Youth Guarantee' for eligible young people, as well as funding to guarantee a library for all primary schools by the end of this parliament.",
       "tags": []
+    },
+    {
+      "title": "Exchange Fund Bills Tender Results",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250930-7/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-29T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Monetary Statistics for August 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250930-6/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-29T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Residential Mortgage Survey Results for August 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250930-5/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-29T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "International Reserves and Foreign Currency Liquidity",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250930-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-29T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Exchange Fund Abridged Balance Sheet and Currency Board Account",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250930-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-29T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
     },
     {
       "title": "Guidance: Iran (nuclear) financial sanctions: list of asset-freeze targets",
@@ -927,71 +992,6 @@
       "tags": [
         "US",
         "SEC",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "Scam alert related to banks",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250912-5/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-09-11T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "Analytical Accounts of the Exchange Fund",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250912-4/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-09-11T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "HKMA hosts 2025 Green Fintech Symposium and announces results of 2025 Green Fintech Competition",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250912-3/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-09-11T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "Scam alert related to banks",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250911-4/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-09-10T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "HKMC and CICC Sign MoU on Co-operation of Infrastructure Financing and Securitisation",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250911-3/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-09-10T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
         "Regulator"
       ]
     },
