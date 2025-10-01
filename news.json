@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2025-10-01T09:12:24.439Z",
+  "generatedAt": "2025-10-01T10:12:05.995Z",
   "items": [
+    {
+      "title": "Guidance: Who is subject to financial sanctions in the UK?",
+      "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-01T10:00:42.000Z",
+      "region": "UK",
+      "summary": "A guide to the current consolidated list of asset freeze targets, and a list of persons named in relation to financial and investment restrictions under the Russia regulations",
+      "tags": []
+    },
+    {
+      "title": "Guidance: Iran (nuclear) financial sanctions: list of asset-freeze targets",
+      "link": "https://www.gov.uk/government/publications/financial-sanctions-iran-nuclear-proliferation",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-01T10:00:39.000Z",
+      "region": "UK",
+      "summary": "This page contains the list of asset freeze targets, listed because of proliferation-related activity in Iran. It also contains information on regulations.",
+      "tags": []
+    },
+    {
+      "title": "Accredited official statistics: GDP deflators at market prices, and money GDP September 2025 (Quarterly National Accounts)",
+      "link": "https://www.gov.uk/government/statistics/gdp-deflators-at-market-prices-and-money-gdp-september-2025-quarterly-national-accounts",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-01T09:30:18.000Z",
+      "region": "UK",
+      "summary": "This document contains the latest gross domestic product (GDP) deflators. The GDP deflator can be viewed as a measure of general inflation in the domestic economy.",
+      "tags": []
+    },
     {
       "title": "SEC Announces Departure of Director of Office of the Advocate for Small Business Capital Formation Stacey Bowers",
       "link": "https://www.sec.gov/newsroom/press-releases/2025-129-sec-announces-departure-director-office-advocate-small-business-capital-formation-stacey-bowers",
@@ -170,24 +197,6 @@
         "HKMA",
         "Regulator"
       ]
-    },
-    {
-      "title": "Guidance: Iran (nuclear) financial sanctions: list of asset-freeze targets",
-      "link": "https://www.gov.uk/government/publications/financial-sanctions-iran-nuclear-proliferation",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-29T12:21:50.000Z",
-      "region": "UK",
-      "summary": "This page contains the list of asset freeze targets, listed because of proliferation-related activity in Iran. It also contains information on regulations.",
-      "tags": []
-    },
-    {
-      "title": "Guidance: Who is subject to financial sanctions in the UK?",
-      "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-29T12:21:36.000Z",
-      "region": "UK",
-      "summary": "A guide to the current consolidated list of asset freeze targets, and a list of persons named in relation to financial and investment restrictions under the Russia regulations",
-      "tags": []
     },
     {
       "title": "The EBA launches its 2025 EU-wide transparency exercise",
@@ -542,15 +551,6 @@
       ]
     },
     {
-      "title": "New Revolut HQ caps £110 billion week of investment in UK financial services sector",
-      "link": "https://www.gov.uk/government/news/new-revolut-hq-caps-110-billion-week-of-investment-in-uk-financial-services-sector",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-23T13:30:04.000Z",
-      "region": "UK",
-      "summary": "Chancellor Rachel Reeves will declare the UK ‘open for business’, following a £110 billion investment surge from major financial services firms in the past week alone.",
-      "tags": []
-    },
-    {
       "title": "News release: FINTRAC imposes an administrative monetary penalty on Spence Diamonds Ltd.",
       "link": "https://fintrac-canafe.canada.ca/new-neuf/nr/2025-09-23-eng",
       "source": "Financial Transactions and Reports Analysis Centre of Canada",
@@ -752,12 +752,12 @@
       ]
     },
     {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
       "tags": []
     },
     {
@@ -770,21 +770,21 @@
       "tags": []
     },
     {
-      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
-      "tags": []
-    },
-    {
       "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
       "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "Exchange of letters between the Governor and the Chancellor",
+      "tags": []
+    },
+    {
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
