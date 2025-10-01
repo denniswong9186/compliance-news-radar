@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2025-10-01T00:52:02.270Z",
+  "generatedAt": "2025-10-01T02:28:10.651Z",
   "items": [
+    {
+      "title": "SEC Announces Departure of Director of Office of the Advocate for Small Business Capital Formation Stacey Bowers",
+      "link": "https://www.sec.gov/newsroom/press-releases/2025-129-sec-announces-departure-director-office-advocate-small-business-capital-formation-stacey-bowers",
+      "source": "Press Releases",
+      "publishedAt": "2025-10-01T00:06:12.000Z",
+      "region": "US",
+      "summary": "The Securities and Exchange Commission today announced that Stacey Bowers, who has served as the Director of the Office of the Advocate for Small Business Capital Formation, will depart the agency effective October 17, 2",
+      "tags": [
+        "US",
+        "SEC",
+        "Regulator"
+      ]
+    },
     {
       "title": "SEC Continues Efforts to Assist Market Participants During Implementation of Treasury Clearing Rules",
       "link": "https://www.sec.gov/newsroom/press-releases/2025-128-sec-continues-efforts-assist-market-participants-during-implementation-treasury-clearing-rules",
@@ -739,15 +752,6 @@
       ]
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
-      "tags": []
-    },
-    {
       "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
       "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
       "source": "News",
@@ -763,6 +767,15 @@
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "2026 confirmed dates",
+      "tags": []
+    },
+    {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
@@ -1400,19 +1413,6 @@
       "region": "UK",
       "summary": "The Bank's Court of Directors acts as a unitary board, setting the organisation's strategy and budget and taking key decisions on resourcing and appointments. Required to meet a minimum seven times per year, it has five ",
       "tags": []
-    },
-    {
-      "title": "Securities and Exchange Commission Division of Corporation Finance Issues Staff Statement on Certain Liquid Staking Activities",
-      "link": "https://www.sec.gov/newsroom/press-releases/2025-104-securities-exchange-commission-division-corporation-finance-issues-staff-statement-certain-liquid",
-      "source": "Press Releases",
-      "publishedAt": "2025-08-05T16:58:00.000Z",
-      "region": "US",
-      "summary": "The Securities and Exchange Commission’s Division of Corporation Finance today issued a statement regarding certain liquid staking activities. This statement aims to provide greater clarity on the application of federal ",
-      "tags": [
-        "US",
-        "SEC",
-        "Regulator"
-      ]
     }
   ]
 }
