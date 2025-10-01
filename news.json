@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2025-10-01T11:09:37.487Z",
+  "generatedAt": "2025-10-01T12:20:27.736Z",
   "items": [
+    {
+      "title": "Official Statistics: Standards and policies for HM Treasury statistics",
+      "link": "https://www.gov.uk/government/statistics/standards-and-policies-for-hm-treasury-statistics",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-01T11:07:09.000Z",
+      "region": "UK",
+      "summary": "HM Treasury's statistics are governed by the standards set out by the UK Statistics Authority in their Code of Practice for official statistics.",
+      "tags": []
+    },
     {
       "title": "Guidance: Who is subject to financial sanctions in the UK?",
       "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
@@ -516,15 +525,6 @@
       ]
     },
     {
-      "title": "Working and engaging with China including Hong Kong and Macao",
-      "link": "https://www.gov.uk/guidance/working-and-engaging-with-china-including-hong-kong-and-macao",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-23T23:00:00.000Z",
-      "region": "UK",
-      "summary": "Guidance for UK nationals and organisations considering professional engagement with Chinese individuals and organisations.",
-      "tags": []
-    },
-    {
       "title": "Interest rate for fourth interest payment of series of retail green bonds due 2026",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250924-3/",
       "source": "HKMA: Press Releases",
@@ -752,21 +752,12 @@
       ]
     },
     {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
-      "tags": []
-    },
-    {
-      "title": "Monetary Policy Committee dates for 2026",
-      "link": "https://www.bankofengland.co.uk/news/2025/september/monetary-policy-committee-dates-for-2026",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "2026 confirmed dates",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
@@ -779,12 +770,21 @@
       "tags": []
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "title": "Monetary Policy Committee dates for 2026",
+      "link": "https://www.bankofengland.co.uk/news/2025/september/monetary-policy-committee-dates-for-2026",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
+      "summary": "2026 confirmed dates",
+      "tags": []
+    },
+    {
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
