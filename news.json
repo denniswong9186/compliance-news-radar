@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2025-10-01T13:23:36.602Z",
+  "generatedAt": "2025-10-01T14:11:02.771Z",
   "items": [
+    {
+      "title": "The EBA publishes its 2026 Work Programme and takes action for a more efficient regulatory and supervisory framework in the EU",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-2026-work-programme-and-takes-action-more-efficient-regulatory-and-supervisory",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-10-01T13:59:00.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) published today its Work Programme outlining the key priorities and initiatives for 2026. Besides focusing on three key priorities, the EBA’s work will aim at strengthening the simpli",
+      "tags": [
+        "EU",
+        "EBA",
+        "Regulator"
+      ]
+    },
     {
       "title": "FINTRAC updates its guidance on beneficial ownership: discrepancy reporting",
       "link": "https://fintrac-canafe.canada.ca/guidance-directives/client-clientele/bor-eng#s4",
@@ -1306,19 +1319,6 @@
       "tags": [
         "US",
         "SEC",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "The EBA responds to the European Parliament’s observations made in the 2023 Discharge report",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-responds-european-parliaments-observations-made-2023-discharge-report",
-      "source": "European Banking Authority",
-      "publishedAt": "2025-08-29T13:12:06.000Z",
-      "region": "EU",
-      "summary": "The European Banking Authority (EBA) today published an Opinion in response to the observations made by European Parliament in its 2023 Discharge Report. In the new format report, covering all agencies, the number of obs",
-      "tags": [
-        "EU",
-        "EBA",
         "Regulator"
       ]
     },
