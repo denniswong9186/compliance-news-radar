@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2025-10-02T11:08:59.268Z",
+  "generatedAt": "2025-10-02T12:18:09.104Z",
   "items": [
+    {
+      "title": "Policy paper: Joint Statement: EU-UK Financial Regulatory Forum, October 2025",
+      "link": "https://www.gov.uk/government/publications/joint-statement-eu-uk-financial-regulatory-forum-october-2025",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-02T12:00:05.000Z",
+      "region": "UK",
+      "summary": "HM Treasury and European Commission joint statement on the fourth EU-UK Financial Regulatory Forum.",
+      "tags": []
+    },
     {
       "title": "Appointment of three new Non-Executive Directors to the National Wealth Fund",
       "link": "https://www.gov.uk/government/news/appointment-of-three-new-non-executive-directors-to-the-national-wealth-fund",
@@ -516,15 +525,6 @@
       "tags": []
     },
     {
-      "title": "Transparency data: HM Treasury: special advisers’ gifts, hospitality and meetings, April to June 2025",
-      "link": "https://www.gov.uk/government/publications/hm-treasury-special-advisers-gifts-hospitality-and-meetings-april-to-june-2025",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-24T23:00:00.000Z",
-      "region": "UK",
-      "summary": "Data on gifts and hospitality received by special advisers, and meetings they attended with senior media figures.",
-      "tags": []
-    },
-    {
       "title": "SEC Announces Departure of Chief Operating Officer Ken Johnson",
       "link": "https://www.sec.gov/newsroom/press-releases/2025-125-sec-announces-departure-chief-operating-officer-ken-johnson",
       "source": "Press Releases",
@@ -817,21 +817,12 @@
       ]
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
-      "tags": []
-    },
-    {
-      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
@@ -844,12 +835,21 @@
       "tags": []
     },
     {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
+      "tags": []
+    },
+    {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
