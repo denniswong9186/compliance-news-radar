@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2025-10-02T09:11:30.438Z",
+  "generatedAt": "2025-10-02T10:10:48.441Z",
   "items": [
+    {
+      "title": "Appointment of three new Non-Executive Directors to the National Wealth Fund",
+      "link": "https://www.gov.uk/government/news/appointment-of-three-new-non-executive-directors-to-the-national-wealth-fund",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-02T09:38:21.000Z",
+      "region": "UK",
+      "summary": "Experts in investment, risk management and local and central government have been appointed to the National Wealth Fund Board, as it moves into a new chapter.",
+      "tags": []
+    },
     {
       "title": "HKMA and HKSTP launch IADS Developer Hackathon to foster bank–fintech collaboration",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251002-3/",
@@ -568,15 +577,6 @@
       ]
     },
     {
-      "title": "Corporate report: Whole of Government Accounts 2024 to 2025: guidance for preparers",
-      "link": "https://www.gov.uk/government/publications/whole-of-government-accounts-2024-to-2025-guidance-for-preparers",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-24T10:32:12.000Z",
-      "region": "UK",
-      "summary": "Guidance for central government and local government preparers for Whole of Government Accounts.",
-      "tags": []
-    },
-    {
       "title": "Q2 2025 supervisory data indicate improvements in ROE despite continued tightening of net interest margins in EU/EEA banks",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/q2-2025-supervisory-data-indicate-improvements-roe-despite-continued-tightening-net-interest-margins",
       "source": "European Banking Authority",
@@ -817,21 +817,12 @@
       ]
     },
     {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
-      "tags": []
-    },
-    {
-      "title": "Monetary Policy Committee dates for 2026",
-      "link": "https://www.bankofengland.co.uk/news/2025/september/monetary-policy-committee-dates-for-2026",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "2026 confirmed dates",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
@@ -844,12 +835,21 @@
       "tags": []
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "title": "Monetary Policy Committee dates for 2026",
+      "link": "https://www.bankofengland.co.uk/news/2025/september/monetary-policy-committee-dates-for-2026",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
+      "summary": "2026 confirmed dates",
+      "tags": []
+    },
+    {
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
