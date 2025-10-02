@@ -1,11 +1,24 @@
 {
-  "generatedAt": "2025-10-02T12:18:09.104Z",
+  "generatedAt": "2025-10-02T13:19:57.967Z",
   "items": [
     {
-      "title": "Policy paper: Joint Statement: EU-UK Financial Regulatory Forum, October 2025",
-      "link": "https://www.gov.uk/government/publications/joint-statement-eu-uk-financial-regulatory-forum-october-2025",
+      "title": "News release: FINTRAC imposes an administrative monetary penalty on HRA Group Holdings",
+      "link": "https://fintrac-canafe.canada.ca/new-neuf/nr/2025-10-02-eng",
+      "source": "Financial Transactions and Reports Analysis Centre of Canada",
+      "publishedAt": "2025-10-02T13:00:00.000Z",
+      "region": "Canada",
+      "summary": "HRA Group Holdings, a dealer in precious metals and stones, headquartered in Vancouver, British Columbia, was imposed an administrative monetary penalty of $132,000 for committing 4 violations.",
+      "tags": [
+        "Canada",
+        "CRA",
+        "FCAC"
+      ]
+    },
+    {
+      "title": "Policy paper: Joint Statement: EU-UK Financial Regulatory Forum- October 2025",
+      "link": "https://www.gov.uk/government/publications/joint-statement-eu-uk-financial-regulatory-forum-october-2025--2",
       "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-02T12:00:05.000Z",
+      "publishedAt": "2025-10-02T12:33:04.000Z",
       "region": "UK",
       "summary": "HM Treasury and European Commission joint statement on the fourth EU-UK Financial Regulatory Forum.",
       "tags": []
@@ -17,6 +30,15 @@
       "publishedAt": "2025-10-02T10:49:44.000Z",
       "region": "UK",
       "summary": "Experts in investment, risk management and local and central government have been appointed to the National Wealth Fund Board, as it moves into a new chapter.",
+      "tags": []
+    },
+    {
+      "title": "Policy paper: Joint Statement: EU-UK Financial Regulatory Forum, October 2025",
+      "link": "https://www.gov.uk/government/publications/joint-statement-eu-uk-financial-regulatory-forum-october-2025",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-01T23:00:00.000Z",
+      "region": "UK",
+      "summary": "HM Treasury and European Commission joint statement on the fourth EU-UK Financial Regulatory Forum.",
       "tags": []
     },
     {
@@ -46,6 +68,19 @@
       ]
     },
     {
+      "title": "Reporting requirements for disclosures under the Special Economic Measures Act or the Justice for Victims of Corrupt Officials Act in effect October 1, 2025",
+      "link": "https://fintrac-canafe.canada.ca/guidance-directives/transaction-operation/Guide5/5-eng",
+      "source": "Financial Transactions and Reports Analysis Centre of Canada",
+      "publishedAt": "2025-10-01T13:00:00.000Z",
+      "region": "Canada",
+      "summary": "The Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) updates its guidance on reporting listed person or entity property to FINTRAC. As of October 1, 2025, reporting requirements as it relates to dis",
+      "tags": [
+        "Canada",
+        "CRA",
+        "FCAC"
+      ]
+    },
+    {
       "title": "FINTRAC updates its guidance on beneficial ownership: discrepancy reporting",
       "link": "https://fintrac-canafe.canada.ca/guidance-directives/client-clientele/bor-eng#s4",
       "source": "Financial Transactions and Reports Analysis Centre of Canada",
@@ -65,19 +100,6 @@
       "publishedAt": "2025-10-01T13:00:00.000Z",
       "region": "Canada",
       "summary": "The Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) updates its guidance for money services businesses when engaging agents or mandataries. As of October 1, 2025, money services businesses and fore",
-      "tags": [
-        "Canada",
-        "CRA",
-        "FCAC"
-      ]
-    },
-    {
-      "title": "Reporting requirements for disclosures under the Special Economic Measures Act or the Justice for Victims of Corrupt Officials Act in effect October 1, 2025",
-      "link": "https://fintrac-canafe.canada.ca/guidance-directives/transaction-operation/Guide5/5-eng",
-      "source": "Financial Transactions and Reports Analysis Centre of Canada",
-      "publishedAt": "2025-10-01T13:00:00.000Z",
-      "region": "Canada",
-      "summary": "The Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) updates its guidance on reporting listed person or entity property to FINTRAC. As of October 1, 2025, reporting requirements as it relates to dis",
       "tags": [
         "Canada",
         "CRA",
@@ -516,15 +538,6 @@
       "tags": []
     },
     {
-      "title": "£292m Pride in Place investment for Scottish neighbourhoods",
-      "link": "https://www.gov.uk/government/news/292m-pride-in-place-investment-for-scottish-neighbourhoods",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-24T23:00:00.000Z",
-      "region": "UK",
-      "summary": "16 Scottish LAs backed by Scotland Office to revitalise communities as part of our Plan for Change, with spending decisions in the hands of local people",
-      "tags": []
-    },
-    {
       "title": "SEC Announces Departure of Chief Operating Officer Ken Johnson",
       "link": "https://www.sec.gov/newsroom/press-releases/2025-125-sec-announces-departure-chief-operating-officer-ken-johnson",
       "source": "Press Releases",
@@ -817,21 +830,12 @@
       ]
     },
     {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
-      "tags": []
-    },
-    {
-      "title": "Monetary Policy Committee dates for 2026",
-      "link": "https://www.bankofengland.co.uk/news/2025/september/monetary-policy-committee-dates-for-2026",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "2026 confirmed dates",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
@@ -844,12 +848,21 @@
       "tags": []
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "title": "Monetary Policy Committee dates for 2026",
+      "link": "https://www.bankofengland.co.uk/news/2025/september/monetary-policy-committee-dates-for-2026",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
+      "summary": "2026 confirmed dates",
+      "tags": []
+    },
+    {
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
