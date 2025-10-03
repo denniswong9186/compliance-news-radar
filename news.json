@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2025-10-03T08:13:41.411Z",
+  "generatedAt": "2025-10-03T09:11:15.867Z",
   "items": [
+    {
+      "title": "Update from the Chair of Court David Roberts: Sir Ron Kalifa",
+      "link": "https://www.bankofengland.co.uk/news/2025/october/update-from-the-chair-of-court",
+      "source": "News",
+      "publishedAt": "2025-10-03T09:00:00.000Z",
+      "region": "UK",
+      "summary": "Update on Sir Ron Kalifa",
+      "tags": []
+    },
+    {
+      "title": "Minutes of the Meeting of the Court of Directors held on 24 July 2025",
+      "link": "https://www.bankofengland.co.uk/minutes/2025/july/court-july-2025",
+      "source": "News",
+      "publishedAt": "2025-10-03T09:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank's Court of Directors acts as a unitary board, setting the organisation's strategy and budget and taking key decisions on resourcing and appointments. Required to meet a minimum seven times per year, it has five ",
+      "tags": []
+    },
+    {
+      "title": "Research: UK official holdings of international reserves: September 2025",
+      "link": "https://www.gov.uk/government/publications/uk-official-holdings-of-international-reserves-september-2025",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-03T08:30:02.000Z",
+      "region": "UK",
+      "summary": "This release details movements in the international reserves of gold and assets held by the UK government.",
+      "tags": []
+    },
+    {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251003-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-10-02T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
     {
       "title": "Martin Egan reappointed as Non-Executive Director",
       "link": "https://www.gov.uk/government/news/martin-egan-reappointed-as-non-executive-director",
@@ -529,15 +569,6 @@
       "tags": []
     },
     {
-      "title": "Policy paper: UK-Australia Financial Regulatory Forum September 2025: Joint Statement",
-      "link": "https://www.gov.uk/government/publications/uk-australia-financial-regulatory-forum-september-2025-joint-statement",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-25T07:30:01.000Z",
-      "region": "UK",
-      "summary": "HM Treasury and Australian Treasury Joint Statement on the Inaugural Dialogue.",
-      "tags": []
-    },
-    {
       "title": "SEC Announces Departure of Chief Operating Officer Ken Johnson",
       "link": "https://www.sec.gov/newsroom/press-releases/2025-125-sec-announces-departure-chief-operating-officer-ken-johnson",
       "source": "Press Releases",
@@ -830,21 +861,12 @@
       ]
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
-      "tags": []
-    },
-    {
-      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
@@ -857,12 +879,21 @@
       "tags": []
     },
     {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
+      "tags": []
+    },
+    {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
@@ -981,19 +1012,6 @@
     {
       "title": "New measures under SME Financing Guarantee Scheme",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250917-4/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-09-16T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "HKMA and MAS enhance cooperation on banking supervision",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250917-3/",
       "source": "HKMA: Press Releases",
       "publishedAt": "2025-09-16T16:00:00.000Z",
       "region": "Hong Kong",
