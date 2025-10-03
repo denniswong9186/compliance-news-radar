@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2025-10-03T14:10:33.295Z",
+  "generatedAt": "2025-10-03T15:10:33.380Z",
   "items": [
+    {
+      "title": "Guidance: Information sharing measures in the Economic Crime and Corporate Transparency Act",
+      "link": "https://www.gov.uk/government/publications/information-sharing-measures-in-the-economic-crime-and-corporate-transparency-act",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-03T14:06:23.000Z",
+      "region": "UK",
+      "summary": "Guidance on the information sharing measures in the Economic Crime and Corporate Transparency Act 2023.",
+      "tags": []
+    },
+    {
+      "title": "News release: Arrest Made in Human Trafficking Investigation",
+      "link": "https://www.haltonpolice.ca/en/news/arrest-made-in-human-trafficking-investigation.aspx",
+      "source": "Financial Transactions and Reports Analysis Centre of Canada",
+      "publishedAt": "2025-10-03T13:43:53.000Z",
+      "region": "Canada",
+      "summary": "FINTRAC’s financial intelligence was recognized by the Halton Regional Police Service in relation to a lengthy human trafficking investigation. It is alleged that over the preceding 18 months, an adult female victim was ",
+      "tags": []
+    },
     {
       "title": "Corporate report: Whole of Government Accounts 2024 to 2025: guidance for preparers",
       "link": "https://www.gov.uk/government/publications/whole-of-government-accounts-2024-to-2025-guidance-for-preparers",
@@ -65,6 +83,19 @@
       "tags": []
     },
     {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251003-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-10-02T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
       "title": "Martin Egan reappointed as Non-Executive Director",
       "link": "https://www.gov.uk/government/news/martin-egan-reappointed-as-non-executive-director",
       "source": "HM Treasury - Activity on GOV.UK",
@@ -103,6 +134,19 @@
       "region": "UK",
       "summary": "Experts in investment, risk management and local and central government have been appointed to the National Wealth Fund Board, as it moves into a new chapter.",
       "tags": []
+    },
+    {
+      "title": "HKMA and HKSTP launch IADS Developer Hackathon to foster bank–fintech collaboration",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251002-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-10-01T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
     },
     {
       "title": "The EBA publishes its 2026 Work Programme and takes action for a more efficient regulatory and supervisory framework in the EU",
@@ -254,6 +298,97 @@
       "tags": []
     },
     {
+      "title": "Results of 2025 BIS Triennial Survey of Foreign Exchange and OTC Derivatives Markets Turnover",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250930-9/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-29T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250930-8/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-29T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Exchange Fund Bills Tender Results",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250930-7/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-29T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Monetary Statistics for August 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250930-6/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-29T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Residential Mortgage Survey Results for August 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250930-5/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-29T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "International Reserves and Foreign Currency Liquidity",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250930-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-29T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Exchange Fund Abridged Balance Sheet and Currency Board Account",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250930-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-29T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
       "title": "The EBA launches its 2025 EU-wide transparency exercise",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-launches-its-2025-eu-wide-transparency-exercise",
       "source": "European Banking Authority",
@@ -263,6 +398,32 @@
       "tags": [
         "EU",
         "EBA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250929-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-28T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "HKMA Quarterly Bulletin and Half-Yearly Monetary and Financial Stability Report (September 2025 Issue)",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250929-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-28T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
         "Regulator"
       ]
     },
@@ -325,6 +486,58 @@
       "tags": []
     },
     {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250926-6/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-25T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Launch of cross-boundary bond repurchase business",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250926-5/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-25T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "The Hong Kong Mortgage Corporation Limited Interim Results Highlights for 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250926-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-25T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Treasury Markets Summit 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250926-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-25T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
       "title": "Transparency data: HM Treasury: ministerial overseas travel and meetings, April to June 2025",
       "link": "https://www.gov.uk/government/publications/hm-treasury-ministerial-overseas-travel-and-meetings-april-to-june-2025",
       "source": "HM Treasury - Activity on GOV.UK",
@@ -365,15 +578,6 @@
       "tags": []
     },
     {
-      "title": "Transparency data: HM Treasury: spending over £500, April 25",
-      "link": "https://www.gov.uk/government/publications/hm-treasury-spending-over-500-april-25",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-25T11:00:00.000Z",
-      "region": "UK",
-      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
-      "tags": []
-    },
-    {
       "title": "SEC Announces Departure of Chief Operating Officer Ken Johnson",
       "link": "https://www.sec.gov/newsroom/press-releases/2025-125-sec-announces-departure-chief-operating-officer-ken-johnson",
       "source": "Press Releases",
@@ -383,6 +587,19 @@
       "tags": [
         "US",
         "SEC",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "SFC and HKMA unveil roadmap to advance Hong Kong’s vision to be global fixed income and currency hub",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250925-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-24T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
         "Regulator"
       ]
     },
@@ -422,6 +639,19 @@
       "tags": [
         "EU",
         "EBA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Interest rate for fourth interest payment of series of retail green bonds due 2026",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250924-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-23T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
         "Regulator"
       ]
     },
@@ -474,6 +704,32 @@
       ]
     },
     {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250923-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-22T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Exchange Fund Bills Tender Results",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250923-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-22T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
       "title": "PRA proposes reduced reporting requirements for banks",
       "link": "https://www.bankofengland.co.uk/news/2025/september/pra-proposes-reduced-reporting-requirements-for-banks",
       "source": "News",
@@ -490,6 +746,45 @@
       "region": "UK",
       "summary": "This article details a consultation to discontinue the collection and publication of statistical data via Form BN on the further sectoral breakdown of non-resident monetary financial institutions. It also outlines existi",
       "tags": []
+    },
+    {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250922-5/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-21T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Report on “Long-term Investing in Hong Kong: Developments and Opportunities in a Digital Economy”",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250922-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-21T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Result of the tender of the People's Bank of China RMB Bills held on 22 September 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250922-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-21T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
     },
     {
       "title": "News release: RCMP executes record seizure of more than 56 million dollars in cryptocurrency",
@@ -523,6 +818,45 @@
       "tags": []
     },
     {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250919-5/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-18T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Statistics of Payment Cards Issued in Hong Kong for Second Quarter 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250919-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-18T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Statistics of Stored Value Facilities (SVF) Schemes Issued by SVF Licensees",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250919-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-18T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
       "title": "News release: FINTRAC imposes an administrative monetary penalty on Primary Capital Inc.",
       "link": "https://fintrac-canafe.canada.ca/new-neuf/nr/2025-09-18-eng",
       "source": "Financial Transactions and Reports Analysis Centre of Canada",
@@ -534,6 +868,15 @@
         "CRA",
         "FCAC"
       ]
+    },
+    {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
+      "tags": []
     },
     {
       "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
@@ -551,15 +894,6 @@
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "2026 confirmed dates",
-      "tags": []
-    },
-    {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
@@ -598,6 +932,45 @@
       ]
     },
     {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250918-5/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-17T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "The People's Bank of China will issue Renminbi Bills through Central Moneymarkets Unit of Hong Kong Monetary Authority",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250918-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-17T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Adjustment of Base Rate",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250918-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-17T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
       "title": "SEC and CFTC Extend Form PF Compliance Date to Oct. 1, 2026",
       "link": "https://www.sec.gov/newsroom/press-releases/2025-119-sec-cftc-extend-form-pf-compliance-date-oct-1-2026",
       "source": "Press Releases",
@@ -629,6 +1002,32 @@
       "tags": [
         "US",
         "SEC",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250917-5/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-16T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "New measures under SME Financing Guarantee Scheme",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250917-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-09-16T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
         "Regulator"
       ]
     },
