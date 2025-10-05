@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-05T12:16:50.804Z",
+  "generatedAt": "2025-10-05T13:16:03.046Z",
   "items": [
     {
       "title": "Green notice 2025/01",
@@ -879,12 +879,12 @@
       ]
     },
     {
-      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
@@ -897,21 +897,21 @@
       "tags": []
     },
     {
+      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
+      "tags": []
+    },
+    {
       "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
       "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "Exchange of letters between the Governor and the Chancellor",
-      "tags": []
-    },
-    {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
@@ -1466,41 +1466,6 @@
         "SEC",
         "Regulator"
       ]
-    },
-    {
-      "title": "FINTRAC publishes its supervisory framework",
-      "link": "https://fintrac-canafe.canada.ca/introduction/cpf/cpf-eng",
-      "source": "Financial Transactions and Reports Analysis Centre of Canada",
-      "publishedAt": "2025-08-06T13:00:00.000Z",
-      "region": "Canada",
-      "summary": "Learn about FINTRAC's framework that guides the Centre's supervisory activities that ensure compliance with the Proceeds of Crime (Money Laundering) and Terrorist Financing Act.",
-      "tags": [
-        "Canada",
-        "CRA",
-        "FCAC"
-      ]
-    },
-    {
-      "title": "FINTRAC updates its administrative monetary penalties policy",
-      "link": "https://fintrac-canafe.canada.ca/pen/2-eng",
-      "source": "Financial Transactions and Reports Analysis Centre of Canada",
-      "publishedAt": "2025-08-06T13:00:00.000Z",
-      "region": "Canada",
-      "summary": "The administrative monetary penalties program supports FINTRAC's mandate by providing a measured and proportionate response to particular instances of non-compliance.",
-      "tags": [
-        "Canada",
-        "CRA",
-        "FCAC"
-      ]
-    },
-    {
-      "title": "Minutes of the Meeting of the Court of Directors held on 6 June 2025",
-      "link": "https://www.bankofengland.co.uk/minutes/2025/june/court-june-2025",
-      "source": "News",
-      "publishedAt": "2025-08-06T13:00:00.000Z",
-      "region": "UK",
-      "summary": "The Bank's Court of Directors acts as a unitary board, setting the organisation's strategy and budget and taking key decisions on resourcing and appointments. Required to meet a minimum seven times per year, it has five ",
-      "tags": []
     }
   ]
 }
