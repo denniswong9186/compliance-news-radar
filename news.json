@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2025-10-06T08:14:51.202Z",
+  "generatedAt": "2025-10-06T09:13:50.736Z",
   "items": [
+    {
+      "title": "EU Supervisory Authorities warn consumers of risks and limited protection for certain crypto-assets and providers",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eu-supervisory-authorities-warn-consumers-risks-and-limited-protection-certain-crypto-assets-and",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-10-06T08:59:00.000Z",
+      "region": "EU",
+      "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today issued a warning to consumers that crypto-assets can be risky and that legal protection, if any, may be limited depending on which crypto-assets",
+      "tags": [
+        "EU",
+        "EBA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251006-5/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-10-05T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
     {
       "title": "Exchange Fund Bills Tender Results",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251006-4/",
@@ -905,12 +931,12 @@
       ]
     },
     {
-      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
@@ -923,21 +949,21 @@
       "tags": []
     },
     {
+      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
+      "tags": []
+    },
+    {
       "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
       "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "Exchange of letters between the Governor and the Chancellor",
-      "tags": []
-    },
-    {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
@@ -982,19 +1008,6 @@
     {
       "title": "The People's Bank of China will issue Renminbi Bills through Central Moneymarkets Unit of Hong Kong Monetary Authority",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250918-4/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-09-17T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "Adjustment of Base Rate",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250918-3/",
       "source": "HKMA: Press Releases",
       "publishedAt": "2025-09-17T16:00:00.000Z",
       "region": "Hong Kong",
@@ -1289,19 +1302,6 @@
       "tags": [
         "US",
         "SEC",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "The EBA welcomes feedback on its draft technical package and new enhanced DPM 2.0 glossary",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-welcomes-feedback-its-draft-technical-package-and-new-enhanced-dpm-20-glossary",
-      "source": "European Banking Authority",
-      "publishedAt": "2025-09-05T08:17:12.000Z",
-      "region": "EU",
-      "summary": "The European Banking Authority (EBA) today published a draft technical package for version 4.2 of its reporting framework, marking a key milestone in the transition to the DPM 2.0 standard and the introduction of a fully",
-      "tags": [
-        "EU",
-        "EBA",
         "Regulator"
       ]
     },
