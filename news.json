@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2025-10-06T07:11:54.768Z",
+  "generatedAt": "2025-10-06T08:14:51.202Z",
   "items": [
+    {
+      "title": "Exchange Fund Bills Tender Results",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251006-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-10-05T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
     {
       "title": "Coin Collection Programme",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251006-3/",
@@ -892,15 +905,6 @@
       ]
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
-      "tags": []
-    },
-    {
       "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
       "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
       "source": "News",
@@ -916,6 +920,15 @@
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "2026 confirmed dates",
+      "tags": []
+    },
+    {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
@@ -1024,19 +1037,6 @@
       "tags": [
         "US",
         "SEC",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "Scam alert related to banks",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250917-5/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-09-16T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
         "Regulator"
       ]
     },
