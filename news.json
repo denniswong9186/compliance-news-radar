@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2025-10-07T08:15:11.116Z",
+  "generatedAt": "2025-10-07T09:11:57.749Z",
   "items": [
+    {
+      "title": "The EBA launches selection procedure to appoint new Chairperson",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-launches-selection-procedure-appoint-new-chairperson-0",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-10-07T07:51:21.000Z",
+      "region": "EU",
+      "summary": "The Board of Supervisors of the European Banking Authority (EBA) has launched today an open selection procedure for the appointment of a new Chairperson.",
+      "tags": [
+        "EU",
+        "EBA",
+        "Regulator"
+      ]
+    },
     {
       "title": "Foreign Currency Reserves 2025 – Market Notice 6 October 2025",
       "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/october/foreign-currency-reserves-6-october-2025",
@@ -940,21 +953,12 @@
       ]
     },
     {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
-      "tags": []
-    },
-    {
-      "title": "Monetary Policy Committee dates for 2026",
-      "link": "https://www.bankofengland.co.uk/news/2025/september/monetary-policy-committee-dates-for-2026",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "2026 confirmed dates",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
@@ -967,12 +971,21 @@
       "tags": []
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "title": "Monetary Policy Committee dates for 2026",
+      "link": "https://www.bankofengland.co.uk/news/2025/september/monetary-policy-committee-dates-for-2026",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
+      "summary": "2026 confirmed dates",
+      "tags": []
+    },
+    {
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
@@ -1251,19 +1264,6 @@
         "Canada",
         "CRA",
         "FCAC"
-      ]
-    },
-    {
-      "title": "The ESAs note greater effort from financial market participants in their disclosure of principal adverse impacts",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/esas-note-greater-effort-financial-market-participants-their-disclosure-principal-adverse-impacts",
-      "source": "European Banking Authority",
-      "publishedAt": "2025-09-09T13:00:00.000Z",
-      "region": "EU",
-      "summary": "The Joint Committee of the three European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published their fourth annual Report on the extent of voluntary disclosure of principal adverse impacts (PAIs) unde",
-      "tags": [
-        "EU",
-        "EBA",
-        "Regulator"
       ]
     },
     {
