@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2025-10-08T12:20:34.779Z",
+  "generatedAt": "2025-10-08T13:23:45.305Z",
   "items": [
+    {
+      "title": "Guidance: Who is subject to financial sanctions in the UK?",
+      "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-08T13:01:45.000Z",
+      "region": "UK",
+      "summary": "A guide to the current consolidated list of asset freeze targets, and a list of persons named in relation to financial and investment restrictions under the Russia regulations",
+      "tags": []
+    },
+    {
+      "title": "Guidance: ISIL (Da'esh) and Al-Qaida financial sanctions: list of asset-freeze targets",
+      "link": "https://www.gov.uk/government/publications/current-list-of-designated-persons-al-qaida",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-08T13:01:33.000Z",
+      "region": "UK",
+      "summary": "Certain persons and entities associated with the ISIL (Da'esh) and Al-Qaida organisations are subject to UK financial sanctions.",
+      "tags": []
+    },
+    {
+      "title": "Guidance: Iran (nuclear) financial sanctions: list of asset-freeze targets",
+      "link": "https://www.gov.uk/government/publications/financial-sanctions-iran-nuclear-proliferation",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-08T13:01:20.000Z",
+      "region": "UK",
+      "summary": "This page contains the list of asset freeze targets, listed because of proliferation-related activity in Iran. It also contains information on regulations.",
+      "tags": []
+    },
+    {
+      "title": "Minutes of the London FXJSC Main Committee Meeting - 26 June 2025",
+      "link": "https://www.bankofengland.co.uk/minutes/2025/june/fxjsc-main-committee-meeting-26-june-2025",
+      "source": "News",
+      "publishedAt": "2025-10-08T11:58:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC), which is a forum for discussion of the wholesale foreign exchange market. The FXJSC is made up of market participants, infrastructu",
+      "tags": []
+    },
+    {
+      "title": "Minutes of the London FXJSC Legal Sub-Committee Meeting - 24 June 2025",
+      "link": "https://www.bankofengland.co.uk/minutes/2025/june/fxjsc-legal-sub-committee-meeting-24-june-2025",
+      "source": "News",
+      "publishedAt": "2025-10-08T11:53:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC) Legal Sub-Committee. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators.",
+      "tags": []
+    },
+    {
+      "title": "Minutes of the London FXJSC Operations Sub-Committee Meeting - 18 June 2025",
+      "link": "https://www.bankofengland.co.uk/minutes/2025/june/fxjsc-operations-sub-committee-meeting-18-june-2025",
+      "source": "News",
+      "publishedAt": "2025-10-08T11:49:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC) Operations Sub-Committee. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators.",
+      "tags": []
+    },
     {
       "title": "Financial Policy Committee Record – October 2025",
       "link": "https://www.bankofengland.co.uk/financial-policy-committee-record/2025/october-2025",
@@ -202,24 +256,6 @@
       "publishedAt": "2025-10-03T10:05:21.000Z",
       "region": "UK",
       "summary": "This page contains a list of persons and entities to whom financial sanctions have been applied due to their assessed involvement in terrorist activity.",
-      "tags": []
-    },
-    {
-      "title": "Guidance: Iran (nuclear) financial sanctions: list of asset-freeze targets",
-      "link": "https://www.gov.uk/government/publications/financial-sanctions-iran-nuclear-proliferation",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-03T10:05:13.000Z",
-      "region": "UK",
-      "summary": "This page contains the list of asset freeze targets, listed because of proliferation-related activity in Iran. It also contains information on regulations.",
-      "tags": []
-    },
-    {
-      "title": "Guidance: Who is subject to financial sanctions in the UK?",
-      "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-03T10:05:03.000Z",
-      "region": "UK",
-      "summary": "A guide to the current consolidated list of asset freeze targets, and a list of persons named in relation to financial and investment restrictions under the Russia regulations",
       "tags": []
     },
     {
@@ -705,15 +741,6 @@
       ]
     },
     {
-      "title": "Transparency data: HM Treasury: ministerial overseas travel and meetings, April to June 2025",
-      "link": "https://www.gov.uk/government/publications/hm-treasury-ministerial-overseas-travel-and-meetings-april-to-june-2025",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-25T15:00:10.000Z",
-      "region": "UK",
-      "summary": "Data on ministers’ overseas travel and meetings with external individuals and organisations",
-      "tags": []
-    },
-    {
       "title": "News release: FINTRAC imposes an administrative monetary penalty on Peken Global Limited (KuCoin)",
       "link": "https://fintrac-canafe.canada.ca/new-neuf/nr/2025-09-25-eng",
       "source": "Financial Transactions and Reports Analysis Centre of Canada",
@@ -1006,15 +1033,6 @@
       ]
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
-      "tags": []
-    },
-    {
       "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
       "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
       "source": "News",
@@ -1030,6 +1048,15 @@
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "2026 confirmed dates",
+      "tags": []
+    },
+    {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
