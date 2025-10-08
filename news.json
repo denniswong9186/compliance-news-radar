@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2025-10-08T14:11:26.186Z",
+  "generatedAt": "2025-10-08T15:11:18.915Z",
   "items": [
+    {
+      "title": "Anti-money laundering and countering the financing of terrorism supervision of banks is improving, the EBA finds",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/anti-money-laundering-and-countering-financing-terrorism-supervision-banks-improving-eba-finds",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-10-08T14:38:11.000Z",
+      "region": "EU",
+      "summary": "Today, the European Banking Authority (EBA) published a Report that takes stock of the actions taken by all competent authorities to address the EBA’s findings and recommendations. This follows in - depth reviews carried",
+      "tags": [
+        "EU",
+        "EBA",
+        "Regulator"
+      ]
+    },
     {
       "title": "Guidance: Who is subject to financial sanctions in the UK?",
       "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
@@ -1033,21 +1046,12 @@
       ]
     },
     {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
-      "tags": []
-    },
-    {
-      "title": "Monetary Policy Committee dates for 2026",
-      "link": "https://www.bankofengland.co.uk/news/2025/september/monetary-policy-committee-dates-for-2026",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "2026 confirmed dates",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
@@ -1060,12 +1064,21 @@
       "tags": []
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "title": "Monetary Policy Committee dates for 2026",
+      "link": "https://www.bankofengland.co.uk/news/2025/september/monetary-policy-committee-dates-for-2026",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
+      "summary": "2026 confirmed dates",
+      "tags": []
+    },
+    {
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
@@ -1205,19 +1218,6 @@
         "Canada",
         "CRA",
         "FCAC"
-      ]
-    },
-    {
-      "title": "The EBA publishes draft amendments to the framework for reporting of MREL decisions by resolution authorities to the EBA",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-draft-amendments-framework-reporting-mrel-decisions-resolution-authorities-eba",
-      "source": "European Banking Authority",
-      "publishedAt": "2025-09-12T12:26:02.000Z",
-      "region": "EU",
-      "summary": "The European Banking Authority (EBA) published today its final draft Implementing Technical Standards (ITS) amending the framework for reporting of decisions on the Minimum Requirement for Own Funds and Eligible Liabilit",
-      "tags": [
-        "EU",
-        "EBA",
-        "Regulator"
       ]
     },
     {
