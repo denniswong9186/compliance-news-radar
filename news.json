@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2025-10-08T05:11:28.284Z",
+  "generatedAt": "2025-10-08T06:16:01.842Z",
   "items": [
+    {
+      "title": "Accredited official statistics: Public sector finances bulletin",
+      "link": "https://www.gov.uk/government/statistics/public-sector-finances-bulletin",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-08T06:00:05.000Z",
+      "region": "UK",
+      "summary": "The public sector finances statistical bulletin.",
+      "tags": []
+    },
     {
       "title": "Foreign Currency Reserves 2025 – Market Notice 7 October 2025",
       "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/october/foreign-currency-reserves-7-october-2025",
@@ -654,15 +663,6 @@
       "publishedAt": "2025-09-25T15:00:10.000Z",
       "region": "UK",
       "summary": "Data on ministers’ overseas travel and meetings with external individuals and organisations",
-      "tags": []
-    },
-    {
-      "title": "Transparency data: HM Treasury business appointment rules advice April to June 2025",
-      "link": "https://www.gov.uk/government/publications/hm-treasury-business-appointment-rules-advice-april-to-june-2025",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-25T15:00:10.000Z",
-      "region": "UK",
-      "summary": "Summaries of advice given under the business appointment rules to applicants at SCS2 and SCS1 level and equivalents.",
       "tags": []
     },
     {
