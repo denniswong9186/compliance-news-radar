@@ -1,6 +1,59 @@
 {
-  "generatedAt": "2025-10-09T08:14:24.603Z",
+  "generatedAt": "2025-10-09T09:12:00.533Z",
   "items": [
+    {
+      "title": "Policy paper: HM Treasury and Prudential Regulation Authority Performance Review",
+      "link": "https://www.gov.uk/government/publications/hm-treasury-and-prudential-regulation-authority-performance-review",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-09T08:30:02.000Z",
+      "region": "UK",
+      "summary": "Record of the meeting between the Economic Secretary to the Treasury and the Chief Executive of the Prudential Regulation Authority (PRA) to discuss the PRA’s performance.",
+      "tags": []
+    },
+    {
+      "title": "Policy paper: HM Treasury and Financial Conduct Authority Performance Review",
+      "link": "https://www.gov.uk/government/publications/hm-treasury-and-financial-conduct-authority-performance-review",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-09T08:30:01.000Z",
+      "region": "UK",
+      "summary": "Record of the meeting between the Economic Secretary to the Treasury and the Chief Executive of the Financial Conduct Authority (FCA) to discuss the FCA’s performance.",
+      "tags": []
+    },
+    {
+      "title": "Policy paper: Block Grant Transparency: October 2025",
+      "link": "https://www.gov.uk/government/publications/block-grant-transparency-october-2025",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-09T08:30:00.000Z",
+      "region": "UK",
+      "summary": "This is the seventh edition of a breakdown of changes in the devolved governments’ block grant funding from the 2015 Spending Review up to and including Spending Review 2025.",
+      "tags": []
+    },
+    {
+      "title": "DFSA and HKMA to co-host second Climate Finance Conference to strengthen sustainable finance through innovation, resilience and cross-border collaboration",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251009-5/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-10-08T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Interest rate of second interest payment for Silver Bond Series due 2027",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251009-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-10-08T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
     {
       "title": "Ministry of Finance issues Renminbi Sovereign Bonds through Central Moneymarkets Unit of Hong Kong Monetary Authority",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251009-3/",
@@ -692,39 +745,12 @@
       ]
     },
     {
-      "title": "Guidance: OFSI General Licence INT/2022/2104808",
-      "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20222104808",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-26T13:59:19.000Z",
-      "region": "UK",
-      "summary": "OFSI General Licence INT/2022/2104808",
-      "tags": []
-    },
-    {
-      "title": "Guidance: OFSI General Licence INT/2022/2300292",
-      "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20222300292",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-26T13:59:05.000Z",
-      "region": "UK",
-      "summary": "Details of OFSI General Licence INT/2022/2300292",
-      "tags": []
-    },
-    {
       "title": "News release: Ontario RCMP shuts down one of Canada's largest known \"dark web\" drug networks",
       "link": "https://rcmp.ca/en/news/2025/09/ontario-rcmp-shuts-down-one-canadas-largest-known-dark-web-drug-networks",
       "source": "Financial Transactions and Reports Analysis Centre of Canada",
       "publishedAt": "2025-09-26T11:35:35.000Z",
       "region": "Canada",
       "summary": "FINTRAC’s financial intelligence was recognized by the Royal Canadian Mounted Police (RCMP) in Ontario in relation to the largest dark web drug trafficking investigation to date. Seven individuals have been arrested and ",
-      "tags": []
-    },
-    {
-      "title": "Commercial Credit Data Sharing: Consultation and Call for Evidence",
-      "link": "https://www.gov.uk/government/consultations/commercial-credit-data-sharing-consultation-and-call-for-evidence",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-25T16:34:58.000Z",
-      "region": "UK",
-      "summary": "This consultation and call for evidence sets out proposals and issues for examination relating to the Commercial Credit Data Sharing scheme.",
       "tags": []
     },
     {
@@ -989,19 +1015,6 @@
       ]
     },
     {
-      "title": "Result of the tender of the People's Bank of China RMB Bills held on 22 September 2025",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250922-3/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-09-21T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
       "title": "News release: RCMP executes record seizure of more than 56 million dollars in cryptocurrency",
       "link": "https://rcmp.ca/en/news/2025/09/rcmp-executes-record-seizure-more-56-million-dollars-cryptocurrency",
       "source": "Financial Transactions and Reports Analysis Centre of Canada",
@@ -1033,19 +1046,6 @@
       "tags": []
     },
     {
-      "title": "Scam alert related to banks",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250919-5/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-09-18T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
       "title": "News release: FINTRAC imposes an administrative monetary penalty on Primary Capital Inc.",
       "link": "https://fintrac-canafe.canada.ca/new-neuf/nr/2025-09-18-eng",
       "source": "Financial Transactions and Reports Analysis Centre of Canada",
@@ -1057,6 +1057,15 @@
         "CRA",
         "FCAC"
       ]
+    },
+    {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
+      "tags": []
     },
     {
       "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
@@ -1074,15 +1083,6 @@
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "2026 confirmed dates",
-      "tags": []
-    },
-    {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
