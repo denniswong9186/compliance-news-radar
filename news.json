@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2025-10-09T12:19:33.594Z",
+  "generatedAt": "2025-10-09T13:24:14.497Z",
   "items": [
+    {
+      "title": "Policy paper: Dematerialisation Market Action Taskforce",
+      "link": "https://www.gov.uk/government/publications/dematerialisation-market-action-taskforce",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-09T13:00:02.000Z",
+      "region": "UK",
+      "summary": "The Dematerialisation Market Action Taskforce (DEMAT), chaired by Mark Austin CBE, has been set up to take forward reforms to the UK’s shareholding framework",
+      "tags": []
+    },
+    {
+      "title": "News release: FINTRAC imposes an administrative monetary penalty on DMCL Chartered Professional Accountants",
+      "link": "https://fintrac-canafe.canada.ca/new-neuf/nr/2025-10-09-eng",
+      "source": "Financial Transactions and Reports Analysis Centre of Canada",
+      "publishedAt": "2025-10-09T13:00:00.000Z",
+      "region": "Canada",
+      "summary": "DMCL Chartered Professional Accountants, an accounting firm with locations in British Columbia, was imposed an administrative monetary penalty of $72,750 for committing 3 violations.",
+      "tags": [
+        "Canada",
+        "CRA",
+        "FCAC"
+      ]
+    },
     {
       "title": "Supervisors should learn from recent cases to prevent financial crime in crypto firms, the EBA says",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/supervisors-should-learn-recent-cases-prevent-financial-crime-crypto-firms-eba-says",
@@ -734,15 +756,6 @@
         "HKMA",
         "Regulator"
       ]
-    },
-    {
-      "title": "Government backs Jaguar Land Rover with £1.5 billion loan guarantee",
-      "link": "https://www.gov.uk/government/news/government-backs-jaguar-land-rover-with-15-billion-loan-guarantee",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-09-27T23:01:02.000Z",
-      "region": "UK",
-      "summary": "The Government announces support package for JLR following the recent cyber-attack.",
-      "tags": []
     },
     {
       "title": "SEC Seeks Public Comment to Improve Rules on Residential Mortgage-Backed Securities and Asset-Backed Securities",
