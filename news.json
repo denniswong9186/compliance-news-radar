@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2025-10-10T08:15:16.888Z",
+  "generatedAt": "2025-10-10T09:12:29.728Z",
   "items": [
+    {
+      "title": "Minutes of the Securities Lending Committee meeting – September 2025",
+      "link": "https://www.bankofengland.co.uk/minutes/2025/september/minutes-of-the-securities-lending-committee-meeting-september-2025",
+      "source": "News",
+      "publishedAt": "2025-10-10T08:44:00.000Z",
+      "region": "UK",
+      "summary": "The Securities Lending Committee is a forum for market participants and authorities to discuss the UK securities lending market.",
+      "tags": []
+    },
+    {
+      "title": "The EBA Commission’s proposed changes to the technical standards on liquidity requirements of the reserve of assets under MiCA",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-commissions-proposed-changes-technical-standards-liquidity-requirements-reserve-assets-under",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-10-10T08:15:00.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) today published two Opinions in response to the European Commission’s (EC) amendments relating to the draft Regulatory Technical Standards (RTS) specifying the composition and liquidi",
+      "tags": [
+        "EU",
+        "EBA",
+        "Regulator"
+      ]
+    },
     {
       "title": "Correspondence: Switzerland-UK Financial Dialogue 2025 Joint Statement",
       "link": "https://www.gov.uk/government/publications/switzerland-uk-financial-dialogue-2025-joint-statement",
@@ -1218,19 +1240,6 @@
         "Canada",
         "CRA",
         "FCAC"
-      ]
-    },
-    {
-      "title": "José Manuel Campa resigns as Chairperson of the EBA",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/jose-manuel-campa-resigns-chairperson-eba",
-      "source": "European Banking Authority",
-      "publishedAt": "2025-09-15T14:39:12.000Z",
-      "region": "EU",
-      "summary": "José Manuel Campa, current Chairperson of the European Banking Authority (EBA), announced last week to the EBA Board of Supervisors his decision to step down from his role and leave the Authority at the end of January 20",
-      "tags": [
-        "EU",
-        "EBA",
-        "Regulator"
       ]
     },
     {
