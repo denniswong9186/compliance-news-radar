@@ -1,6 +1,37 @@
 {
-  "generatedAt": "2025-10-13T14:11:18.914Z",
+  "generatedAt": "2025-10-13T15:10:54.878Z",
   "items": [
+    {
+      "title": "The EBA updates list of third-country groups and branches operating in the European Union and the European Economic Area",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-updates-list-third-country-groups-and-branches-operating-european-union-and-european-economic-0",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-10-13T14:58:35.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) today released an updated list of third-country groups and third-country branches operating across the European Union and the European Economic Area (EU/EEA). This annual publication ",
+      "tags": [
+        "EU",
+        "EBA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Starter guide to UK sanctions",
+      "link": "https://www.gov.uk/guidance/starter-guide-to-uk-sanctions",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-13T14:28:25.000Z",
+      "region": "UK",
+      "summary": "A guide for businesses and organisations that need to understand more about what sanctions are and how they work.",
+      "tags": []
+    },
+    {
+      "title": "Guidance: Who is subject to financial sanctions in the UK?",
+      "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-13T14:19:01.000Z",
+      "region": "UK",
+      "summary": "======================================================================== On 28 January 2026, the OFSI Consolidated List is closing and the UK Sanctions List will be the only source for all UK sanctions designations. See ",
+      "tags": []
+    },
     {
       "title": "Moving to a single list for UK sanctions designations, 28 January 2026",
       "link": "https://www.gov.uk/guidance/moving-to-a-single-list-for-uk-sanctions-designations-28-january-2026",
@@ -202,15 +233,6 @@
         "EBA",
         "Regulator"
       ]
-    },
-    {
-      "title": "Guidance: Who is subject to financial sanctions in the UK?",
-      "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-08T13:01:45.000Z",
-      "region": "UK",
-      "summary": "A guide to the current consolidated list of asset freeze targets, and a list of persons named in relation to financial and investment restrictions under the Russia regulations",
-      "tags": []
     },
     {
       "title": "Guidance: ISIL (Da'esh) and Al-Qaida financial sanctions: list of asset-freeze targets",
@@ -625,15 +647,6 @@
       "publishedAt": "2025-10-01T11:07:09.000Z",
       "region": "UK",
       "summary": "HM Treasury's statistics are governed by the standards set out by the UK Statistics Authority in their Code of Practice for official statistics.",
-      "tags": []
-    },
-    {
-      "title": "Accredited official statistics: GDP deflators at market prices, and money GDP September 2025 (Quarterly National Accounts)",
-      "link": "https://www.gov.uk/government/statistics/gdp-deflators-at-market-prices-and-money-gdp-september-2025-quarterly-national-accounts",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-01T09:30:18.000Z",
-      "region": "UK",
-      "summary": "This document contains the latest gross domestic product (GDP) deflators. The GDP deflator can be viewed as a measure of general inflation in the domestic economy.",
       "tags": []
     },
     {
@@ -1081,19 +1094,6 @@
       "tags": []
     },
     {
-      "title": "European supervisors tell financial institutions to stay alert to stability risks in uncertain and volatile times",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/european-supervisors-tell-financial-institutions-stay-alert-stability-risks-uncertain-and-volatile",
-      "source": "European Banking Authority",
-      "publishedAt": "2025-09-19T09:00:00.000Z",
-      "region": "EU",
-      "summary": "The three European Supervisory Authorities (EBA, EIOPA and ESMA - ESAs) today issued their Autumn 2025 Joint Committee Report on risks and vulnerabilities in the EU financial system. The Report highlights how tensions in",
-      "tags": [
-        "EU",
-        "EBA",
-        "Regulator"
-      ]
-    },
-    {
       "title": "News release: Update: Project Cerberus dismantles transnational organized crime group",
       "link": "https://alert-ab.ca/update-project-cerberus-dismantles-transnational-organized-crime-group/",
       "source": "Financial Transactions and Reports Analysis Centre of Canada",
@@ -1116,12 +1116,12 @@
       ]
     },
     {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
       "tags": []
     },
     {
@@ -1134,21 +1134,21 @@
       "tags": []
     },
     {
-      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
-      "tags": []
-    },
-    {
       "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
       "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "Exchange of letters between the Governor and the Chancellor",
+      "tags": []
+    },
+    {
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
