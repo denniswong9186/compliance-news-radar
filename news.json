@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2025-10-13T22:09:54.305Z",
+  "generatedAt": "2025-10-13T23:09:44.708Z",
   "items": [
+    {
+      "title": "Correspondence: Ministerial letter on cyber security to leading UK companies",
+      "link": "https://www.gov.uk/government/publications/ministerial-letter-on-cyber-security-to-leading-uk-companies",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-13T23:01:00.000Z",
+      "region": "UK",
+      "summary": "Ministers and security chiefs have written to leading UK companies about cyber security.",
+      "tags": []
+    },
     {
       "title": "The EBA updates list of third-country groups and branches operating in the European Union and the European Economic Area",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-updates-list-third-country-groups-and-branches-operating-european-union-and-european-economic-0",
@@ -641,15 +650,6 @@
       ]
     },
     {
-      "title": "Official Statistics: Standards and policies for HM Treasury statistics",
-      "link": "https://www.gov.uk/government/statistics/standards-and-policies-for-hm-treasury-statistics",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-01T11:07:09.000Z",
-      "region": "UK",
-      "summary": "HM Treasury's statistics are governed by the standards set out by the UK Statistics Authority in their Code of Practice for official statistics.",
-      "tags": []
-    },
-    {
       "title": "SEC Announces Departure of Director of Office of the Advocate for Small Business Capital Formation Stacey Bowers",
       "link": "https://www.sec.gov/newsroom/press-releases/2025-129-sec-announces-departure-director-office-advocate-small-business-capital-formation-stacey-bowers",
       "source": "Press Releases",
@@ -1116,15 +1116,6 @@
       ]
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
-      "tags": []
-    },
-    {
       "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
       "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
       "source": "News",
@@ -1140,6 +1131,15 @@
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "2026 confirmed dates",
+      "tags": []
+    },
+    {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
