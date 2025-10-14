@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-14T08:13:38.570Z",
+  "generatedAt": "2025-10-14T09:12:24.726Z",
   "items": [
     {
       "title": "Correspondence: Ministerial letter on cyber security to leading UK companies",
@@ -9,6 +9,19 @@
       "region": "UK",
       "summary": "Ministers and security chiefs have written to leading UK companies about cyber security.",
       "tags": []
+    },
+    {
+      "title": "Analytical Accounts of the Exchange Fund",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251014-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-10-13T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
     },
     {
       "title": "Exchange Fund Bills Tender Results",
@@ -1006,19 +1019,6 @@
       ]
     },
     {
-      "title": "Interest rate for fourth interest payment of series of retail green bonds due 2026",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250924-3/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-09-23T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
       "title": "The EBA advises the EU Commission on the review of the EU covered bond framework",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-advises-eu-commission-review-eu-covered-bond-framework",
       "source": "European Banking Authority",
@@ -1116,6 +1116,15 @@
       ]
     },
     {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
+      "tags": []
+    },
+    {
       "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
       "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
       "source": "News",
@@ -1131,15 +1140,6 @@
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "2026 confirmed dates",
-      "tags": []
-    },
-    {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
