@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2025-10-14T11:09:18.419Z",
+  "generatedAt": "2025-10-14T12:20:44.782Z",
   "items": [
+    {
+      "title": "The EBA finds that white labelling is widely used in banking and payments",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-finds-white-labelling-widely-used-banking-and-payments",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-10-14T11:31:24.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) today published a Report on white labelling, i.e. a business model in which a financial institution works with another company (partner)—sometimes not even a financial firm—to offer p",
+      "tags": [
+        "EU",
+        "EBA",
+        "Regulator"
+      ]
+    },
     {
       "title": "Transparency data: Fifth Trade Specialised Committee on Customs Cooperation and Rules of Origin Agenda",
       "link": "https://www.gov.uk/government/publications/fifth-trade-specialised-committee-on-customs-cooperation-and-rules-of-origin-agenda",
@@ -130,8 +143,8 @@
       "tags": []
     },
     {
-      "title": "The EBA Commission’s proposed changes to the technical standards on liquidity requirements of the reserve of assets under MiCA",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-commissions-proposed-changes-technical-standards-liquidity-requirements-reserve-assets-under",
+      "title": "The EBA responds to Commission’s proposed changes to the technical standards on liquidity requirements of the reserve of assets under MiCA",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-responds-commissions-proposed-changes-technical-standards-liquidity-requirements-reserve-assets",
       "source": "European Banking Authority",
       "publishedAt": "2025-10-10T08:15:00.000Z",
       "region": "EU",
@@ -1019,19 +1032,6 @@
       ]
     },
     {
-      "title": "The EBA advises the EU Commission on the review of the EU covered bond framework",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-advises-eu-commission-review-eu-covered-bond-framework",
-      "source": "European Banking Authority",
-      "publishedAt": "2025-09-23T14:59:00.000Z",
-      "region": "EU",
-      "summary": "The European Banking Authority (EBA) today published its advice in response to the European Commission’s Call for Advice (CfA) on the review and performance of the EU covered bond framework. The EBA welcomes this initiat",
-      "tags": [
-        "EU",
-        "EBA",
-        "Regulator"
-      ]
-    },
-    {
       "title": "News release: FINTRAC imposes an administrative monetary penalty on Spence Diamonds Ltd.",
       "link": "https://fintrac-canafe.canada.ca/new-neuf/nr/2025-09-23-eng",
       "source": "Financial Transactions and Reports Analysis Centre of Canada",
@@ -1116,21 +1116,12 @@
       ]
     },
     {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
-      "tags": []
-    },
-    {
-      "title": "Monetary Policy Committee dates for 2026",
-      "link": "https://www.bankofengland.co.uk/news/2025/september/monetary-policy-committee-dates-for-2026",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "2026 confirmed dates",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
@@ -1143,12 +1134,21 @@
       "tags": []
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "title": "Monetary Policy Committee dates for 2026",
+      "link": "https://www.bankofengland.co.uk/news/2025/september/monetary-policy-committee-dates-for-2026",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
+      "summary": "2026 confirmed dates",
+      "tags": []
+    },
+    {
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
