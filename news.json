@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2025-10-14T09:12:24.726Z",
+  "generatedAt": "2025-10-14T10:12:03.336Z",
   "items": [
+    {
+      "title": "Transparency data: Fifth Trade Specialised Committee on Customs Cooperation and Rules of Origin Agenda",
+      "link": "https://www.gov.uk/government/publications/fifth-trade-specialised-committee-on-customs-cooperation-and-rules-of-origin-agenda",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-14T10:00:05.000Z",
+      "region": "UK",
+      "summary": "Agenda for the fifth meeting of the UK-EU Trade Specialised Committee on Customs Cooperation and Rules of Origin under the Trade and Cooperation Agreement.",
+      "tags": []
+    },
     {
       "title": "Correspondence: Ministerial letter on cyber security to leading UK companies",
       "link": "https://www.gov.uk/government/publications/ministerial-letter-on-cyber-security-to-leading-uk-companies",
@@ -9,6 +18,19 @@
       "region": "UK",
       "summary": "Ministers and security chiefs have written to leading UK companies about cyber security.",
       "tags": []
+    },
+    {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251014-5/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-10-13T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
     },
     {
       "title": "Analytical Accounts of the Exchange Fund",
@@ -602,15 +624,6 @@
       "tags": []
     },
     {
-      "title": "Appointment of three new Non-Executive Directors to the National Wealth Fund",
-      "link": "https://www.gov.uk/government/news/appointment-of-three-new-non-executive-directors-to-the-national-wealth-fund",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-02T10:49:44.000Z",
-      "region": "UK",
-      "summary": "Experts in investment, risk management and local and central government have been appointed to the National Wealth Fund Board, as it moves into a new chapter.",
-      "tags": []
-    },
-    {
       "title": "HKMA and HKSTP launch IADS Developer Hackathon to foster bank–fintech collaboration",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251002-3/",
       "source": "HKMA: Press Releases",
@@ -963,19 +976,6 @@
       "tags": [
         "US",
         "SEC",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "SFC and HKMA unveil roadmap to advance Hong Kong’s vision to be global fixed income and currency hub",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250925-3/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-09-24T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
         "Regulator"
       ]
     },
