@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2025-10-14T14:11:34.666Z",
+  "generatedAt": "2025-10-14T15:11:47.340Z",
   "items": [
+    {
+      "title": "Guidance: Who is subject to financial sanctions in the UK?",
+      "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-14T14:24:44.000Z",
+      "region": "UK",
+      "summary": "======================================================================== On 28 January 2026, the OFSI Consolidated List is closing and the UK Sanctions List will be the only source for all UK sanctions designations. See ",
+      "tags": []
+    },
+    {
+      "title": "Guidance: Global human rights financial sanctions: list of asset-freeze targets",
+      "link": "https://www.gov.uk/government/publications/financial-sanctions-global-human-rights",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-14T14:14:44.000Z",
+      "region": "UK",
+      "summary": "The Global Human Rights regime operates under the UK’s Sanctions and Anti-Money Laundering Act 2018. This page contains the current list of designated targets.",
+      "tags": []
+    },
     {
       "title": "Correspondence: Ministerial letter on cyber security to leading UK companies",
       "link": "https://www.gov.uk/government/publications/ministerial-letter-on-cyber-security-to-leading-uk-companies",
@@ -91,15 +109,6 @@
       "publishedAt": "2025-10-13T14:28:25.000Z",
       "region": "UK",
       "summary": "A guide for businesses and organisations that need to understand more about what sanctions are and how they work.",
-      "tags": []
-    },
-    {
-      "title": "Guidance: Who is subject to financial sanctions in the UK?",
-      "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-13T14:19:01.000Z",
-      "region": "UK",
-      "summary": "======================================================================== On 28 January 2026, the OFSI Consolidated List is closing and the UK Sanctions List will be the only source for all UK sanctions designations. See ",
       "tags": []
     },
     {
@@ -626,15 +635,6 @@
         "CRA",
         "FCAC"
       ]
-    },
-    {
-      "title": "Policy paper: Joint Statement: EU-UK Financial Regulatory Forum- October 2025",
-      "link": "https://www.gov.uk/government/publications/joint-statement-eu-uk-financial-regulatory-forum-october-2025--2",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-02T12:33:04.000Z",
-      "region": "UK",
-      "summary": "HM Treasury and European Commission joint statement on the fourth EU-UK Financial Regulatory Forum.",
-      "tags": []
     },
     {
       "title": "HKMA and HKSTP launch IADS Developer Hackathon to foster bank–fintech collaboration",
