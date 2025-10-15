@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-15T09:12:19.439Z",
+  "generatedAt": "2025-10-15T10:12:40.012Z",
   "items": [
     {
       "title": "Official Statistics: Forecasts for the UK economy: October 2025",
@@ -27,6 +27,19 @@
       "region": "UK",
       "summary": "New roads, reservoirs, airports, and railways held up by lengthy legal challenges will be completed more quickly under new proposals announced by the Chancellor today (15 October), fast-tracking national renewal.",
       "tags": []
+    },
+    {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251015-5/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-10-14T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
     },
     {
       "title": "HKMA announces second cohort of GenA.I. Sandbox to advance responsible A.I. innovation",
@@ -963,19 +976,6 @@
       ]
     },
     {
-      "title": "Launch of cross-boundary bond repurchase business",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250926-5/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-09-25T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
       "title": "News release: FINTRAC imposes an administrative monetary penalty on Peken Global Limited (KuCoin)",
       "link": "https://fintrac-canafe.canada.ca/new-neuf/nr/2025-09-25-eng",
       "source": "Financial Transactions and Reports Analysis Centre of Canada",
@@ -1125,21 +1125,12 @@
       ]
     },
     {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
-      "tags": []
-    },
-    {
-      "title": "Monetary Policy Committee dates for 2026",
-      "link": "https://www.bankofengland.co.uk/news/2025/september/monetary-policy-committee-dates-for-2026",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "2026 confirmed dates",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
@@ -1152,12 +1143,21 @@
       "tags": []
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "title": "Monetary Policy Committee dates for 2026",
+      "link": "https://www.bankofengland.co.uk/news/2025/september/monetary-policy-committee-dates-for-2026",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
+      "summary": "2026 confirmed dates",
+      "tags": []
+    },
+    {
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
