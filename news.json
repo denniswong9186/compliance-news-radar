@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2025-10-15T12:21:11.533Z",
+  "generatedAt": "2025-10-15T13:26:01.042Z",
   "items": [
+    {
+      "title": "The EBA and ESMA recommend targeted revisions to the investment firms’ prudential framework",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-and-esma-recommend-targeted-revisions-investment-firms-prudential-framework",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-10-15T12:30:00.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) and the European Securities and Markets Authority (ESMA) have issued their technical advice in response the European Commission's Call for Advice (CfA) on the Investment Firms Regulat",
+      "tags": [
+        "EU",
+        "EBA",
+        "Regulator"
+      ]
+    },
     {
       "title": "Guidance: OFSI General licence INT/2025/5635700",
       "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20255635700",
@@ -1024,19 +1037,6 @@
       "tags": [
         "US",
         "SEC",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "Q2 2025 supervisory data indicate improvements in ROE despite continued tightening of net interest margins in EU/EEA banks",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/q2-2025-supervisory-data-indicate-improvements-roe-despite-continued-tightening-net-interest-margins",
-      "source": "European Banking Authority",
-      "publishedAt": "2025-09-24T09:00:00.000Z",
-      "region": "EU",
-      "summary": "The European Banking Authority (EBA) today published its Q2 2025 Risk Dashboard (RDB), which discloses aggregated statistical information for the largest EU/EEA credit institutions.",
-      "tags": [
-        "EU",
-        "EBA",
         "Regulator"
       ]
     },
