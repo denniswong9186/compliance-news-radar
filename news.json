@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2025-10-16T09:12:42.836Z",
+  "generatedAt": "2025-10-16T10:12:42.226Z",
   "items": [
+    {
+      "title": "Corporate report: Consolidated Fund account 2024 to 2025",
+      "link": "https://www.gov.uk/government/publications/consolidated-fund-account-2024-to-2025",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-16T09:35:41.000Z",
+      "region": "UK",
+      "summary": "The Consolidated Fund accounts for 2024 to 2025 have been published.",
+      "tags": []
+    },
+    {
+      "title": "Policy paper: Reclaim Fund Limited – Framework Document 2025",
+      "link": "https://www.gov.uk/government/publications/reclaim-fund-limited-framework-document-2025",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-16T09:30:02.000Z",
+      "region": "UK",
+      "summary": "This document outlines the governance framework within which RFL and government departments responsible for dormant assets policy operate.",
+      "tags": []
+    },
     {
       "title": "ESAs’ Joint Committee publishes Work Programme for 2026",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/esas-joint-committee-publishes-work-programme-2026",
@@ -11,6 +29,19 @@
       "tags": [
         "EU",
         "EBA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251016-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-10-15T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
         "Regulator"
       ]
     },
@@ -592,15 +623,6 @@
       "tags": []
     },
     {
-      "title": "Policy paper: G7 Cyber Expert Group Statement on AI and Cybersecurity",
-      "link": "https://www.gov.uk/government/publications/g7-cyber-expert-group-statement-on-ai-and-cybersecurity",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-06T11:00:00.000Z",
-      "region": "UK",
-      "summary": "Cyber Expert Group statement on Artificial Intelligence (AI) addressing the cybersecurity risks and opportunities to the Financial Sector.",
-      "tags": []
-    },
-    {
       "title": "EU Supervisory Authorities warn consumers of risks and limited protection for certain crypto-assets and providers",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eu-supervisory-authorities-warn-consumers-risks-and-limited-protection-certain-crypto-assets-and",
       "source": "European Banking Authority",
@@ -659,15 +681,6 @@
       "publishedAt": "2025-10-03T15:13:00.000Z",
       "region": "UK",
       "summary": "Green notices cover significant and/or significant proposals for Bank of England reporting. If any of these proposals are finalised and are to be implemented, they will appear in a statistical notice.",
-      "tags": []
-    },
-    {
-      "title": "Guidance: Information sharing measures in the Economic Crime and Corporate Transparency Act",
-      "link": "https://www.gov.uk/government/publications/information-sharing-measures-in-the-economic-crime-and-corporate-transparency-act",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-03T14:06:23.000Z",
-      "region": "UK",
-      "summary": "Guidance on the information sharing measures in the Economic Crime and Corporate Transparency Act 2023.",
       "tags": []
     },
     {
@@ -976,19 +989,6 @@
       "tags": []
     },
     {
-      "title": "Scam alert related to banks",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250926-6/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-09-25T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
       "title": "News release: FINTRAC imposes an administrative monetary penalty on Peken Global Limited (KuCoin)",
       "link": "https://fintrac-canafe.canada.ca/new-neuf/nr/2025-09-25-eng",
       "source": "Financial Transactions and Reports Analysis Centre of Canada",
@@ -1125,6 +1125,15 @@
       ]
     },
     {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
+      "tags": []
+    },
+    {
       "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
       "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
       "source": "News",
@@ -1140,15 +1149,6 @@
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "2026 confirmed dates",
-      "tags": []
-    },
-    {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
