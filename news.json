@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2025-10-16T12:20:14.602Z",
+  "generatedAt": "2025-10-16T13:25:20.894Z",
   "items": [
+    {
+      "title": "News release: FINTRAC imposes an administrative monetary penalty on First Nations Bank of Canada",
+      "link": "https://fintrac-canafe.canada.ca/new-neuf/nr/2025-10-16-eng",
+      "source": "Financial Transactions and Reports Analysis Centre of Canada",
+      "publishedAt": "2025-10-16T13:00:00.000Z",
+      "region": "Canada",
+      "summary": "First Nations Bank of Canada, an investment dealer headquartered in Vancouver, British Columbia, was imposed an administrative monetary penalty of $601,139.80 for committing 5 violations.",
+      "tags": [
+        "Canada",
+        "CRA",
+        "FCAC"
+      ]
+    },
     {
       "title": "Guidance: Preston guidance: September 2025",
       "link": "https://www.gov.uk/government/publications/preston-guidance-september-2025",
@@ -1125,15 +1138,6 @@
       ]
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
-      "tags": []
-    },
-    {
       "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
       "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
       "source": "News",
@@ -1149,6 +1153,15 @@
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "2026 confirmed dates",
+      "tags": []
+    },
+    {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
