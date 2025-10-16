@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2025-10-16T13:25:20.894Z",
+  "generatedAt": "2025-10-16T14:11:24.512Z",
   "items": [
+    {
+      "title": "Guidance: Who is subject to financial sanctions in the UK?",
+      "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-16T14:03:02.000Z",
+      "region": "UK",
+      "summary": "======================================================================== On 28 January 2026, the OFSI Consolidated List is closing and the UK Sanctions List will be the only source for all UK sanctions designations. See ",
+      "tags": []
+    },
+    {
+      "title": "Guidance: Russia financial sanctions: list of asset-freeze targets",
+      "link": "https://www.gov.uk/government/publications/financial-sanctions-ukraine-sovereignty-and-territorial-integrity",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-16T14:02:48.000Z",
+      "region": "UK",
+      "summary": "The Russia (Sanctions) (EU Exit) Regulations 2019 ensure sanctions relating to Russia are implemented effectively after the UK leaves the EU.",
+      "tags": []
+    },
     {
       "title": "News release: FINTRAC imposes an administrative monetary penalty on First Nations Bank of Canada",
       "link": "https://fintrac-canafe.canada.ca/new-neuf/nr/2025-10-16-eng",
@@ -109,24 +127,6 @@
       "publishedAt": "2025-10-15T11:30:53.000Z",
       "region": "UK",
       "summary": "Details for OFSI General licence INT/2025/5635700, Russian Oil Exempt Projects",
-      "tags": []
-    },
-    {
-      "title": "Guidance: Who is subject to financial sanctions in the UK?",
-      "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-15T11:01:53.000Z",
-      "region": "UK",
-      "summary": "======================================================================== On 28 January 2026, the OFSI Consolidated List is closing and the UK Sanctions List will be the only source for all UK sanctions designations. See ",
-      "tags": []
-    },
-    {
-      "title": "Guidance: Russia financial sanctions: list of asset-freeze targets",
-      "link": "https://www.gov.uk/government/publications/financial-sanctions-ukraine-sovereignty-and-territorial-integrity",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-15T11:01:48.000Z",
-      "region": "UK",
-      "summary": "The Russia (Sanctions) (EU Exit) Regulations 2019 ensure sanctions relating to Russia are implemented effectively after the UK leaves the EU.",
       "tags": []
     },
     {
