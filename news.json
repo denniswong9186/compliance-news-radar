@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2025-10-17T14:10:59.096Z",
+  "generatedAt": "2025-10-17T15:10:44.800Z",
   "items": [
+    {
+      "title": "Guidance: ISIL (Da'esh) and Al-Qaida financial sanctions: list of asset-freeze targets",
+      "link": "https://www.gov.uk/government/publications/current-list-of-designated-persons-al-qaida",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-17T14:49:57.000Z",
+      "region": "UK",
+      "summary": "Certain persons and entities associated with the ISIL (Da'esh) and Al-Qaida organisations are subject to UK financial sanctions.",
+      "tags": []
+    },
+    {
+      "title": "Guidance: Who is subject to financial sanctions in the UK?",
+      "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-17T14:49:49.000Z",
+      "region": "UK",
+      "summary": "======================================================================== On 28 January 2026, the OFSI Consolidated List is closing and the UK Sanctions List will be the only source for all UK sanctions designations. See ",
+      "tags": []
+    },
     {
       "title": "Chancellor enhances Treasury Board by introducing cutting-edge technology expertise",
       "link": "https://www.gov.uk/government/news/chancellor-enhances-treasury-board-by-introducing-cutting-edge-technology-expertise",
@@ -52,15 +70,6 @@
       "publishedAt": "2025-10-16T15:02:56.000Z",
       "region": "UK",
       "summary": "This guidance is intended to support billing authorities in interpreting the Non-Domestic Rating (Definition of Qualifying Retail, Hospitality or Leisure Hereditament) Regulations 2025 (SI 2025/1093) for the purposes of ",
-      "tags": []
-    },
-    {
-      "title": "Guidance: Who is subject to financial sanctions in the UK?",
-      "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-16T14:03:02.000Z",
-      "region": "UK",
-      "summary": "======================================================================== On 28 January 2026, the OFSI Consolidated List is closing and the UK Sanctions List will be the only source for all UK sanctions designations. See ",
       "tags": []
     },
     {
@@ -471,15 +480,6 @@
         "EBA",
         "Regulator"
       ]
-    },
-    {
-      "title": "Policy paper: HM Treasury and Prudential Regulation Authority Performance Review",
-      "link": "https://www.gov.uk/government/publications/hm-treasury-and-prudential-regulation-authority-performance-review",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-09T08:30:02.000Z",
-      "region": "UK",
-      "summary": "Record of the meeting between the Economic Secretary to the Treasury and the Chief Executive of the Prudential Regulation Authority (PRA) to discuss the PRA’s performance.",
-      "tags": []
     },
     {
       "title": "DFSA and HKMA to co-host second Climate Finance Conference to strengthen sustainable finance through innovation, resilience and cross-border collaboration",
@@ -1138,12 +1138,12 @@
       ]
     },
     {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
       "tags": []
     },
     {
@@ -1156,21 +1156,21 @@
       "tags": []
     },
     {
-      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
-      "tags": []
-    },
-    {
       "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
       "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "Exchange of letters between the Governor and the Chancellor",
+      "tags": []
+    },
+    {
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
