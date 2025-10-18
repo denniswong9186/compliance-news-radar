@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2025-10-18T22:08:59.927Z",
+  "generatedAt": "2025-10-18T23:09:57.796Z",
   "items": [
+    {
+      "title": "UK regions given extra £20m science and tech cash boost as new investment kicks off landmark growth summit",
+      "link": "https://www.gov.uk/government/news/uk-regions-given-extra-20m-science-and-tech-cash-boost-as-new-investment-kicks-off-landmark-growth-summit",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-18T23:01:01.000Z",
+      "region": "UK",
+      "summary": "Greater Manchester, West Midlands and Glasgow City Region backed with £50m each to support local innovation priorities, plus £30m life sci investment unlocked",
+      "tags": []
+    },
     {
       "title": "Guidance: ISIL (Da'esh) and Al-Qaida financial sanctions: list of asset-freeze targets",
       "link": "https://www.gov.uk/government/publications/current-list-of-designated-persons-al-qaida",
@@ -444,15 +453,6 @@
       "publishedAt": "2025-10-09T14:00:00.000Z",
       "region": "UK",
       "summary": "Joint Statement between State Secretariat for International Finance and HM Treasury on the Switzerland-UK Financial Dialogue.",
-      "tags": []
-    },
-    {
-      "title": "Policy paper: Dematerialisation Market Action Taskforce",
-      "link": "https://www.gov.uk/government/publications/dematerialisation-market-action-taskforce",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-09T13:00:02.000Z",
-      "region": "UK",
-      "summary": "The Dematerialisation Market Action Taskforce (DEMAT), chaired by Mark Austin CBE, has been set up to take forward reforms to the UK’s shareholding framework",
       "tags": []
     },
     {
@@ -1138,12 +1138,12 @@
       ]
     },
     {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
       "tags": []
     },
     {
@@ -1156,21 +1156,21 @@
       "tags": []
     },
     {
-      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
-      "tags": []
-    },
-    {
       "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
       "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "Exchange of letters between the Governor and the Chancellor",
+      "tags": []
+    },
+    {
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
