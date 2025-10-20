@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2025-10-20T09:20:05.600Z",
+  "generatedAt": "2025-10-20T10:19:22.287Z",
   "items": [
+    {
+      "title": "Guidance: Haiti financial sanctions: list of asset-freeze targets",
+      "link": "https://www.gov.uk/government/publications/financial-sanctions-haiti",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-20T10:01:39.000Z",
+      "region": "UK",
+      "summary": "Haiti is currently subject to UK financial sanctions. This document contains the current list of designated persons.",
+      "tags": []
+    },
+    {
+      "title": "Guidance: Who is subject to financial sanctions in the UK?",
+      "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-20T10:01:30.000Z",
+      "region": "UK",
+      "summary": "======================================================================== On 28 January 2026, the OFSI Consolidated List is closing and the UK Sanctions List will be the only source for all UK sanctions designations. See ",
+      "tags": []
+    },
+    {
+      "title": "Britain’s biggest pension funds back regional growth drive",
+      "link": "https://www.gov.uk/government/news/britains-biggest-pension-funds-back-regional-growth-drive",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-20T09:16:28.000Z",
+      "region": "UK",
+      "summary": "Billions will be unlocked to build affordable homes, power communities and connect the countryside, as the Chancellor joins forces with pension providers and insurers to drive growth in every region.",
+      "tags": []
+    },
     {
       "title": "Policy paper: Whole of Government Accounts, 2023-24",
       "link": "https://www.gov.uk/government/publications/whole-of-government-accounts-2023-24",
@@ -20,6 +47,19 @@
       "tags": []
     },
     {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251020-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-10-19T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
       "title": "UK regions given extra £20 million science and tech cash boost as new investment kicks off landmark growth summit",
       "link": "https://www.gov.uk/government/news/uk-regions-given-extra-20m-science-and-tech-cash-boost-as-new-investment-kicks-off-landmark-growth-summit",
       "source": "HM Treasury - Activity on GOV.UK",
@@ -35,15 +75,6 @@
       "publishedAt": "2025-10-17T14:49:57.000Z",
       "region": "UK",
       "summary": "Certain persons and entities associated with the ISIL (Da'esh) and Al-Qaida organisations are subject to UK financial sanctions.",
-      "tags": []
-    },
-    {
-      "title": "Guidance: Who is subject to financial sanctions in the UK?",
-      "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-17T14:49:49.000Z",
-      "region": "UK",
-      "summary": "======================================================================== On 28 January 2026, the OFSI Consolidated List is closing and the UK Sanctions List will be the only source for all UK sanctions designations. See ",
       "tags": []
     },
     {
@@ -316,15 +347,6 @@
       ]
     },
     {
-      "title": "Transparency data: Fifth Trade Specialised Committee on Customs Cooperation and Rules of Origin Agenda",
-      "link": "https://www.gov.uk/government/publications/fifth-trade-specialised-committee-on-customs-cooperation-and-rules-of-origin-agenda",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-14T10:00:05.000Z",
-      "region": "UK",
-      "summary": "Agenda for the fifth meeting of the UK-EU Trade Specialised Committee on Customs Cooperation and Rules of Origin under the Trade and Cooperation Agreement.",
-      "tags": []
-    },
-    {
       "title": "Scam alert related to banks",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251014-5/",
       "source": "HKMA: Press Releases",
@@ -375,15 +397,6 @@
         "EBA",
         "Regulator"
       ]
-    },
-    {
-      "title": "Starter guide to UK sanctions",
-      "link": "https://www.gov.uk/guidance/starter-guide-to-uk-sanctions",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-13T14:28:25.000Z",
-      "region": "UK",
-      "summary": "A guide for businesses and organisations that need to understand more about what sanctions are and how they work.",
-      "tags": []
     },
     {
       "title": "Scam alert related to banks",
@@ -956,19 +969,6 @@
     {
       "title": "International Reserves and Foreign Currency Liquidity",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250930-4/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-09-29T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "Exchange Fund Abridged Balance Sheet and Currency Board Account",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250930-3/",
       "source": "HKMA: Press Releases",
       "publishedAt": "2025-09-29T16:00:00.000Z",
       "region": "Hong Kong",
