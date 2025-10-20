@@ -1,13 +1,22 @@
 {
-  "generatedAt": "2025-10-20T07:12:28.661Z",
+  "generatedAt": "2025-10-20T08:22:35.756Z",
   "items": [
     {
-      "title": "UK regions given extra £20m science and tech cash boost as new investment kicks off landmark growth summit",
+      "title": "Policy paper: World Bank Group and International Monetary Fund 2025 Annual Meetings, Development Committee: UK Governors' statement",
+      "link": "https://www.gov.uk/government/publications/world-bank-group-and-international-monetary-fund-2025-annual-meetings-development-committee-uk-governors-statement",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-20T07:37:05.000Z",
+      "region": "UK",
+      "summary": "The UK Governors' statement by Minister for Development and Africa Baroness Chapman and Chancellor of the Exchequer Rachel Reeves at the Development Committee on 16 October 2025.",
+      "tags": []
+    },
+    {
+      "title": "UK regions given extra £20 million science and tech cash boost as new investment kicks off landmark growth summit",
       "link": "https://www.gov.uk/government/news/uk-regions-given-extra-20m-science-and-tech-cash-boost-as-new-investment-kicks-off-landmark-growth-summit",
       "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-18T23:01:01.000Z",
+      "publishedAt": "2025-10-18T23:00:00.000Z",
       "region": "UK",
-      "summary": "Greater Manchester, West Midlands and Glasgow City Region backed with £50m each to support local innovation priorities, plus £30m life sci investment unlocked",
+      "summary": "Greater Manchester, West Midlands and Glasgow City Region backed with £50 million each to support local innovation priorities, plus £30 million life sci investment unlocked.",
       "tags": []
     },
     {
@@ -445,15 +454,6 @@
         "HKMA",
         "Regulator"
       ]
-    },
-    {
-      "title": "Correspondence: Switzerland-UK Financial Dialogue 2025 Joint Statement",
-      "link": "https://www.gov.uk/government/publications/switzerland-uk-financial-dialogue-2025-joint-statement",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-09T14:00:00.000Z",
-      "region": "UK",
-      "summary": "Joint Statement between State Secretariat for International Finance and HM Treasury on the Switzerland-UK Financial Dialogue.",
-      "tags": []
     },
     {
       "title": "News release: FINTRAC imposes an administrative monetary penalty on DMCL Chartered Professional Accountants",
@@ -1138,6 +1138,15 @@
       ]
     },
     {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
+      "tags": []
+    },
+    {
       "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
       "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
       "source": "News",
@@ -1153,15 +1162,6 @@
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "2026 confirmed dates",
-      "tags": []
-    },
-    {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
