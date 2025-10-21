@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2025-10-21T10:11:52.060Z",
+  "generatedAt": "2025-10-21T11:09:24.091Z",
   "items": [
+    {
+      "title": "Reforming anti-money laundering and counter-terrorism financing supervision",
+      "link": "https://www.gov.uk/government/consultations/reforming-anti-money-laundering-and-counter-terrorism-financing-supervision",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-21T11:00:01.000Z",
+      "region": "UK",
+      "summary": "This consultation sets out four potential models for reform of the UK’s anti-money laundering and counter-terrorism financing supervisory system.",
+      "tags": []
+    },
+    {
+      "title": "Policy paper: A new approach to ensure regulators and regulation support growth",
+      "link": "https://www.gov.uk/government/publications/a-new-approach-to-ensure-regulators-and-regulation-support-growth",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-21T11:00:01.000Z",
+      "region": "UK",
+      "summary": "An Action Plan setting out the government's approach to regulation and regulators",
+      "tags": []
+    },
+    {
+      "title": "Policy paper: Joint statement on regional investment from UK public investment bodies",
+      "link": "https://www.gov.uk/government/publications/joint-statement-on-regional-investment-from-uk-public-investment-bodies",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-21T11:00:01.000Z",
+      "region": "UK",
+      "summary": "CEOs of UK public investment bodies have issued a joint statement reaffirming their shared commitment to delivering the government’s regional growth and investment agenda.",
+      "tags": []
+    },
+    {
+      "title": "Policy paper: Oxford-Cambridge Growth Corridor Investment Prospectus",
+      "link": "https://www.gov.uk/government/publications/oxford-cambridge-growth-corridor-investment-prospectus",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-21T11:00:01.000Z",
+      "region": "UK",
+      "summary": "The Investment Prospectus sets out some of the investment opportunities that make the Corridor and the UK a dynamic and exciting place to invest.",
+      "tags": []
+    },
+    {
+      "title": "Unlocking business: reform driven by you",
+      "link": "https://www.gov.uk/government/calls-for-evidence/unlocking-business-reform-driven-by-you",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-21T11:00:00.000Z",
+      "region": "UK",
+      "summary": "This questionnaire asks businesses large and small to tell government about regulation which is not fit for purpose and unjustifiably inhibits growth, innovation and investment.",
+      "tags": []
+    },
     {
       "title": "Chancellor cuts pointless admin in nearly £6 billion business blitz",
       "link": "https://www.gov.uk/government/news/chancellor-cuts-pointless-admin-in-nearly-6-billion-business-blitz",
@@ -215,33 +260,6 @@
       ]
     },
     {
-      "title": "Guidance: Preston guidance: September 2025",
-      "link": "https://www.gov.uk/government/publications/preston-guidance-september-2025",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-16T10:26:09.000Z",
-      "region": "UK",
-      "summary": "Preston factors (earnings and interest factors) are provided for employers.",
-      "tags": []
-    },
-    {
-      "title": "Guidance: Preston guidance: August 2025",
-      "link": "https://www.gov.uk/government/publications/preston-guidance-august-2025",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-16T10:26:01.000Z",
-      "region": "UK",
-      "summary": "Preston factors (earnings and interest factors) are provided for employers.",
-      "tags": []
-    },
-    {
-      "title": "Policy paper: Reclaim Fund Limited – Framework Document 2025",
-      "link": "https://www.gov.uk/government/publications/reclaim-fund-limited-framework-document-2025",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-16T09:30:02.000Z",
-      "region": "UK",
-      "summary": "This document outlines the governance framework within which RFL and government departments responsible for dormant assets policy operate.",
-      "tags": []
-    },
-    {
       "title": "ESAs’ Joint Committee publishes Work Programme for 2026",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/esas-joint-committee-publishes-work-programme-2026",
       "source": "European Banking Authority",
@@ -253,15 +271,6 @@
         "EBA",
         "Regulator"
       ]
-    },
-    {
-      "title": "Corporate report: Consolidated Fund account 2024 to 2025",
-      "link": "https://www.gov.uk/government/publications/consolidated-fund-account-2024-to-2025",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-15T23:00:00.000Z",
-      "region": "UK",
-      "summary": "The Consolidated Fund accounts for 2024 to 2025 have been published.",
-      "tags": []
     },
     {
       "title": "Scam alert related to banks",
@@ -301,15 +310,6 @@
         "EBA",
         "Regulator"
       ]
-    },
-    {
-      "title": "Guidance: OFSI General licence INT/2025/5635700",
-      "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20255635700",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-15T11:30:53.000Z",
-      "region": "UK",
-      "summary": "Details for OFSI General licence INT/2025/5635700, Russian Oil Exempt Projects",
-      "tags": []
     },
     {
       "title": "PRA and FCA announce changes to banker bonuses for 2025",
@@ -1138,6 +1138,15 @@
       ]
     },
     {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
+      "tags": []
+    },
+    {
       "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
       "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
       "source": "News",
@@ -1153,15 +1162,6 @@
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "2026 confirmed dates",
-      "tags": []
-    },
-    {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
