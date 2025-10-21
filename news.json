@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2025-10-21T14:11:23.142Z",
+  "generatedAt": "2025-10-21T15:12:01.831Z",
   "items": [
+    {
+      "title": "Regional Investment Summit delivers almost a thousand jobs for UK communities",
+      "link": "https://www.gov.uk/government/news/regional-investment-summit-delivers-almost-a-thousand-jobs-for-uk-communities",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-21T14:44:02.000Z",
+      "region": "UK",
+      "summary": "Nearly a thousand jobs are to be created in a major boost to communities across the UK after over 10 billion in investments were announced at today’s first Regional Investment Summit.",
+      "tags": []
+    },
+    {
+      "title": "Regional Investment Summit speech",
+      "link": "https://www.gov.uk/government/speeches/regional-investment-summit-speech",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-21T14:34:48.000Z",
+      "region": "UK",
+      "summary": "Chancellor of the Exchequer Rachel Reeves delivered her Regional Investment Summit speech on Tuesday 21 October 2025.",
+      "tags": []
+    },
     {
       "title": "Policy paper: Statement of strategic priorities to the British Business Bank",
       "link": "https://www.gov.uk/government/publications/statement-of-strategic-priorities-to-the-british-business-bank",
@@ -203,15 +221,6 @@
       "tags": []
     },
     {
-      "title": "Chancellor’s new investment fast track to make Britain top destination for global investors",
-      "link": "https://www.gov.uk/government/news/chancellors-new-investment-fast-track-to-make-britain-top-destination-for-global-investors",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-17T08:00:02.000Z",
-      "region": "UK",
-      "summary": "The Chancellor has launched a new one-stop support service to make the UK more attractive to global investors and create jobs and opportunities for working people across the UK.",
-      "tags": []
-    },
-    {
       "title": "Scam alert related to banks",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251017-4/",
       "source": "HKMA: Press Releases",
@@ -236,15 +245,6 @@
         "HKMA",
         "Regulator"
       ]
-    },
-    {
-      "title": "Business Rates Multipliers: Qualifying Retail, Hospitality or Leisure",
-      "link": "https://www.gov.uk/guidance/business-rates-multipliers-qualifying-retail-hospitality-or-leisure",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-16T15:02:56.000Z",
-      "region": "UK",
-      "summary": "This guidance is intended to support billing authorities in interpreting the Non-Domestic Rating (Definition of Qualifying Retail, Hospitality or Leisure Hereditament) Regulations 2025 (SI 2025/1093) for the purposes of ",
-      "tags": []
     },
     {
       "title": "News release: FINTRAC imposes an administrative monetary penalty on First Nations Bank of Canada",
@@ -1138,15 +1138,6 @@
       ]
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
-      "tags": []
-    },
-    {
       "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
       "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
       "source": "News",
@@ -1162,6 +1153,15 @@
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "2026 confirmed dates",
+      "tags": []
+    },
+    {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
