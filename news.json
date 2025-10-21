@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2025-10-21T09:12:25.492Z",
+  "generatedAt": "2025-10-21T10:11:52.060Z",
   "items": [
+    {
+      "title": "Chancellor cuts pointless admin in nearly £6 billion business blitz",
+      "link": "https://www.gov.uk/government/news/chancellor-cuts-pointless-admin-in-nearly-6-billion-business-blitz",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-21T09:21:40.000Z",
+      "region": "UK",
+      "summary": "The Chancellor will kick off the first ever Regional Investment Summit with a blitz on business bureaucracy announcing further cuts to red tape and promising to save UK firms nearly £6 billion per year by the end of Parl",
+      "tags": []
+    },
     {
       "title": "Policy paper: An introduction to the UK public investment landscape",
       "link": "https://www.gov.uk/government/publications/an-introduction-to-the-uk-public-investment-landscape",
@@ -18,6 +27,19 @@
       "region": "UK",
       "summary": "The public sector finances statistical bulletin.",
       "tags": []
+    },
+    {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251021-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-10-20T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
     },
     {
       "title": "Exchange Fund Bills Tender Results",
@@ -287,15 +309,6 @@
       "publishedAt": "2025-10-15T11:30:53.000Z",
       "region": "UK",
       "summary": "Details for OFSI General licence INT/2025/5635700, Russian Oil Exempt Projects",
-      "tags": []
-    },
-    {
-      "title": "Chancellor takes on the blockers to get Britain building",
-      "link": "https://www.gov.uk/government/news/chancellor-takes-on-the-blockers-to-get-britain-building",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-15T10:16:59.000Z",
-      "region": "UK",
-      "summary": "New roads, reservoirs, airports, and railways held up by lengthy legal challenges will be completed more quickly under new proposals announced by the Chancellor today (15 October), fast-tracking national renewal.",
       "tags": []
     },
     {
@@ -967,19 +980,6 @@
       ]
     },
     {
-      "title": "Residential Mortgage Survey Results for August 2025",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250930-5/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-09-29T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
       "title": "SEC Seeks Public Comment to Improve Rules on Residential Mortgage-Backed Securities and Asset-Backed Securities",
       "link": "https://www.sec.gov/newsroom/press-releases/2025-126-sec-seeks-public-comment-improve-rules-residential-mortgage-backed-securities-asset-backed",
       "source": "Press Releases",
@@ -1138,15 +1138,6 @@
       ]
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
-      "tags": []
-    },
-    {
       "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
       "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
       "source": "News",
@@ -1162,6 +1153,15 @@
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "2026 confirmed dates",
+      "tags": []
+    },
+    {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
