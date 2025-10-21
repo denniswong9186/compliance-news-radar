@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2025-10-21T11:09:24.091Z",
+  "generatedAt": "2025-10-21T12:20:07.387Z",
   "items": [
+    {
+      "title": "Chancellor cuts pointless admin in nearly £6 billion business blitz",
+      "link": "https://www.gov.uk/government/news/chancellor-cuts-pointless-admin-in-nearly-6-billion-business-blitz",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-21T11:04:31.000Z",
+      "region": "UK",
+      "summary": "The Chancellor will kick off the first ever Regional Investment Summit with a blitz on business bureaucracy announcing further cuts to red tape and promising to save UK firms nearly £6 billion per year by the end of Parl",
+      "tags": []
+    },
     {
       "title": "Reforming anti-money laundering and counter-terrorism financing supervision",
       "link": "https://www.gov.uk/government/consultations/reforming-anti-money-laundering-and-counter-terrorism-financing-supervision",
@@ -44,15 +53,6 @@
       "publishedAt": "2025-10-21T11:00:00.000Z",
       "region": "UK",
       "summary": "This questionnaire asks businesses large and small to tell government about regulation which is not fit for purpose and unjustifiably inhibits growth, innovation and investment.",
-      "tags": []
-    },
-    {
-      "title": "Chancellor cuts pointless admin in nearly £6 billion business blitz",
-      "link": "https://www.gov.uk/government/news/chancellor-cuts-pointless-admin-in-nearly-6-billion-business-blitz",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-21T09:21:40.000Z",
-      "region": "UK",
-      "summary": "The Chancellor will kick off the first ever Regional Investment Summit with a blitz on business bureaucracy announcing further cuts to red tape and promising to save UK firms nearly £6 billion per year by the end of Parl",
       "tags": []
     },
     {
@@ -1138,15 +1138,6 @@
       ]
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
-      "tags": []
-    },
-    {
       "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
       "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
       "source": "News",
@@ -1162,6 +1153,15 @@
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "2026 confirmed dates",
+      "tags": []
+    },
+    {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
