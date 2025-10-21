@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2025-10-21T07:11:56.249Z",
+  "generatedAt": "2025-10-21T08:15:48.791Z",
   "items": [
+    {
+      "title": "Policy paper: An introduction to the UK public investment landscape",
+      "link": "https://www.gov.uk/government/publications/an-introduction-to-the-uk-public-investment-landscape",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-21T08:00:02.000Z",
+      "region": "UK",
+      "summary": "Overview of UK public investment bodies, outlining their support, funding offers, and guidance for businesses, investors and local government bodies.",
+      "tags": []
+    },
     {
       "title": "Accredited official statistics: Public sector finances bulletin",
       "link": "https://www.gov.uk/government/statistics/public-sector-finances-bulletin",
@@ -9,6 +18,19 @@
       "region": "UK",
       "summary": "The public sector finances statistical bulletin.",
       "tags": []
+    },
+    {
+      "title": "Exchange Fund Bills Tender Results",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251021-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-10-20T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
     },
     {
       "title": "Transparency data: HMT workforce management information: September 2025",
@@ -283,15 +305,6 @@
       "publishedAt": "2025-10-15T09:00:00.000Z",
       "region": "UK",
       "summary": "The PRA and FCA have today confirmed plans to increase flexibility around senior banker pay, alongside changes to create better links between bonus awards and responsible risk-taking.",
-      "tags": []
-    },
-    {
-      "title": "Official Statistics: Forecasts for the UK economy: October 2025",
-      "link": "https://www.gov.uk/government/statistics/forecasts-for-the-uk-economy-october-2025",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-14T23:00:00.000Z",
-      "region": "UK",
-      "summary": "A comparison of independent forecasts for the UK economy in October 2025.",
       "tags": []
     },
     {
@@ -956,19 +969,6 @@
     {
       "title": "Residential Mortgage Survey Results for August 2025",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250930-5/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-09-29T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "International Reserves and Foreign Currency Liquidity",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250930-4/",
       "source": "HKMA: Press Releases",
       "publishedAt": "2025-09-29T16:00:00.000Z",
       "region": "Hong Kong",
