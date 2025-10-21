@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2025-10-21T05:11:25.954Z",
+  "generatedAt": "2025-10-21T06:16:32.406Z",
   "items": [
+    {
+      "title": "Accredited official statistics: Public sector finances bulletin",
+      "link": "https://www.gov.uk/government/statistics/public-sector-finances-bulletin",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-21T06:00:02.000Z",
+      "region": "UK",
+      "summary": "The public sector finances statistical bulletin.",
+      "tags": []
+    },
     {
       "title": "Transparency data: HMT workforce management information: September 2025",
       "link": "https://www.gov.uk/government/publications/hmt-workforce-management-information-september-2025",
@@ -323,15 +332,6 @@
         "HKMA",
         "Regulator"
       ]
-    },
-    {
-      "title": "Guidance: Global human rights financial sanctions: list of asset-freeze targets",
-      "link": "https://www.gov.uk/government/publications/financial-sanctions-global-human-rights",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-14T14:14:44.000Z",
-      "region": "UK",
-      "summary": "The Global Human Rights regime operates under the UK’s Sanctions and Anti-Money Laundering Act 2018. This page contains the current list of designated targets.",
-      "tags": []
     },
     {
       "title": "The EBA finds that white labelling is widely used in banking and payments",
@@ -1138,21 +1138,12 @@
       ]
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
-      "tags": []
-    },
-    {
-      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
@@ -1165,12 +1156,21 @@
       "tags": []
     },
     {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
+      "tags": []
+    },
+    {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
