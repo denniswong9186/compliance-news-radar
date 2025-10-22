@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2025-10-22T14:12:15.322Z",
+  "generatedAt": "2025-10-22T15:10:18.018Z",
   "items": [
+    {
+      "title": "Guidance: Legal Services General Licence",
+      "link": "https://www.gov.uk/government/publications/legal-services-general-licence",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-22T14:34:24.000Z",
+      "region": "UK",
+      "summary": "Legal Services General Licence INT/2024/5334756 and Legal Fees General Licence Reporting forms",
+      "tags": []
+    },
+    {
+      "title": "The AML/CFT colleges framework is maturing, the EBA finds",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/amlcft-colleges-framework-maturing-eba-finds",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-10-22T14:26:53.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) today published its fifth and final Report on the Functioning of Anti-Money Laundering and Countering the Financing of Terrorism (AML/CFT) Colleges. The Report finds that colleges are",
+      "tags": [
+        "EU",
+        "EBA",
+        "Regulator"
+      ]
+    },
     {
       "title": "News release: FINTRAC imposes an administrative monetary penalty on Xeltox Enterprises Ltd.",
       "link": "https://fintrac-canafe.canada.ca/new-neuf/nr/2025-10-22-eng",
@@ -236,15 +258,6 @@
         "HKMA",
         "Regulator"
       ]
-    },
-    {
-      "title": "UK regions given extra £20 million science and tech cash boost as new investment kicks off landmark growth summit",
-      "link": "https://www.gov.uk/government/news/uk-regions-given-extra-20m-science-and-tech-cash-boost-as-new-investment-kicks-off-landmark-growth-summit",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-18T23:00:00.000Z",
-      "region": "UK",
-      "summary": "Greater Manchester, West Midlands and Glasgow City Region backed with £50 million each to support local innovation priorities, plus £30 million life sci investment unlocked.",
-      "tags": []
     },
     {
       "title": "Scam alert related to banks",
@@ -727,19 +740,6 @@
       "tags": []
     },
     {
-      "title": "EU Supervisory Authorities warn consumers of risks and limited protection for certain crypto-assets and providers",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eu-supervisory-authorities-warn-consumers-risks-and-limited-protection-certain-crypto-assets-and",
-      "source": "European Banking Authority",
-      "publishedAt": "2025-10-06T08:59:00.000Z",
-      "region": "EU",
-      "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today issued a warning to consumers that crypto-assets can be risky and that legal protection, if any, may be limited depending on which crypto-assets",
-      "tags": [
-        "EU",
-        "EBA",
-        "Regulator"
-      ]
-    },
-    {
       "title": "Scam alert related to banks",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251006-5/",
       "source": "HKMA: Press Releases",
@@ -1151,21 +1151,12 @@
       ]
     },
     {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
-      "tags": []
-    },
-    {
-      "title": "Monetary Policy Committee dates for 2026",
-      "link": "https://www.bankofengland.co.uk/news/2025/september/monetary-policy-committee-dates-for-2026",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "2026 confirmed dates",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
@@ -1178,12 +1169,21 @@
       "tags": []
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "title": "Monetary Policy Committee dates for 2026",
+      "link": "https://www.bankofengland.co.uk/news/2025/september/monetary-policy-committee-dates-for-2026",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
+      "summary": "2026 confirmed dates",
+      "tags": []
+    },
+    {
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
