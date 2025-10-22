@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2025-10-22T09:13:39.181Z",
+  "generatedAt": "2025-10-22T10:13:00.379Z",
   "items": [
+    {
+      "title": "Policy paper: A new approach to ensure regulators and regulation support growth",
+      "link": "https://www.gov.uk/government/publications/a-new-approach-to-ensure-regulators-and-regulation-support-growth",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-22T09:21:04.000Z",
+      "region": "UK",
+      "summary": "An Action Plan setting out the government's approach to regulation and regulators",
+      "tags": []
+    },
     {
       "title": "Regional Investment Summit delivers almost £800m boost to West Midlands, creating hundreds of jobs",
       "link": "https://www.gov.uk/government/news/regional-investment-summit-delivers-almost-800m-boost-to-west-midlands-creating-hundreds-of-jobs",
@@ -9,6 +18,19 @@
       "region": "UK",
       "summary": "Hundreds of jobs in the West Midlands are set to be created after almost £800m of investment was announced at today’s Regional Investment Summit.",
       "tags": []
+    },
+    {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251022-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-10-21T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
     },
     {
       "title": "Regional Investment Summit delivers almost a thousand jobs for UK communities",
@@ -53,15 +75,6 @@
       "publishedAt": "2025-10-21T11:00:01.000Z",
       "region": "UK",
       "summary": "This consultation sets out four potential models for reform of the UK’s anti-money laundering and counter-terrorism financing supervisory system.",
-      "tags": []
-    },
-    {
-      "title": "Policy paper: A new approach to ensure regulators and regulation support growth",
-      "link": "https://www.gov.uk/government/publications/a-new-approach-to-ensure-regulators-and-regulation-support-growth",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-21T11:00:01.000Z",
-      "region": "UK",
-      "summary": "An Action Plan setting out the government's approach to regulation and regulators",
       "tags": []
     },
     {
@@ -967,19 +980,6 @@
       ]
     },
     {
-      "title": "Monetary Statistics for August 2025",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250930-6/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-09-29T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
       "title": "SEC Seeks Public Comment to Improve Rules on Residential Mortgage-Backed Securities and Asset-Backed Securities",
       "link": "https://www.sec.gov/newsroom/press-releases/2025-126-sec-seeks-public-comment-improve-rules-residential-mortgage-backed-securities-asset-backed",
       "source": "Press Releases",
@@ -1138,12 +1138,12 @@
       ]
     },
     {
-      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
@@ -1156,21 +1156,21 @@
       "tags": []
     },
     {
+      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
+      "tags": []
+    },
+    {
       "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
       "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "Exchange of letters between the Governor and the Chancellor",
-      "tags": []
-    },
-    {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
