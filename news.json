@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2025-10-22T12:20:29.128Z",
+  "generatedAt": "2025-10-22T13:27:23.955Z",
   "items": [
+    {
+      "title": "News release: FINTRAC imposes an administrative monetary penalty on Xeltox Enterprises Ltd.",
+      "link": "https://fintrac-canafe.canada.ca/new-neuf/nr/2025-10-22-eng",
+      "source": "Financial Transactions and Reports Analysis Centre of Canada",
+      "publishedAt": "2025-10-22T13:00:00.000Z",
+      "region": "Canada",
+      "summary": "Xeltox Enterprises Ltd. (also operating as Cryptomus), a money services business incorporated in British Columbia, was imposed an administrative monetary penalty of $176,960,190 for committing 6 violations.",
+      "tags": [
+        "Canada",
+        "CRA",
+        "FCAC"
+      ]
+    },
     {
       "title": "Guidance: Who is subject to financial sanctions in the UK?",
       "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
@@ -26,15 +39,6 @@
       "publishedAt": "2025-10-22T09:21:04.000Z",
       "region": "UK",
       "summary": "An Action Plan setting out the government's approach to regulation and regulators",
-      "tags": []
-    },
-    {
-      "title": "Regional Investment Summit delivers almost £800m boost to West Midlands, creating hundreds of jobs",
-      "link": "https://www.gov.uk/government/news/regional-investment-summit-delivers-almost-800m-boost-to-west-midlands-creating-hundreds-of-jobs",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-21T21:30:04.000Z",
-      "region": "UK",
-      "summary": "Hundreds of jobs in the West Midlands are set to be created after almost £800m of investment was announced at today’s Regional Investment Summit.",
       "tags": []
     },
     {
@@ -138,6 +142,15 @@
       "publishedAt": "2025-10-21T06:00:02.000Z",
       "region": "UK",
       "summary": "The public sector finances statistical bulletin.",
+      "tags": []
+    },
+    {
+      "title": "Regional Investment Summit delivers almost £800m boost to West Midlands, creating hundreds of jobs",
+      "link": "https://www.gov.uk/government/news/regional-investment-summit-delivers-almost-800m-boost-to-west-midlands-creating-hundreds-of-jobs",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-20T23:00:00.000Z",
+      "region": "UK",
+      "summary": "Hundreds of jobs in the West Midlands are set to be created after almost £800m of investment was announced at today’s Regional Investment Summit.",
       "tags": []
     },
     {
@@ -1138,21 +1151,12 @@
       ]
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
-      "tags": []
-    },
-    {
-      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
@@ -1165,12 +1169,21 @@
       "tags": []
     },
     {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
+      "tags": []
+    },
+    {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
