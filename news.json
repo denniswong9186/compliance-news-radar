@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2025-10-27T15:11:56.997Z",
+  "generatedAt": "2025-10-27T16:13:35.547Z",
   "items": [
+    {
+      "title": "Labour Markets Evaluation and Pilots (LMEP) Fund: funded projects",
+      "link": "https://www.gov.uk/government/news/labour-markets-evaluation-and-pilots-lmep-fund-funded-projects",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-27T16:06:36.000Z",
+      "region": "UK",
+      "summary": "Details of the pilots and evaluations funded by HM Treasury’s Labour Markets Evaluation and Pilots (LMEP) Fund.",
+      "tags": []
+    },
     {
       "title": "Guidance: Money Laundering Advisory Notice: High Risk Third Countries",
       "link": "https://www.gov.uk/government/publications/money-laundering-advisory-notice-high-risk-third-countries--2",
@@ -231,15 +240,6 @@
       "publishedAt": "2025-10-21T11:00:01.000Z",
       "region": "UK",
       "summary": "CEOs of UK public investment bodies have issued a joint statement reaffirming their shared commitment to delivering the government’s regional growth and investment agenda.",
-      "tags": []
-    },
-    {
-      "title": "Policy paper: Oxford-Cambridge Growth Corridor Investment Prospectus",
-      "link": "https://www.gov.uk/government/publications/oxford-cambridge-growth-corridor-investment-prospectus",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-21T11:00:01.000Z",
-      "region": "UK",
-      "summary": "The Investment Prospectus sets out some of the investment opportunities that make the Corridor and the UK a dynamic and exciting place to invest.",
       "tags": []
     },
     {
@@ -1160,21 +1160,12 @@
       ]
     },
     {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
-      "tags": []
-    },
-    {
-      "title": "Monetary Policy Committee dates for 2026",
-      "link": "https://www.bankofengland.co.uk/news/2025/september/monetary-policy-committee-dates-for-2026",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "2026 confirmed dates",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
@@ -1187,12 +1178,21 @@
       "tags": []
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "title": "Monetary Policy Committee dates for 2026",
+      "link": "https://www.bankofengland.co.uk/news/2025/september/monetary-policy-committee-dates-for-2026",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
+      "summary": "2026 confirmed dates",
+      "tags": []
+    },
+    {
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
