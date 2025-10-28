@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2025-10-28T09:12:22.082Z",
+  "generatedAt": "2025-10-28T10:12:31.662Z",
   "items": [
+    {
+      "title": "FPC’s welcoming statement for policy statement (PS) 20/25 – The Strong and Simple Framework: The simplified capital regime for Small Domestic Deposit Takers (SDDTs) – near final",
+      "link": "https://www.bankofengland.co.uk/news/2025/october/fpcs-welcoming-statement-for-ps-20-25",
+      "source": "News",
+      "publishedAt": "2025-10-28T10:00:00.000Z",
+      "region": "UK",
+      "summary": "The Financial Policy Committee (FPC) welcomes today the Prudential Regulation Authority’s (PRA’s) policy statement 20/25 – The Strong and Simple Framework: The simplified capital regime for Small Domestic Deposit Takers ",
+      "tags": []
+    },
     {
       "title": "Labour Markets Evaluation and Pilots (LMEP) Fund: funded projects",
       "link": "https://www.gov.uk/government/news/labour-markets-evaluation-and-pilots-lmep-fund-funded-projects",
@@ -1160,21 +1169,12 @@
       ]
     },
     {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
-      "tags": []
-    },
-    {
-      "title": "Monetary Policy Committee dates for 2026",
-      "link": "https://www.bankofengland.co.uk/news/2025/september/monetary-policy-committee-dates-for-2026",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "2026 confirmed dates",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
@@ -1187,12 +1187,21 @@
       "tags": []
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "title": "Monetary Policy Committee dates for 2026",
+      "link": "https://www.bankofengland.co.uk/news/2025/september/monetary-policy-committee-dates-for-2026",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
+      "summary": "2026 confirmed dates",
+      "tags": []
+    },
+    {
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
