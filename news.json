@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-28T08:15:15.725Z",
+  "generatedAt": "2025-10-28T09:12:22.082Z",
   "items": [
     {
       "title": "Labour Markets Evaluation and Pilots (LMEP) Fund: funded projects",
@@ -9,6 +9,45 @@
       "region": "UK",
       "summary": "Details of the pilots and evaluations funded by HM Treasury’s Labour Markets Evaluation and Pilots (LMEP) Fund.",
       "tags": []
+    },
+    {
+      "title": "Senior Appointment at the Hong Kong Monetary Authority",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251028-5/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-10-27T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "HKMA completes e-HKD Pilot Programme and outlines future direction of e-HKD",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251028-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-10-27T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Exchange Fund Bills Tender Results",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251028-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-10-27T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
     },
     {
       "title": "Guidance: Money Laundering Advisory Notice: High Risk Third Countries",
@@ -963,45 +1002,6 @@
       ]
     },
     {
-      "title": "Results of 2025 BIS Triennial Survey of Foreign Exchange and OTC Derivatives Markets Turnover",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250930-9/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-09-29T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "Scam alert related to banks",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250930-8/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-09-29T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "Exchange Fund Bills Tender Results",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/09/20250930-7/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-09-29T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
       "title": "SEC Seeks Public Comment to Improve Rules on Residential Mortgage-Backed Securities and Asset-Backed Securities",
       "link": "https://www.sec.gov/newsroom/press-releases/2025-126-sec-seeks-public-comment-improve-rules-residential-mortgage-backed-securities-asset-backed",
       "source": "Press Releases",
@@ -1160,12 +1160,12 @@
       ]
     },
     {
-      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
@@ -1178,21 +1178,21 @@
       "tags": []
     },
     {
+      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
+      "tags": []
+    },
+    {
       "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
       "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "Exchange of letters between the Governor and the Chancellor",
-      "tags": []
-    },
-    {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
