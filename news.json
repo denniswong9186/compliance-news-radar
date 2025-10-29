@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2025-10-29T13:27:50.815Z",
+  "generatedAt": "2025-10-29T14:11:32.943Z",
   "items": [
+    {
+      "title": "Transparency data: Trade Specialised Committee on Goods",
+      "link": "https://www.gov.uk/government/publications/trade-specialised-committee-on-goods",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-29T14:00:01.000Z",
+      "region": "UK",
+      "summary": "The Specialised Committee monitors the implementation and functioning of the Goods market access and national treatment chapter of the Trade and Cooperation Agreement.",
+      "tags": []
+    },
     {
       "title": "The EBA publishes its final draft technical standards on criteria to assess the materiality of CVA risk exposures arising from securities financing transactions",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-final-draft-technical-standards-criteria-assess-materiality-cva-risk-exposures",
@@ -318,15 +327,6 @@
       "publishedAt": "2025-10-21T14:44:02.000Z",
       "region": "UK",
       "summary": "Nearly a thousand jobs are to be created in a major boost to communities across the UK after over 10 billion in investments were announced at today’s first Regional Investment Summit.",
-      "tags": []
-    },
-    {
-      "title": "Regional Investment Summit speech",
-      "link": "https://www.gov.uk/government/speeches/regional-investment-summit-speech",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-21T14:34:48.000Z",
-      "region": "UK",
-      "summary": "Chancellor of the Exchequer Rachel Reeves delivered her Regional Investment Summit speech on Tuesday 21 October 2025.",
       "tags": []
     },
     {
@@ -1182,12 +1182,12 @@
       ]
     },
     {
-      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
@@ -1200,21 +1200,21 @@
       "tags": []
     },
     {
+      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
+      "tags": []
+    },
+    {
       "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
       "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "Exchange of letters between the Governor and the Chancellor",
-      "tags": []
-    },
-    {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
