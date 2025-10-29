@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2025-10-29T14:11:32.943Z",
+  "generatedAt": "2025-10-29T15:12:03.092Z",
   "items": [
+    {
+      "title": "The Chancellor has appointed David Sturrock to the Council of Economic Advisors",
+      "link": "https://www.gov.uk/government/news/the-chancellor-has-appointed-david-sturrock-to-the-council-of-economic-advisors",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-29T14:40:04.000Z",
+      "region": "UK",
+      "summary": "David Sturrock will provide expert economic advice on the government’s mission to drive economic growth.",
+      "tags": []
+    },
     {
       "title": "Transparency data: Trade Specialised Committee on Goods",
       "link": "https://www.gov.uk/government/publications/trade-specialised-committee-on-goods",
@@ -319,15 +328,6 @@
         "HKMA",
         "Regulator"
       ]
-    },
-    {
-      "title": "Regional Investment Summit delivers almost a thousand jobs for UK communities",
-      "link": "https://www.gov.uk/government/news/regional-investment-summit-delivers-almost-a-thousand-jobs-for-uk-communities",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-21T14:44:02.000Z",
-      "region": "UK",
-      "summary": "Nearly a thousand jobs are to be created in a major boost to communities across the UK after over 10 billion in investments were announced at today’s first Regional Investment Summit.",
-      "tags": []
     },
     {
       "title": "Scam alert related to banks",
@@ -1182,12 +1182,12 @@
       ]
     },
     {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
       "tags": []
     },
     {
@@ -1200,21 +1200,21 @@
       "tags": []
     },
     {
-      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
-      "tags": []
-    },
-    {
       "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
       "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "Exchange of letters between the Governor and the Chancellor",
+      "tags": []
+    },
+    {
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
