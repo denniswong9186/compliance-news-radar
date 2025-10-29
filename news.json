@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2025-10-29T12:20:34.179Z",
+  "generatedAt": "2025-10-29T13:27:50.815Z",
   "items": [
+    {
+      "title": "The EBA publishes its final draft technical standards on criteria to assess the materiality of CVA risk exposures arising from securities financing transactions",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-final-draft-technical-standards-criteria-assess-materiality-cva-risk-exposures",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-10-29T12:50:14.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) published today its final draft Regulatory Technical Standards (RTS) to specify the conditions and the criteria to assess whether the credit valuation adjustment (CVA) risk exposures ",
+      "tags": [
+        "EU",
+        "EBA",
+        "Regulator"
+      ]
+    },
     {
       "title": "Chancellor: Britain will go further and faster on growth with Gulf",
       "link": "https://www.gov.uk/government/news/chancellor-britain-will-go-further-and-faster-on-growth-with-gulf",
@@ -695,19 +708,6 @@
       ]
     },
     {
-      "title": "Anti-money laundering and countering the financing of terrorism supervision of banks is improving, the EBA finds",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/anti-money-laundering-and-countering-financing-terrorism-supervision-banks-improving-eba-finds",
-      "source": "European Banking Authority",
-      "publishedAt": "2025-10-08T14:38:11.000Z",
-      "region": "EU",
-      "summary": "Today, the European Banking Authority (EBA) published a Report that takes stock of the actions taken by all competent authorities to address the EBA’s findings and recommendations. This follows in - depth reviews carried",
-      "tags": [
-        "EU",
-        "EBA",
-        "Regulator"
-      ]
-    },
-    {
       "title": "Minutes of the London FXJSC Main Committee Meeting - 26 June 2025",
       "link": "https://www.bankofengland.co.uk/minutes/2025/june/fxjsc-main-committee-meeting-26-june-2025",
       "source": "News",
@@ -1182,15 +1182,6 @@
       ]
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
-      "tags": []
-    },
-    {
       "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
       "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
       "source": "News",
@@ -1206,6 +1197,15 @@
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "2026 confirmed dates",
+      "tags": []
+    },
+    {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
