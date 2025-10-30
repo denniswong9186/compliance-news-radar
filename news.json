@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2025-10-30T14:10:40.352Z",
+  "generatedAt": "2025-10-30T15:12:17.527Z",
   "items": [
+    {
+      "title": "The EBA advises the European Commission on the foundations of the new anti-money laundering/countering the financing of terrorism regime",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-advises-european-commission-foundations-new-anti-money-launderingcountering-financing-terrorism",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-10-30T14:05:14.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) today responded to the European Commission’s Call for Advice on the key components of the new anti-money laundering/countering the financing of terrorism (AML/CFT) framework. This adv",
+      "tags": [
+        "EU",
+        "EBA",
+        "Regulator"
+      ]
+    },
     {
       "title": "Corporate report: The Bank of England’s wholesale cash distribution oversight regime - Annual Report 2025",
       "link": "https://www.gov.uk/government/publications/the-bank-of-englands-wholesale-cash-distribution-oversight-regime-annual-report-2025",
@@ -734,19 +747,6 @@
       ]
     },
     {
-      "title": "Supervisors should learn from recent cases to prevent financial crime in crypto firms, the EBA says",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/supervisors-should-learn-recent-cases-prevent-financial-crime-crypto-firms-eba-says",
-      "source": "European Banking Authority",
-      "publishedAt": "2025-10-09T08:41:55.000Z",
-      "region": "EU",
-      "summary": "The European Banking Authority (EBA) today published a Report on tackling money laundering and terrorist financing (ML/TF) risks in crypto-asset services, including issuance, trading, and service provision. The Report dr",
-      "tags": [
-        "EU",
-        "EBA",
-        "Regulator"
-      ]
-    },
-    {
       "title": "DFSA and HKMA to co-host second Climate Finance Conference to strengthen sustainable finance through innovation, resilience and cross-border collaboration",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251009-5/",
       "source": "HKMA: Press Releases",
@@ -1195,12 +1195,12 @@
       ]
     },
     {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
       "tags": []
     },
     {
@@ -1213,21 +1213,21 @@
       "tags": []
     },
     {
-      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
-      "tags": []
-    },
-    {
       "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
       "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "Exchange of letters between the Governor and the Chancellor",
+      "tags": []
+    },
+    {
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
