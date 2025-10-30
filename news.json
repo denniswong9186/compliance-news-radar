@@ -1,6 +1,37 @@
 {
-  "generatedAt": "2025-10-30T09:12:26.122Z",
+  "generatedAt": "2025-10-30T10:12:39.010Z",
   "items": [
+    {
+      "title": "Guidance: Who is subject to financial sanctions in the UK?",
+      "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-30T10:02:06.000Z",
+      "region": "UK",
+      "summary": "======================================================================== On 28 January 2026, the OFSI Consolidated List is closing and the UK Sanctions List will be the only source for all UK sanctions designations. See ",
+      "tags": []
+    },
+    {
+      "title": "Guidance: Iran financial sanctions: list of asset-freeze targets",
+      "link": "https://www.gov.uk/government/publications/financial-sanctions-iran",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-30T10:02:00.000Z",
+      "region": "UK",
+      "summary": "This page contains the current list of persons designated under the Iran sanctions regime.",
+      "tags": []
+    },
+    {
+      "title": "Scam alert related to banks",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251030-6/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-10-29T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
     {
       "title": "Tender for the re-opening of 10-year HKD HKSAR Institutional Government Bonds to be held on Wednesday, 5 November 2025",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251030-5/",
@@ -267,15 +298,6 @@
       "tags": []
     },
     {
-      "title": "Guidance: Who is subject to financial sanctions in the UK?",
-      "link": "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-23T14:32:47.000Z",
-      "region": "UK",
-      "summary": "======================================================================== On 28 January 2026, the OFSI Consolidated List is closing and the UK Sanctions List will be the only source for all UK sanctions designations. See ",
-      "tags": []
-    },
-    {
       "title": "Guidance: Russia financial sanctions: list of asset-freeze targets",
       "link": "https://www.gov.uk/government/publications/financial-sanctions-ukraine-sovereignty-and-territorial-integrity",
       "source": "HM Treasury - Activity on GOV.UK",
@@ -344,15 +366,6 @@
       "publishedAt": "2025-10-22T11:10:47.000Z",
       "region": "UK",
       "summary": "Terms of reference for the appointment of David Goldstone CBE as the independent chair of the Office for Value for Money.",
-      "tags": []
-    },
-    {
-      "title": "Policy paper: A new approach to ensure regulators and regulation support growth",
-      "link": "https://www.gov.uk/government/publications/a-new-approach-to-ensure-regulators-and-regulation-support-growth",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-22T09:21:04.000Z",
-      "region": "UK",
-      "summary": "An Action Plan setting out the government's approach to regulation and regulators",
       "tags": []
     },
     {
@@ -862,19 +875,6 @@
       "tags": []
     },
     {
-      "title": "Scam alert related to banks",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251006-5/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-10-05T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
       "title": "Green notice 2025/01",
       "link": "https://www.bankofengland.co.uk/statistics/notice/2025/green-notice-2025-01",
       "source": "News",
@@ -1182,15 +1182,6 @@
       ]
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
-      "tags": []
-    },
-    {
       "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
       "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
       "source": "News",
@@ -1206,6 +1197,15 @@
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "2026 confirmed dates",
+      "tags": []
+    },
+    {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
