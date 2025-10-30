@@ -1,6 +1,45 @@
 {
-  "generatedAt": "2025-10-30T08:14:51.790Z",
+  "generatedAt": "2025-10-30T09:12:26.122Z",
   "items": [
+    {
+      "title": "Tender for the re-opening of 10-year HKD HKSAR Institutional Government Bonds to be held on Wednesday, 5 November 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251030-5/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-10-29T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Tender for the re-opening of 3-year HKD HKSAR Institutional Government Bonds to be held on Wednesday, 5 November 2025",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251030-4/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-10-29T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
+    {
+      "title": "Adjustment of Base Rate",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251030-3/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-10-29T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
+    },
     {
       "title": "Chancellor unlocks £6.4 billion of trade and investment deals on growth boosting Gulf visit",
       "link": "https://www.gov.uk/government/news/chancellor-unlocks-64-billion-of-trade-and-investment-deals-on-growth-boosting-gulf-visit",
@@ -836,32 +875,6 @@
       ]
     },
     {
-      "title": "Exchange Fund Bills Tender Results",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251006-4/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-10-05T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "Coin Collection Programme",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251006-3/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-10-05T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
-    },
-    {
       "title": "Green notice 2025/01",
       "link": "https://www.bankofengland.co.uk/statistics/notice/2025/green-notice-2025-01",
       "source": "News",
@@ -896,19 +909,6 @@
       "region": "UK",
       "summary": "The Bank's Court of Directors acts as a unitary board, setting the organisation's strategy and budget and taking key decisions on resourcing and appointments. Required to meet a minimum seven times per year, it has five ",
       "tags": []
-    },
-    {
-      "title": "Scam alert related to banks",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251003-3/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-10-02T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
-        "Regulator"
-      ]
     },
     {
       "title": "News release: FINTRAC imposes an administrative monetary penalty on HRA Group Holdings",
@@ -1182,6 +1182,15 @@
       ]
     },
     {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
+      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
+      "tags": []
+    },
+    {
       "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
       "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
       "source": "News",
@@ -1197,15 +1206,6 @@
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "2026 confirmed dates",
-      "tags": []
-    },
-    {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
-      "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
       "tags": []
     },
     {
