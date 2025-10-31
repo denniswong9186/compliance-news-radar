@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2025-10-31T11:09:25.193Z",
+  "generatedAt": "2025-10-31T12:20:40.472Z",
   "items": [
+    {
+      "title": "Persistent differences in national loan recovery outcomes reinforce case for EU insolvency harmonisation, the EBA analysis finds",
+      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/persistent-differences-national-loan-recovery-outcomes-reinforce-case-eu-insolvency-harmonisation",
+      "source": "European Banking Authority",
+      "publishedAt": "2025-10-31T12:00:00.000Z",
+      "region": "EU",
+      "summary": "The European Banking Authority (EBA) today published its second Report on the benchmarking of national loan enforcement frameworks across the EU Member States. The Report, which was compiled in response to the EU Commiss",
+      "tags": [
+        "EU",
+        "EBA",
+        "Regulator"
+      ]
+    },
     {
       "title": "Corporate report: National Wealth Fund Limited Annual Report and Accounts 2024–2025",
       "link": "https://www.gov.uk/government/publications/national-wealth-fund-limited-annual-report-and-accounts-2024-2025",
@@ -340,15 +353,6 @@
       "tags": []
     },
     {
-      "title": "Labour Markets Evaluation and Pilots (LMEP) Fund: funded projects",
-      "link": "https://www.gov.uk/government/news/labour-markets-evaluation-and-pilots-lmep-fund-funded-projects",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-27T16:06:36.000Z",
-      "region": "UK",
-      "summary": "Details of the pilots and evaluations funded by HM Treasury’s Labour Markets Evaluation and Pilots (LMEP) Fund.",
-      "tags": []
-    },
-    {
       "title": "Scam alert related to banks",
       "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251028-6/",
       "source": "HKMA: Press Releases",
@@ -425,6 +429,15 @@
       "publishedAt": "2025-10-27T00:00:00.000Z",
       "region": "UK",
       "summary": "Communiqué from meeting held by the Finance: Interministerial Standing Committee on 17 October 2025.",
+      "tags": []
+    },
+    {
+      "title": "Labour Markets Evaluation and Pilots (LMEP) Fund: funded projects",
+      "link": "https://www.gov.uk/government/news/labour-markets-evaluation-and-pilots-lmep-fund-funded-projects",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-27T00:00:00.000Z",
+      "region": "UK",
+      "summary": "Details of the pilots and evaluations funded by HM Treasury’s Labour Markets Evaluation and Pilots (LMEP) Fund.",
       "tags": []
     },
     {
@@ -784,19 +797,6 @@
       "region": "UK",
       "summary": "The Securities Lending Committee is a forum for market participants and authorities to discuss the UK securities lending market.",
       "tags": []
-    },
-    {
-      "title": "The EBA responds to Commission’s proposed changes to the technical standards on liquidity requirements of the reserve of assets under MiCA",
-      "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-responds-commissions-proposed-changes-technical-standards-liquidity-requirements-reserve-assets",
-      "source": "European Banking Authority",
-      "publishedAt": "2025-10-10T08:15:00.000Z",
-      "region": "EU",
-      "summary": "The European Banking Authority (EBA) today published two Opinions in response to the European Commission’s (EC) amendments relating to the draft Regulatory Technical Standards (RTS) specifying the composition and liquidi",
-      "tags": [
-        "EU",
-        "EBA",
-        "Regulator"
-      ]
     },
     {
       "title": "News release: FINTRAC imposes an administrative monetary penalty on DMCL Chartered Professional Accountants",
