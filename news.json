@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2025-10-31T10:12:00.503Z",
+  "generatedAt": "2025-10-31T11:09:25.193Z",
   "items": [
+    {
+      "title": "Corporate report: National Wealth Fund Limited Annual Report and Accounts 2024–2025",
+      "link": "https://www.gov.uk/government/publications/national-wealth-fund-limited-annual-report-and-accounts-2024-2025",
+      "source": "HM Treasury - Activity on GOV.UK",
+      "publishedAt": "2025-10-31T10:43:55.000Z",
+      "region": "UK",
+      "summary": "This is the Annual Report and Accounts for the National Wealth Fund, formerly the UK Infrastructure Bank.",
+      "tags": []
+    },
     {
       "title": "Policy paper: Meeting minutes – July 2025",
       "link": "https://www.gov.uk/government/publications/meeting-minutes-july-2025",
@@ -9,6 +18,19 @@
       "region": "UK",
       "summary": "Minutes from Chancellor of the Exchequer Rachel Reeves' meeting with the Governor of the Bank of England discussing the Bank’s latest Financial Stability Report.",
       "tags": []
+    },
+    {
+      "title": "HKMA reminds public to remain vigilant against phishing messages",
+      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251031-10/",
+      "source": "HKMA: Press Releases",
+      "publishedAt": "2025-10-30T16:00:00.000Z",
+      "region": "Hong Kong",
+      "summary": "Summary unavailable. Open article for details.",
+      "tags": [
+        "Hong Kong",
+        "HKMA",
+        "Regulator"
+      ]
     },
     {
       "title": "Tender for the re-opening of 3-year RMB HKSAR Institutional Government Bonds to be held on Thursday, 6 November 2025",
@@ -464,15 +486,6 @@
       "tags": []
     },
     {
-      "title": "Jobs, homes and better transport links for the Oxford Cambridge Growth Corridor",
-      "link": "https://www.gov.uk/government/news/jobs-homes-and-better-transport-links-for-the-oxford-cambridge-growth-corridor",
-      "source": "HM Treasury - Activity on GOV.UK",
-      "publishedAt": "2025-10-23T13:40:42.000Z",
-      "region": "UK",
-      "summary": "The government is going further and faster on growth with over £500 million investment for new homes, infrastructure and business space for the Oxford to Cambridge Growth Corridor",
-      "tags": []
-    },
-    {
       "title": "The AML/CFT colleges framework is maturing, the EBA finds",
       "link": "https://www.eba.europa.eu/publications-and-media/press-releases/amlcft-colleges-framework-maturing-eba-finds",
       "source": "European Banking Authority",
@@ -751,19 +764,6 @@
       "tags": [
         "EU",
         "EBA",
-        "Regulator"
-      ]
-    },
-    {
-      "title": "Scam alert related to banks",
-      "link": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/10/20251013-3/",
-      "source": "HKMA: Press Releases",
-      "publishedAt": "2025-10-12T16:00:00.000Z",
-      "region": "Hong Kong",
-      "summary": "Summary unavailable. Open article for details.",
-      "tags": [
-        "Hong Kong",
-        "HKMA",
         "Regulator"
       ]
     },
@@ -1195,12 +1195,12 @@
       ]
     },
     {
-      "title": "Bank Rate maintained at 4% - September 2025",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
       "tags": []
     },
     {
@@ -1213,21 +1213,21 @@
       "tags": []
     },
     {
-      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 18 September 2025",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2025/september/apf-gilt-sales-market-notice-18-september-2025",
-      "source": "News",
-      "publishedAt": "2025-09-18T11:00:00.000Z",
-      "region": "UK",
-      "summary": "At its meeting ending on 17 September 2025, the MPC voted to reduce the stock of gilts held in the Asset Purchase Facility (APF) for monetary policy purposes by £70 billion over the next twelve months. This Market Notice",
-      "tags": []
-    },
-    {
       "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2025",
       "link": "https://www.bankofengland.co.uk/letter/2025/september/cpi-inflation-september-2025",
       "source": "News",
       "publishedAt": "2025-09-18T11:00:00.000Z",
       "region": "UK",
       "summary": "Exchange of letters between the Governor and the Chancellor",
+      "tags": []
+    },
+    {
+      "title": "Bank Rate maintained at 4% - September 2025",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+      "source": "News",
+      "publishedAt": "2025-09-18T11:00:00.000Z",
+      "region": "UK",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "tags": []
     },
     {
